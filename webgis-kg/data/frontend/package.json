@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cytoscape-fcose": "^2.2.0",
+    "split.js": "^1.6.5"
+  }
+}
