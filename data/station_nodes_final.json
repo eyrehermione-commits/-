@@ -1,0 +1,6721 @@
+[{
+    "entity_id": "station_武汉_0",
+    "name": "武汉",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.418943,
+      "lat": 30.60985,
+      "original_ids": [
+        "node/579971406"
+      ]
+    }
+  }, {
+    "entity_id": "station_武昌南_1",
+    "name": "武昌南",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.295548,
+      "lat": 30.484428,
+      "original_ids": [
+        "node/582350173"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道华中农大北_2",
+    "name": "南湖大道华中农大北",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.347918,
+      "lat": 30.482819,
+      "original_ids": [
+        "node/1140350477"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道BRT光谷大道_3",
+    "name": "高新大道BRT光谷大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418407,
+      "lat": 30.49684,
+      "original_ids": [
+        "node/1140522955"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道华中农大东_4",
+    "name": "南湖大道华中农大东",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.364758,
+      "lat": 30.483766,
+      "original_ids": [
+        "node/1140523051"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学院南路宋徐湾_5",
+    "name": "大学院南路宋徐湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.38849,
+      "lat": 30.453317,
+      "original_ids": [
+        "node/1143318895"
+      ]
+    }
+  }, {
+    "entity_id": "station_龙城路民族大道口_7",
+    "name": "龙城路民族大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.383876,
+      "lat": 30.46877,
+      "original_ids": [
+        "node/1150802196"
+      ]
+    }
+  }, {
+    "entity_id": "station_龙城路冯徐村_8",
+    "name": "龙城路冯徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.378844,
+      "lat": 30.467596,
+      "original_ids": [
+        "node/1150802209"
+      ]
+    }
+  }, {
+    "entity_id": "station_武大园路武大园二路_9",
+    "name": "武大园路武大园二路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.401772,
+      "lat": 30.455752,
+      "original_ids": [
+        "node/1150841389"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道茶棚村_10",
+    "name": "高新大道茶棚村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.428269,
+      "lat": 30.493431,
+      "original_ids": [
+        "node/1150841416"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路光谷广场_12",
+    "name": "珞喻路光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395683,
+      "lat": 30.508958,
+      "original_ids": [
+        "node/1186764350"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路叶麻店_13",
+    "name": "珞喻东路叶麻店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418217,
+      "lat": 30.509611,
+      "original_ids": [
+        "node/1203947514"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路中航181_14",
+    "name": "鲁磨路中航181",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395393,
+      "lat": 30.518391,
+      "original_ids": [
+        "node/1214589922"
+      ]
+    }
+  }, {
+    "entity_id": "station_佳园路珞喻东路口_15",
+    "name": "佳园路珞喻东路口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.425793,
+      "lat": 30.505775,
+      "original_ids": [
+        "node/1218899346"
+      ]
+    }
+  }, {
+    "entity_id": "station_步行街_16",
+    "name": "步行街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344317,
+      "lat": 30.476004,
+      "original_ids": [
+        "node/1221088116"
+      ]
+    }
+  }, {
+    "entity_id": "station_上街村_17",
+    "name": "上街村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.619618,
+      "lat": 30.533585,
+      "original_ids": [
+        "node/1234450761"
+      ]
+    }
+  }, {
+    "entity_id": "station_何刘_18",
+    "name": "何刘",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.491055,
+      "lat": 30.530811,
+      "original_ids": [
+        "node/1235648681"
+      ]
+    }
+  }, {
+    "entity_id": "station_新店_19",
+    "name": "新店",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.592041,
+      "lat": 30.519908,
+      "original_ids": [
+        "node/1235648697"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道华城新都_20",
+    "name": "雄楚大道华城新都",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386985,
+      "lat": 30.500501,
+      "original_ids": [
+        "node/1252118415"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道民族大道口_21",
+    "name": "雄楚大道民族大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390763,
+      "lat": 30.500287,
+      "original_ids": [
+        "node/1252118442"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道关西小区_22",
+    "name": "雄楚大道关西小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.382009,
+      "lat": 30.50278,
+      "original_ids": [
+        "node/1252118489"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道华城新都_23",
+    "name": "雄楚大道华城新都",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.387324,
+      "lat": 30.500709,
+      "original_ids": [
+        "node/1252118622"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街化工学院_24",
+    "name": "虎泉街化工学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.385518,
+      "lat": 30.507134,
+      "original_ids": [
+        "node/1252153311"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街化工学院_25",
+    "name": "虎泉街化工学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.385492,
+      "lat": 30.507298,
+      "original_ids": [
+        "node/1252153351"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街杨家湾_26",
+    "name": "虎泉街杨家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.377565,
+      "lat": 30.507457,
+      "original_ids": [
+        "node/1252153410"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街杨家湾_27",
+    "name": "虎泉街杨家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.377552,
+      "lat": 30.507395,
+      "original_ids": [
+        "node/1252153416"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道杨家湾_28",
+    "name": "雄楚大道杨家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.374984,
+      "lat": 30.507264,
+      "original_ids": [
+        "node/1252205409"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道光谷广场_29",
+    "name": "民族大道光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393591,
+      "lat": 30.506406,
+      "original_ids": [
+        "node/1252221312"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道光谷广场_30",
+    "name": "民族大道光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393179,
+      "lat": 30.50639,
+      "original_ids": [
+        "node/1252221324"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞珈山_31",
+    "name": "珞珈山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.351542,
+      "lat": 30.534904,
+      "original_ids": [
+        "node/1272837663"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路大黄村_32",
+    "name": "珞喻东路大黄村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.419954,
+      "lat": 30.508813,
+      "original_ids": [
+        "node/1274088362"
+      ]
+    }
+  }, {
+    "entity_id": "station_佳园路创业中心_33",
+    "name": "佳园路创业中心",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.425433,
+      "lat": 30.50238,
+      "original_ids": [
+        "node/1277053817"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道民族大道口_34",
+    "name": "雄楚大道民族大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391326,
+      "lat": 30.500507,
+      "original_ids": [
+        "node/1280137469"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道关西小区_35",
+    "name": "雄楚大道关西小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.382172,
+      "lat": 30.502966,
+      "original_ids": [
+        "node/1280137471"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道上钱村_36",
+    "name": "民族大道上钱村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393046,
+      "lat": 30.50248,
+      "original_ids": [
+        "node/1280137490"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路光谷广场_37",
+    "name": "珞喻路光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.396542,
+      "lat": 30.508558,
+      "original_ids": [
+        "node/1280158956"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路省中医院_38",
+    "name": "珞喻路省中医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.401856,
+      "lat": 30.509381,
+      "original_ids": [
+        "node/1280163391"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路省中医院_39",
+    "name": "珞喻路省中医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.401934,
+      "lat": 30.509808,
+      "original_ids": [
+        "node/1280163395"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路关山口_40",
+    "name": "珞喻路关山口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40583,
+      "lat": 30.509834,
+      "original_ids": [
+        "node/1280163407"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路关山口_41",
+    "name": "珞喻路关山口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40633,
+      "lat": 30.510079,
+      "original_ids": [
+        "node/1280163416"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路广埠屯_42",
+    "name": "珞喻路广埠屯",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.358504,
+      "lat": 30.524711,
+      "original_ids": [
+        "node/1282462416"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路广埠屯_43",
+    "name": "珞喻路广埠屯",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.352692,
+      "lat": 30.527802,
+      "original_ids": [
+        "node/1282462421"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道关山街_44",
+    "name": "关山大道关山街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.406511,
+      "lat": 30.500916,
+      "original_ids": [
+        "node/1282500997"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道汽发社区_45",
+    "name": "关山大道汽发社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.407419,
+      "lat": 30.508466,
+      "original_ids": [
+        "node/1282501122"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道关山街_46",
+    "name": "关山大道关山街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.407222,
+      "lat": 30.504236,
+      "original_ids": [
+        "node/1282501124"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道关南小区_47",
+    "name": "关山大道关南小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403671,
+      "lat": 30.475397,
+      "original_ids": [
+        "node/1282501151"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道太阳城_48",
+    "name": "关山大道太阳城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.405672,
+      "lat": 30.493351,
+      "original_ids": [
+        "node/1282501251"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道汽发社区_49",
+    "name": "关山大道汽发社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.407628,
+      "lat": 30.507405,
+      "original_ids": [
+        "node/1282501387"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道关南小区_50",
+    "name": "关山大道关南小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403248,
+      "lat": 30.475399,
+      "original_ids": [
+        "node/1282501420"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道曙光村_51",
+    "name": "关山大道曙光村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.404649,
+      "lat": 30.485114,
+      "original_ids": [
+        "node/1282501429"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道职业技术学院_52",
+    "name": "关山大道职业技术学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40512,
+      "lat": 30.487867,
+      "original_ids": [
+        "node/1282513687"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道湖电社区_53",
+    "name": "关山大道湖电社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40618,
+      "lat": 30.498351,
+      "original_ids": [
+        "node/1282513690"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道湖电社区_54",
+    "name": "关山大道湖电社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.406272,
+      "lat": 30.497151,
+      "original_ids": [
+        "node/1282513697"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道曙光村_55",
+    "name": "关山大道曙光村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.404687,
+      "lat": 30.484412,
+      "original_ids": [
+        "node/1282513699"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道职业技术学院_56",
+    "name": "关山大道职业技术学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.405051,
+      "lat": 30.488385,
+      "original_ids": [
+        "node/1282513704"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道太阳城_57",
+    "name": "关山大道太阳城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.405732,
+      "lat": 30.492832,
+      "original_ids": [
+        "node/1282513733"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道大彭村_58",
+    "name": "关山大道大彭村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.404279,
+      "lat": 30.480269,
+      "original_ids": [
+        "node/1282518407"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道大彭村_59",
+    "name": "关山大道大彭村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403986,
+      "lat": 30.480645,
+      "original_ids": [
+        "node/1282518409"
+      ]
+    }
+  }, {
+    "entity_id": "station_八一路珞珈山_60",
+    "name": "八一路珞珈山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.354497,
+      "lat": 30.534094,
+      "original_ids": [
+        "node/1369726588"
+      ]
+    }
+  }, {
+    "entity_id": "station_八一路东湖村_61",
+    "name": "八一路东湖村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.368035,
+      "lat": 30.530842,
+      "original_ids": [
+        "node/1370767623"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路北段_62",
+    "name": "珞狮路北段",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.349167,
+      "lat": 30.532932,
+      "original_ids": [
+        "node/1370768019"
+      ]
+    }
+  }, {
+    "entity_id": "station_八一路广八路_63",
+    "name": "八一路广八路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.360433,
+      "lat": 30.532163,
+      "original_ids": [
+        "node/1370768022"
+      ]
+    }
+  }, {
+    "entity_id": "station_八一路东湖村_64",
+    "name": "八一路东湖村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.36193,
+      "lat": 30.53185,
+      "original_ids": [
+        "node/1370768023"
+      ]
+    }
+  }, {
+    "entity_id": "station_广八路邱家村_65",
+    "name": "广八路邱家村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.358749,
+      "lat": 30.530154,
+      "original_ids": [
+        "node/1370770742"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉北路风光村_66",
+    "name": "卓刀泉北路风光村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.371795,
+      "lat": 30.53564,
+      "original_ids": [
+        "node/1371798868"
+      ]
+    }
+  }, {
+    "entity_id": "station_东湖东路风光村_67",
+    "name": "东湖东路风光村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.372759,
+      "lat": 30.5367,
+      "original_ids": [
+        "node/1371798991"
+      ]
+    }
+  }, {
+    "entity_id": "station_东湖东路东湖医院_68",
+    "name": "东湖东路东湖医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.389702,
+      "lat": 30.539202,
+      "original_ids": [
+        "node/1371798996"
+      ]
+    }
+  }, {
+    "entity_id": "station_东湖东路游泳池_69",
+    "name": "东湖东路游泳池",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386675,
+      "lat": 30.537842,
+      "original_ids": [
+        "node/1371799046"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道尤李村_70",
+    "name": "雄楚大道尤李村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.342207,
+      "lat": 30.512464,
+      "original_ids": [
+        "node/1480803437"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道幸福路_71",
+    "name": "雄楚大道幸福路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.34696,
+      "lat": 30.512677,
+      "original_ids": [
+        "node/1480803438"
+      ]
+    }
+  }, {
+    "entity_id": "station_创业街烽火科技_72",
+    "name": "创业街烽火科技",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.42281,
+      "lat": 30.501809,
+      "original_ids": [
+        "node/1627795795"
+      ]
+    }
+  }, {
+    "entity_id": "station_创业街长飞光纤_73",
+    "name": "创业街长飞光纤",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418917,
+      "lat": 30.502108,
+      "original_ids": [
+        "node/1627795805"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道竹林熊_74",
+    "name": "光谷大道竹林熊",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.417771,
+      "lat": 30.505587,
+      "original_ids": [
+        "node/1627795811"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路黄家湾_75",
+    "name": "珞狮路黄家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344841,
+      "lat": 30.520014,
+      "original_ids": [
+        "node/1627803478"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路黄家湾_76",
+    "name": "珞狮路黄家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.345276,
+      "lat": 30.519992,
+      "original_ids": [
+        "node/1627803481"
+      ]
+    }
+  }, {
+    "entity_id": "station_友谊大道华城广场_77",
+    "name": "友谊大道华城广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355342,
+      "lat": 30.608314,
+      "original_ids": [
+        "node/1708325099"
+      ]
+    }
+  }, {
+    "entity_id": "station_土吴路花山_78",
+    "name": "土吴路花山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.516217,
+      "lat": 30.545296,
+      "original_ids": [
+        "node/1722777244"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路九峰_79",
+    "name": "珞喻东路九峰",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.493676,
+      "lat": 30.51292,
+      "original_ids": [
+        "node/1722777247"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路佳园路_80",
+    "name": "珞喻东路佳园路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.426391,
+      "lat": 30.508033,
+      "original_ids": [
+        "node/1722777251"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路佳园路_81",
+    "name": "珞喻东路佳园路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.426402,
+      "lat": 30.50816,
+      "original_ids": [
+        "node/1722777256"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路土桥_82",
+    "name": "珞喻东路土桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.504848,
+      "lat": 30.5212,
+      "original_ids": [
+        "node/1722777259"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路大黄村_83",
+    "name": "珞喻东路大黄村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41995,
+      "lat": 30.508518,
+      "original_ids": [
+        "node/1722777263"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路宝盖峰_84",
+    "name": "珞喻东路宝盖峰",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.488438,
+      "lat": 30.51138,
+      "original_ids": [
+        "node/1722777268"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路森林公园_85",
+    "name": "珞喻东路森林公园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.431754,
+      "lat": 30.507667,
+      "original_ids": [
+        "node/1722777274"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路森林公园_86",
+    "name": "珞喻东路森林公园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.432388,
+      "lat": 30.507837,
+      "original_ids": [
+        "node/1722777275"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路油篓口_87",
+    "name": "珞喻东路油篓口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.43902,
+      "lat": 30.510681,
+      "original_ids": [
+        "node/1722777278"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路油篓口_88",
+    "name": "珞喻东路油篓口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.438923,
+      "lat": 30.510757,
+      "original_ids": [
+        "node/1722777285"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路王家店_89",
+    "name": "珞喻东路王家店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.478181,
+      "lat": 30.508335,
+      "original_ids": [
+        "node/1722777289"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路王家店_90",
+    "name": "珞喻东路王家店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.478542,
+      "lat": 30.508553,
+      "original_ids": [
+        "node/1722777293"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路石门峰公园_91",
+    "name": "珞喻东路石门峰公园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.471779,
+      "lat": 30.508329,
+      "original_ids": [
+        "node/1722777297"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路石门峰公园_92",
+    "name": "珞喻东路石门峰公园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.471224,
+      "lat": 30.508518,
+      "original_ids": [
+        "node/1722777298"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路长山_93",
+    "name": "珞喻东路长山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.444337,
+      "lat": 30.512395,
+      "original_ids": [
+        "node/1722777300"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路长山_94",
+    "name": "珞喻东路长山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.444311,
+      "lat": 30.512507,
+      "original_ids": [
+        "node/1722777301"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路高坡店_95",
+    "name": "珞喻东路高坡店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.459846,
+      "lat": 30.51189,
+      "original_ids": [
+        "node/1722777304"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路高坡店_96",
+    "name": "珞喻东路高坡店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.460674,
+      "lat": 30.512102,
+      "original_ids": [
+        "node/1722777308"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道左家岭_97",
+    "name": "316国道左家岭",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.598519,
+      "lat": 30.527823,
+      "original_ids": [
+        "node/1722782624"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道左岭镇_98",
+    "name": "316国道左岭镇",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.603859,
+      "lat": 30.530597,
+      "original_ids": [
+        "node/1722782626"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道花山小区_99",
+    "name": "316国道花山小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.511159,
+      "lat": 30.521711,
+      "original_ids": [
+        "node/1722782641"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道苏家墩_100",
+    "name": "316国道苏家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.524774,
+      "lat": 30.519162,
+      "original_ids": [
+        "node/1722782642"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路地质大学_101",
+    "name": "鲁磨路地质大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395769,
+      "lat": 30.522246,
+      "original_ids": [
+        "node/1794018538"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街地铁光谷广场_102",
+    "name": "虎泉街地铁光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3911,
+      "lat": 30.508098,
+      "original_ids": [
+        "node/1807282579"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街地铁光谷广场_103",
+    "name": "虎泉街地铁光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391016,
+      "lat": 30.507898,
+      "original_ids": [
+        "node/1807282585"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路光谷广场_104",
+    "name": "鲁磨路光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393828,
+      "lat": 30.512358,
+      "original_ids": [
+        "node/1814595870"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路郑桥村_105",
+    "name": "大学园路郑桥村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395465,
+      "lat": 30.457256,
+      "original_ids": [
+        "node/1814611634"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路化徐村_106",
+    "name": "大学园路化徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.400903,
+      "lat": 30.463564,
+      "original_ids": [
+        "node/1814611641"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路郑桥村_107",
+    "name": "大学园路郑桥村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395928,
+      "lat": 30.457367,
+      "original_ids": [
+        "node/1814611642"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道华夏学院_108",
+    "name": "关山大道华夏学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402923,
+      "lat": 30.469086,
+      "original_ids": [
+        "node/1814611643"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路罗友村_109",
+    "name": "大学园路罗友村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392256,
+      "lat": 30.453085,
+      "original_ids": [
+        "node/1814611649"
+      ]
+    }
+  }, {
+    "entity_id": "station_藏龙大道青龙嘴_110",
+    "name": "藏龙大道青龙嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.394947,
+      "lat": 30.44509,
+      "original_ids": [
+        "node/1814611660"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路化徐村_111",
+    "name": "大学园路化徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40086,
+      "lat": 30.463916,
+      "original_ids": [
+        "node/1814611672"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师园路大学园路口_112",
+    "name": "华师园路大学园路口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393937,
+      "lat": 30.45641,
+      "original_ids": [
+        "node/1814611685"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道华夏学院_113",
+    "name": "关山大道华夏学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403078,
+      "lat": 30.46866,
+      "original_ids": [
+        "node/1814611689"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路罗友村_114",
+    "name": "大学园路罗友村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392199,
+      "lat": 30.452638,
+      "original_ids": [
+        "node/1814611704"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路天成美雅_115",
+    "name": "光谷一路天成美雅",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.433503,
+      "lat": 30.489236,
+      "original_ids": [
+        "node/1814651044"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路曾家垸_116",
+    "name": "光谷一路曾家垸",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.431402,
+      "lat": 30.481191,
+      "original_ids": [
+        "node/1814651076"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道BRT光谷大道_117",
+    "name": "高新大道BRT光谷大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41548,
+      "lat": 30.498515,
+      "original_ids": [
+        "node/1814651079"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道茶棚村_118",
+    "name": "高新大道茶棚村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.42925,
+      "lat": 30.492622,
+      "original_ids": [
+        "node/1814651083"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路湖口湾_119",
+    "name": "光谷一路湖口湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.432691,
+      "lat": 30.485735,
+      "original_ids": [
+        "node/1814651097"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道茶棚_120",
+    "name": "高新大道茶棚",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.421736,
+      "lat": 30.495743,
+      "original_ids": [
+        "node/1814651104"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道茶棚_121",
+    "name": "高新大道茶棚",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.42077,
+      "lat": 30.495701,
+      "original_ids": [
+        "node/1814651109"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路湖口湾_122",
+    "name": "光谷一路湖口湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.432323,
+      "lat": 30.486107,
+      "original_ids": [
+        "node/1814651143"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路天成美雅_123",
+    "name": "光谷一路天成美雅",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.433134,
+      "lat": 30.489276,
+      "original_ids": [
+        "node/1814651155"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道BRT珞雄路_124",
+    "name": "雄楚大道BRT珞雄路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.398575,
+      "lat": 30.500031,
+      "original_ids": [
+        "node/1814708515"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道大彭村_125",
+    "name": "南湖大道大彭村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.407415,
+      "lat": 30.481271,
+      "original_ids": [
+        "node/1814708583"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道大彭村_126",
+    "name": "南湖大道大彭村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.408088,
+      "lat": 30.48128,
+      "original_ids": [
+        "node/1814708639"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道BRT关山大道_127",
+    "name": "雄楚大道BRT关山大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.404057,
+      "lat": 30.4997,
+      "original_ids": [
+        "node/1814708668"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道下钱村_128",
+    "name": "雄楚大道下钱村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393758,
+      "lat": 30.500206,
+      "original_ids": [
+        "node/1814708673"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道下钱村_129",
+    "name": "雄楚大道下钱村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393997,
+      "lat": 30.500358,
+      "original_ids": [
+        "node/1814708676"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道三李陈_130",
+    "name": "光谷大道三李陈",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.414777,
+      "lat": 30.474983,
+      "original_ids": [
+        "node/1814714969"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道三李陈_131",
+    "name": "光谷大道三李陈",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.414562,
+      "lat": 30.474822,
+      "original_ids": [
+        "node/1814714980"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道当代国际花园_132",
+    "name": "光谷大道当代国际花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.414674,
+      "lat": 30.464123,
+      "original_ids": [
+        "node/1814714992"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道陆景苑小区_133",
+    "name": "光谷大道陆景苑小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.416397,
+      "lat": 30.494667,
+      "original_ids": [
+        "node/1818443874"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道凌家山北路_134",
+    "name": "光谷大道凌家山北路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41602,
+      "lat": 30.486128,
+      "original_ids": [
+        "node/1818443879"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道凌家山北路_135",
+    "name": "光谷大道凌家山北路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.415782,
+      "lat": 30.486417,
+      "original_ids": [
+        "node/1818443887"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道关南村_136",
+    "name": "光谷大道关南村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.415296,
+      "lat": 30.480105,
+      "original_ids": [
+        "node/1818443888"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道陆景苑小区_137",
+    "name": "光谷大道陆景苑小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.416623,
+      "lat": 30.494538,
+      "original_ids": [
+        "node/1818443907"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道关南村_138",
+    "name": "光谷大道关南村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41502,
+      "lat": 30.480035,
+      "original_ids": [
+        "node/1818443909"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道山北杨_139",
+    "name": "民族大道山北杨",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.387384,
+      "lat": 30.472713,
+      "original_ids": [
+        "node/1818517454"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道顾庄村_140",
+    "name": "民族大道顾庄村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3834,
+      "lat": 30.459359,
+      "original_ids": [
+        "node/1818517473"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师园路华师一附中_141",
+    "name": "华师园路华师一附中",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.385037,
+      "lat": 30.458263,
+      "original_ids": [
+        "node/1818517478"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道冯徐村_142",
+    "name": "民族大道冯徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386726,
+      "lat": 30.469728,
+      "original_ids": [
+        "node/1818517479"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道冯徐村_143",
+    "name": "民族大道冯徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386557,
+      "lat": 30.469745,
+      "original_ids": [
+        "node/1818517507"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道顾庄村_144",
+    "name": "民族大道顾庄村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.383517,
+      "lat": 30.459333,
+      "original_ids": [
+        "node/1818517595"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道山北杨_145",
+    "name": "民族大道山北杨",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.387636,
+      "lat": 30.472653,
+      "original_ids": [
+        "node/1818517598"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道东山头_146",
+    "name": "民族大道东山头",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.389268,
+      "lat": 30.479173,
+      "original_ids": [
+        "node/1818518606"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道东山头_147",
+    "name": "民族大道东山头",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3893,
+      "lat": 30.478834,
+      "original_ids": [
+        "node/1818518608"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道时间广场_148",
+    "name": "民族大道时间广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392269,
+      "lat": 30.498171,
+      "original_ids": [
+        "node/1818522480"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道纺织大学_149",
+    "name": "民族大道纺织大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390113,
+      "lat": 30.485719,
+      "original_ids": [
+        "node/1818522481"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道时间广场_150",
+    "name": "民族大道时间广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392047,
+      "lat": 30.498191,
+      "original_ids": [
+        "node/1818522483"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道中南民族大学_151",
+    "name": "民族大道中南民族大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39027,
+      "lat": 30.489926,
+      "original_ids": [
+        "node/1818522492"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道中南民族大学_152",
+    "name": "民族大道中南民族大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390501,
+      "lat": 30.489922,
+      "original_ids": [
+        "node/1818522493"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道纺织大学_153",
+    "name": "民族大道纺织大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390317,
+      "lat": 30.485705,
+      "original_ids": [
+        "node/1818522501"
+      ]
+    }
+  }, {
+    "entity_id": "station_武大园路武大园三路_154",
+    "name": "武大园路武大园三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40384,
+      "lat": 30.453255,
+      "original_ids": [
+        "node/1818548891"
+      ]
+    }
+  }, {
+    "entity_id": "station_武大园路武大园一路_155",
+    "name": "武大园路武大园一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.399303,
+      "lat": 30.45723,
+      "original_ids": [
+        "node/1818548893"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉火车站_156",
+    "name": "武汉火车站",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.421128,
+      "lat": 30.610807,
+      "original_ids": [
+        "node/1862925177"
+      ]
+    }
+  }, {
+    "entity_id": "station_岳家嘴_157",
+    "name": "岳家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.356117,
+      "lat": 30.579217,
+      "original_ids": [
+        "node/2134350582"
+      ]
+    }
+  }, {
+    "entity_id": "station_罗家港_158",
+    "name": "罗家港",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.366113,
+      "lat": 30.594769,
+      "original_ids": [
+        "node/2134350583"
+      ]
+    }
+  }, {
+    "entity_id": "station_仁和路_159",
+    "name": "仁和路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.383531,
+      "lat": 30.607394,
+      "original_ids": [
+        "node/2134350585"
+      ]
+    }
+  }, {
+    "entity_id": "station_杨春湖_160",
+    "name": "杨春湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.410729,
+      "lat": 30.607593,
+      "original_ids": [
+        "node/2134350587"
+      ]
+    }
+  }, {
+    "entity_id": "station_工业四路_161",
+    "name": "工业四路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.400068,
+      "lat": 30.610191,
+      "original_ids": [
+        "node/2134350590"
+      ]
+    }
+  }, {
+    "entity_id": "station_园林路_162",
+    "name": "园林路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.371614,
+      "lat": 30.602151,
+      "original_ids": [
+        "node/2134350592"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷广场_163",
+    "name": "光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.392907,
+      "lat": 30.508261,
+      "original_ids": [
+        "node/2283664274"
+      ]
+    }
+  }, {
+    "entity_id": "station_杨家湾_164",
+    "name": "杨家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.376764,
+      "lat": 30.507437,
+      "original_ids": [
+        "node/2283664283"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙四路凌吴墩_165",
+    "name": "白沙四路凌吴墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.269313,
+      "lat": 30.478437,
+      "original_ids": [
+        "node/2397254497"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙四路凌吴墩_166",
+    "name": "白沙四路凌吴墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.269263,
+      "lat": 30.478917,
+      "original_ids": [
+        "node/2397254503"
+      ]
+    }
+  }, {
+    "entity_id": "station_青菱城市花园_167",
+    "name": "青菱城市花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.271033,
+      "lat": 30.475561,
+      "original_ids": [
+        "node/2397258148"
+      ]
+    }
+  }, {
+    "entity_id": "station_青菱城市花园_168",
+    "name": "青菱城市花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.271013,
+      "lat": 30.475902,
+      "original_ids": [
+        "node/2397258151"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道凌吴墩_169",
+    "name": "白沙洲大道凌吴墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.267208,
+      "lat": 30.478086,
+      "original_ids": [
+        "node/2397289915"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道凌吴墩_170",
+    "name": "白沙洲大道凌吴墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.268059,
+      "lat": 30.478362,
+      "original_ids": [
+        "node/2397289916"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道张家湾_171",
+    "name": "白沙洲大道张家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.277572,
+      "lat": 30.492632,
+      "original_ids": [
+        "node/2398267577"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道张家湾_172",
+    "name": "白沙洲大道张家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.2773,
+      "lat": 30.492967,
+      "original_ids": [
+        "node/2398267578"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道青菱乡_173",
+    "name": "白沙洲大道青菱乡",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.271506,
+      "lat": 30.484233,
+      "original_ids": [
+        "node/2398267579"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道青菱乡_174",
+    "name": "白沙洲大道青菱乡",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.271997,
+      "lat": 30.484241,
+      "original_ids": [
+        "node/2398267580"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路方家嘴_175",
+    "name": "卓刀泉南路方家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.360216,
+      "lat": 30.505363,
+      "original_ids": [
+        "node/2398938450"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路方家嘴_176",
+    "name": "卓刀泉南路方家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.360052,
+      "lat": 30.505381,
+      "original_ids": [
+        "node/2398938451"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路虎泉_177",
+    "name": "卓刀泉南路虎泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.362409,
+      "lat": 30.516011,
+      "original_ids": [
+        "node/2398938452"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路虎泉_178",
+    "name": "卓刀泉南路虎泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.362404,
+      "lat": 30.517755,
+      "original_ids": [
+        "node/2398938453"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路陈家湾_179",
+    "name": "卓刀泉南路陈家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.361245,
+      "lat": 30.511561,
+      "original_ids": [
+        "node/2398938454"
+      ]
+    }
+  }, {
+    "entity_id": "station_卓刀泉南路陈家湾_180",
+    "name": "卓刀泉南路陈家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.36156,
+      "lat": 30.511828,
+      "original_ids": [
+        "node/2398938455"
+      ]
+    }
+  }, {
+    "entity_id": "station_武珞路街道口_181",
+    "name": "武珞路街道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.34171,
+      "lat": 30.530903,
+      "original_ids": [
+        "node/2398938466"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路卓刀泉_182",
+    "name": "珞喻路卓刀泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.362354,
+      "lat": 30.522057,
+      "original_ids": [
+        "node/2398938467"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路卓刀泉_183",
+    "name": "珞喻路卓刀泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.361878,
+      "lat": 30.522819,
+      "original_ids": [
+        "node/2398938468"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路广埠屯_184",
+    "name": "珞喻路广埠屯",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.358743,
+      "lat": 30.525076,
+      "original_ids": [
+        "node/2398938469"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街杨家湾地铁_185",
+    "name": "虎泉街杨家湾地铁",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.377313,
+      "lat": 30.507348,
+      "original_ids": [
+        "node/2398956756"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街杨家湾地铁_186",
+    "name": "虎泉街杨家湾地铁",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.377326,
+      "lat": 30.507567,
+      "original_ids": [
+        "node/2398956757"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道杨家湾_187",
+    "name": "雄楚大道杨家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.375663,
+      "lat": 30.507194,
+      "original_ids": [
+        "node/2398956763"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道艾格眼科_188",
+    "name": "雄楚大道艾格眼科",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.36628,
+      "lat": 30.507939,
+      "original_ids": [
+        "node/2398956764"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道艾格眼科_189",
+    "name": "雄楚大道艾格眼科",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.364632,
+      "lat": 30.508233,
+      "original_ids": [
+        "node/2398956765"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道荣军医院_190",
+    "name": "雄楚大道荣军医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.370626,
+      "lat": 30.507203,
+      "original_ids": [
+        "node/2398956766"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道荣军医院_191",
+    "name": "雄楚大道荣军医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.371212,
+      "lat": 30.507506,
+      "original_ids": [
+        "node/2398956767"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道茶山刘_192",
+    "name": "南湖大道茶山刘",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.382661,
+      "lat": 30.481411,
+      "original_ids": [
+        "node/2398972125"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道茶山刘_193",
+    "name": "南湖大道茶山刘",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.382823,
+      "lat": 30.481652,
+      "original_ids": [
+        "node/2398972126"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道上钱村_194",
+    "name": "民族大道上钱村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392828,
+      "lat": 30.502263,
+      "original_ids": [
+        "node/2398972127"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街下马庄_195",
+    "name": "虎泉街下马庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.373689,
+      "lat": 30.508472,
+      "original_ids": [
+        "node/2398972199"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街交通学院_196",
+    "name": "虎泉街交通学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.369264,
+      "lat": 30.511311,
+      "original_ids": [
+        "node/2398972200"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街地铁虎泉_197",
+    "name": "虎泉街地铁虎泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.365003,
+      "lat": 30.514792,
+      "original_ids": [
+        "node/2398972201"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉街民政学院_198",
+    "name": "虎泉街民政学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.37194,
+      "lat": 30.509615,
+      "original_ids": [
+        "node/2398972202"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路叶麻店_199",
+    "name": "珞喻东路叶麻店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.412981,
+      "lat": 30.509205,
+      "original_ids": [
+        "node/2398990866"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路东新管委会_200",
+    "name": "珞喻路东新管委会",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.378557,
+      "lat": 30.518122,
+      "original_ids": [
+        "node/2398990867"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路东新管委会_201",
+    "name": "珞喻路东新管委会",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.378414,
+      "lat": 30.518376,
+      "original_ids": [
+        "node/2398990868"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路体院_202",
+    "name": "珞喻路体院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.36923,
+      "lat": 30.520187,
+      "original_ids": [
+        "node/2398990869"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路体院_203",
+    "name": "珞喻路体院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.368812,
+      "lat": 30.520605,
+      "original_ids": [
+        "node/2398990870"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路吴家湾_204",
+    "name": "珞喻路吴家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.385078,
+      "lat": 30.514067,
+      "original_ids": [
+        "node/2398990871"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路吴家湾_205",
+    "name": "珞喻路吴家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.38486,
+      "lat": 30.514533,
+      "original_ids": [
+        "node/2398990872"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路邮科院_206",
+    "name": "珞喻路邮科院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.387832,
+      "lat": 30.511898,
+      "original_ids": [
+        "node/2398990873"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路马家庄_207",
+    "name": "珞喻路马家庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.371709,
+      "lat": 30.519622,
+      "original_ids": [
+        "node/2398990874"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路马家庄_208",
+    "name": "珞喻路马家庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.372749,
+      "lat": 30.519776,
+      "original_ids": [
+        "node/2398990875"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路鲁巷_209",
+    "name": "珞喻路鲁巷",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390414,
+      "lat": 30.509601,
+      "original_ids": [
+        "node/2398990876"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路鲁巷_210",
+    "name": "珞喻路鲁巷",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390694,
+      "lat": 30.509938,
+      "original_ids": [
+        "node/2398990877"
+      ]
+    }
+  }, {
+    "entity_id": "station_长虹桥_211",
+    "name": "长虹桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.30466,
+      "lat": 30.519579,
+      "original_ids": [
+        "node/2401239682"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路中航181_212",
+    "name": "鲁磨路中航181",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39514,
+      "lat": 30.51839,
+      "original_ids": [
+        "node/2401239685"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路光谷广场_213",
+    "name": "鲁磨路光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.393582,
+      "lat": 30.510715,
+      "original_ids": [
+        "node/2401239688"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路光谷广场_214",
+    "name": "鲁磨路光谷广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.394135,
+      "lat": 30.510484,
+      "original_ids": [
+        "node/2401239691"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路南望山_215",
+    "name": "鲁磨路南望山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.399406,
+      "lat": 30.526416,
+      "original_ids": [
+        "node/2401239692"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路南望山_216",
+    "name": "鲁磨路南望山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.399296,
+      "lat": 30.526522,
+      "original_ids": [
+        "node/2401239693"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路地质大学_217",
+    "name": "鲁磨路地质大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.396123,
+      "lat": 30.522045,
+      "original_ids": [
+        "node/2401239694"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路曹家湾_218",
+    "name": "鲁磨路曹家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.394183,
+      "lat": 30.514064,
+      "original_ids": [
+        "node/2401239695"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路曹家湾_219",
+    "name": "鲁磨路曹家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39471,
+      "lat": 30.514824,
+      "original_ids": [
+        "node/2401239696"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖公交场_220",
+    "name": "南湖公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.308287,
+      "lat": 30.499653,
+      "original_ids": [
+        "node/2401362705"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道张吴湾_221",
+    "name": "南湖大道张吴湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.324833,
+      "lat": 30.48382,
+      "original_ids": [
+        "node/2401362710"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道张吴湾_222",
+    "name": "南湖大道张吴湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.325172,
+      "lat": 30.483977,
+      "original_ids": [
+        "node/2401362714"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道徐家墩_223",
+    "name": "南湖大道徐家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.309169,
+      "lat": 30.484609,
+      "original_ids": [
+        "node/2401362717"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道徐家墩_224",
+    "name": "南湖大道徐家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.308902,
+      "lat": 30.484854,
+      "original_ids": [
+        "node/2401362718"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道省农科院_225",
+    "name": "南湖大道省农科院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.316625,
+      "lat": 30.484234,
+      "original_ids": [
+        "node/2401362719"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道省农科院_226",
+    "name": "南湖大道省农科院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.316641,
+      "lat": 30.48439,
+      "original_ids": [
+        "node/2401362722"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道花木城_227",
+    "name": "南湖大道花木城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328358,
+      "lat": 30.483291,
+      "original_ids": [
+        "node/2401362724"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道花木城_228",
+    "name": "南湖大道花木城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328519,
+      "lat": 30.483452,
+      "original_ids": [
+        "node/2401362728"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道马湖_229",
+    "name": "南湖大道马湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.321333,
+      "lat": 30.483972,
+      "original_ids": [
+        "node/2401362731"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道马湖_230",
+    "name": "南湖大道马湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.321306,
+      "lat": 30.484169,
+      "original_ids": [
+        "node/2401362734"
+      ]
+    }
+  }, {
+    "entity_id": "station_恒安路新千家街_231",
+    "name": "恒安路新千家街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.309502,
+      "lat": 30.498574,
+      "original_ids": [
+        "node/2401362736"
+      ]
+    }
+  }, {
+    "entity_id": "station_恒安路新千家街_232",
+    "name": "恒安路新千家街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.309769,
+      "lat": 30.498581,
+      "original_ids": [
+        "node/2401362739"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路东方桥_233",
+    "name": "李纸路东方桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.308146,
+      "lat": 30.494398,
+      "original_ids": [
+        "node/2401362742"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路东方桥_234",
+    "name": "李纸路东方桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.30799,
+      "lat": 30.494465,
+      "original_ids": [
+        "node/2401362745"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路华工分校_235",
+    "name": "李纸路华工分校",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.307536,
+      "lat": 30.489395,
+      "original_ids": [
+        "node/2401362752"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路华工分校_236",
+    "name": "李纸路华工分校",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.307177,
+      "lat": 30.489438,
+      "original_ids": [
+        "node/2401362755"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路傅家嘴_237",
+    "name": "珞狮路傅家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.335202,
+      "lat": 30.495463,
+      "original_ids": [
+        "node/2401362757"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路傅家嘴_238",
+    "name": "珞狮路傅家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.33483,
+      "lat": 30.495542,
+      "original_ids": [
+        "node/2401362760"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路北港村_239",
+    "name": "珞狮路北港村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.339514,
+      "lat": 30.503351,
+      "original_ids": [
+        "node/2401362763"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路北港村_240",
+    "name": "珞狮路北港村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.339094,
+      "lat": 30.503357,
+      "original_ids": [
+        "node/2401362766"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路南湖山庄_241",
+    "name": "珞狮路南湖山庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333948,
+      "lat": 30.491251,
+      "original_ids": [
+        "node/2401362769"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路南湖山庄_242",
+    "name": "珞狮路南湖山庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333574,
+      "lat": 30.491328,
+      "original_ids": [
+        "node/2401362772"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路壕沟_243",
+    "name": "珞狮路壕沟",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333409,
+      "lat": 30.482686,
+      "original_ids": [
+        "node/2401362774"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路壕沟_244",
+    "name": "珞狮路壕沟",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333812,
+      "lat": 30.482727,
+      "original_ids": [
+        "node/2401362777"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路幸福村_245",
+    "name": "珞狮路幸福村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.342476,
+      "lat": 30.508758,
+      "original_ids": [
+        "node/2401362780"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路幸福村_246",
+    "name": "珞狮路幸福村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.342111,
+      "lat": 30.508826,
+      "original_ids": [
+        "node/2401362783"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路澳新学院_247",
+    "name": "珞狮路澳新学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333772,
+      "lat": 30.486736,
+      "original_ids": [
+        "node/2401362786"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路澳新学院_248",
+    "name": "珞狮路澳新学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333364,
+      "lat": 30.486745,
+      "original_ids": [
+        "node/2401362789"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路狮城名居_249",
+    "name": "珞狮路狮城名居",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.343377,
+      "lat": 30.511177,
+      "original_ids": [
+        "node/2401362796"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道元宝山_250",
+    "name": "雄楚大道元宝山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355741,
+      "lat": 30.511924,
+      "original_ids": [
+        "node/2401363174"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道元宝山_251",
+    "name": "雄楚大道元宝山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355804,
+      "lat": 30.512194,
+      "original_ids": [
+        "node/2401363175"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道桂元路_252",
+    "name": "雄楚大道桂元路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.351361,
+      "lat": 30.512435,
+      "original_ids": [
+        "node/2401363176"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道桂元路_253",
+    "name": "雄楚大道桂元路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.351579,
+      "lat": 30.512765,
+      "original_ids": [
+        "node/2401363177"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道陈家湾_254",
+    "name": "雄楚大道陈家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.359814,
+      "lat": 30.510318,
+      "original_ids": [
+        "node/2401363178"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道陈家湾_255",
+    "name": "雄楚大道陈家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.359434,
+      "lat": 30.510856,
+      "original_ids": [
+        "node/2401363179"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖路新益洲_256",
+    "name": "南湖路新益洲",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.303964,
+      "lat": 30.511757,
+      "original_ids": [
+        "node/2401390673"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖路雅安街_257",
+    "name": "南湖路雅安街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.304005,
+      "lat": 30.515374,
+      "original_ids": [
+        "node/2401390677"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路徐家墩_258",
+    "name": "李纸路徐家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.307961,
+      "lat": 30.483268,
+      "original_ids": [
+        "node/2401390682"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路徐家墩_259",
+    "name": "李纸路徐家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.30778,
+      "lat": 30.483345,
+      "original_ids": [
+        "node/2401390683"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路新余家湾_260",
+    "name": "李纸路新余家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.307676,
+      "lat": 30.478407,
+      "original_ids": [
+        "node/2401390684"
+      ]
+    }
+  }, {
+    "entity_id": "station_李纸路新余家湾_261",
+    "name": "李纸路新余家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.307877,
+      "lat": 30.478407,
+      "original_ids": [
+        "node/2401390685"
+      ]
+    }
+  }, {
+    "entity_id": "station_武南铁路新村_262",
+    "name": "武南铁路新村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.299783,
+      "lat": 30.477543,
+      "original_ids": [
+        "node/2401390686"
+      ]
+    }
+  }, {
+    "entity_id": "station_武南铁路新村_263",
+    "name": "武南铁路新村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.29978,
+      "lat": 30.477665,
+      "original_ids": [
+        "node/2401390687"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖工南门_264",
+    "name": "湖工南门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.304707,
+      "lat": 30.477732,
+      "original_ids": [
+        "node/2401390688"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖工南门_265",
+    "name": "湖工南门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.304694,
+      "lat": 30.477822,
+      "original_ids": [
+        "node/2401390689"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道公交场_266",
+    "name": "关山大道公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403012,
+      "lat": 30.472136,
+      "original_ids": [
+        "node/2401413722"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道公交场_267",
+    "name": "关山大道公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.403014,
+      "lat": 30.47228,
+      "original_ids": [
+        "node/2401413723"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖北科技职业学院_268",
+    "name": "湖北科技职业学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.397003,
+      "lat": 30.475165,
+      "original_ids": [
+        "node/2418518755"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖北科技职业学院_269",
+    "name": "湖北科技职业学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39678,
+      "lat": 30.475178,
+      "original_ids": [
+        "node/2418518756"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园一路关南小区_270",
+    "name": "软件园一路关南小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402293,
+      "lat": 30.476063,
+      "original_ids": [
+        "node/2418518761"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园一路关南小区_271",
+    "name": "软件园一路关南小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402297,
+      "lat": 30.476259,
+      "original_ids": [
+        "node/2418518762"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园一路_272",
+    "name": "软件园一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.398591,
+      "lat": 30.475939,
+      "original_ids": [
+        "node/2418518763"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园一路_273",
+    "name": "软件园一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.398503,
+      "lat": 30.476087,
+      "original_ids": [
+        "node/2418518764"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道省出版城_274",
+    "name": "雄楚大道省出版城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.337447,
+      "lat": 30.513177,
+      "original_ids": [
+        "node/2418518771"
+      ]
+    }
+  }, {
+    "entity_id": "station_创业街大贺村_275",
+    "name": "创业街大贺村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41511,
+      "lat": 30.502945,
+      "original_ids": [
+        "node/2418537348"
+      ]
+    }
+  }, {
+    "entity_id": "station_华侨城公交场_276",
+    "name": "华侨城公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39365,
+      "lat": 30.599512,
+      "original_ids": [
+        "node/2418537352"
+      ]
+    }
+  }, {
+    "entity_id": "station_华侨城公交场_277",
+    "name": "华侨城公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392954,
+      "lat": 30.599874,
+      "original_ids": [
+        "node/2418537356"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道公交场_278",
+    "name": "欢乐大道公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.396535,
+      "lat": 30.600346,
+      "original_ids": [
+        "node/2418537358"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道危家湾_279",
+    "name": "欢乐大道危家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.379856,
+      "lat": 30.593751,
+      "original_ids": [
+        "node/2418537362"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道危家湾_280",
+    "name": "欢乐大道危家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.379355,
+      "lat": 30.593931,
+      "original_ids": [
+        "node/2418537365"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道岳家嘴_281",
+    "name": "欢乐大道岳家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.361306,
+      "lat": 30.584887,
+      "original_ids": [
+        "node/2418537369"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道岳家嘴_282",
+    "name": "欢乐大道岳家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.361882,
+      "lat": 30.585023,
+      "original_ids": [
+        "node/2418537372"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道杨家西湾_283",
+    "name": "欢乐大道杨家西湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.366144,
+      "lat": 30.58737,
+      "original_ids": [
+        "node/2418537375"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道杨家西湾_284",
+    "name": "欢乐大道杨家西湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.365895,
+      "lat": 30.587557,
+      "original_ids": [
+        "node/2418537378"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道红庙_285",
+    "name": "欢乐大道红庙",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3734,
+      "lat": 30.591202,
+      "original_ids": [
+        "node/2418537382"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道红庙_286",
+    "name": "欢乐大道红庙",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.375213,
+      "lat": 30.591509,
+      "original_ids": [
+        "node/2418537385"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路北段_287",
+    "name": "珞狮路北段",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.349211,
+      "lat": 30.532153,
+      "original_ids": [
+        "node/2418537387"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街东湖中学_288",
+    "name": "徐东大街东湖中学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.363514,
+      "lat": 30.577618,
+      "original_ids": [
+        "node/2418582843"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街省电大厦_289",
+    "name": "徐东大街省电大厦",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.359539,
+      "lat": 30.578383,
+      "original_ids": [
+        "node/2418582845"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道乔木湾_290",
+    "name": "白沙洲大道乔木湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.284407,
+      "lat": 30.500927,
+      "original_ids": [
+        "node/2418603890"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道乔木湾_291",
+    "name": "白沙洲大道乔木湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.283953,
+      "lat": 30.50108,
+      "original_ids": [
+        "node/2418603894"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道余家湾_292",
+    "name": "白沙洲大道余家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.287304,
+      "lat": 30.503798,
+      "original_ids": [
+        "node/2418603896"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道余家湾_293",
+    "name": "白沙洲大道余家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.287666,
+      "lat": 30.505015,
+      "original_ids": [
+        "node/2418603899"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道八坦路_294",
+    "name": "白沙洲大道八坦路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.279788,
+      "lat": 30.495752,
+      "original_ids": [
+        "node/2418603902"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道八坦路_295",
+    "name": "白沙洲大道八坦路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.279201,
+      "lat": 30.495962,
+      "original_ids": [
+        "node/2418603903"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道农产品市场_296",
+    "name": "白沙洲大道农产品市场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.264277,
+      "lat": 30.46692,
+      "original_ids": [
+        "node/2418603904"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道农产品市场_297",
+    "name": "白沙洲大道农产品市场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.264781,
+      "lat": 30.466905,
+      "original_ids": [
+        "node/2418603905"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道罗家村_298",
+    "name": "白沙洲大道罗家村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26993,
+      "lat": 30.481114,
+      "original_ids": [
+        "node/2418603912"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道罗家村_299",
+    "name": "白沙洲大道罗家村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26935,
+      "lat": 30.481174,
+      "original_ids": [
+        "node/2418603913"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道长江工商学院_300",
+    "name": "白沙洲大道长江工商学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26431,
+      "lat": 30.460679,
+      "original_ids": [
+        "node/2418603914"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道长江工商学院_301",
+    "name": "白沙洲大道长江工商学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26399,
+      "lat": 30.460759,
+      "original_ids": [
+        "node/2418603915"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道青菱寺_302",
+    "name": "白沙洲大道青菱寺",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.264276,
+      "lat": 30.463077,
+      "original_ids": [
+        "node/2418603916"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道青菱寺_303",
+    "name": "白沙洲大道青菱寺",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.264813,
+      "lat": 30.46305,
+      "original_ids": [
+        "node/2418603917"
+      ]
+    }
+  }, {
+    "entity_id": "station_丽水南路东澜岸_304",
+    "name": "丽水南路东澜岸",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.263314,
+      "lat": 30.436686,
+      "original_ids": [
+        "node/2418603953"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路中医药大学_305",
+    "name": "黄家湖西路中医药大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.262842,
+      "lat": 30.454915,
+      "original_ids": [
+        "node/2418603954"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路中医药大学_306",
+    "name": "黄家湖西路中医药大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.263072,
+      "lat": 30.45484,
+      "original_ids": [
+        "node/2418603955"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路武科大_307",
+    "name": "黄家湖西路武科大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.257251,
+      "lat": 30.443665,
+      "original_ids": [
+        "node/2418603958"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路武科大_308",
+    "name": "黄家湖西路武科大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.256995,
+      "lat": 30.443518,
+      "original_ids": [
+        "node/2418603959"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路岐黄南路_309",
+    "name": "黄家湖西路岐黄南路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.260228,
+      "lat": 30.449878,
+      "original_ids": [
+        "node/2418603960"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路岐黄南路_310",
+    "name": "黄家湖西路岐黄南路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.260032,
+      "lat": 30.449923,
+      "original_ids": [
+        "node/2418603961"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路黄家湖_311",
+    "name": "黄家湖西路黄家湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.258333,
+      "lat": 30.446429,
+      "original_ids": [
+        "node/2418603962"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖西路黄家湖_312",
+    "name": "黄家湖西路黄家湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.258059,
+      "lat": 30.446351,
+      "original_ids": [
+        "node/2418603963"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街岳家嘴_313",
+    "name": "徐东大街岳家嘴",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.353909,
+      "lat": 30.580721,
+      "original_ids": [
+        "node/2418671174"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街地铁徐东_314",
+    "name": "徐东大街地铁徐东",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.340489,
+      "lat": 30.590826,
+      "original_ids": [
+        "node/2418671179"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街地铁汪家墩_315",
+    "name": "徐东大街地铁汪家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344852,
+      "lat": 30.587533,
+      "original_ids": [
+        "node/2418671185"
+      ]
+    }
+  }, {
+    "entity_id": "station_徐东大街汪家墩_316",
+    "name": "徐东大街汪家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.35079,
+      "lat": 30.583062,
+      "original_ids": [
+        "node/2418671190"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道和平村_317",
+    "name": "欢乐大道和平村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402894,
+      "lat": 30.601195,
+      "original_ids": [
+        "node/2418671195"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道和平村_318",
+    "name": "欢乐大道和平村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402864,
+      "lat": 30.601555,
+      "original_ids": [
+        "node/2418671201"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道欢乐谷_319",
+    "name": "欢乐大道欢乐谷",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.390013,
+      "lat": 30.598453,
+      "original_ids": [
+        "node/2418671205"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道欢乐谷_320",
+    "name": "欢乐大道欢乐谷",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.389638,
+      "lat": 30.598721,
+      "original_ids": [
+        "node/2418671210"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道白马洲_321",
+    "name": "欢乐大道白马洲",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.408466,
+      "lat": 30.601319,
+      "original_ids": [
+        "node/2418671215"
+      ]
+    }
+  }, {
+    "entity_id": "station_欢乐大道白马洲_322",
+    "name": "欢乐大道白马洲",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.408424,
+      "lat": 30.601647,
+      "original_ids": [
+        "node/2418671221"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道中国十五冶_323",
+    "name": "高新大道中国十五冶",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.505168,
+      "lat": 30.491329,
+      "original_ids": [
+        "node/2418716971"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道中国十五冶_324",
+    "name": "高新大道中国十五冶",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.505115,
+      "lat": 30.491885,
+      "original_ids": [
+        "node/2418716972"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷一路_325",
+    "name": "高新大道光谷一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.437566,
+      "lat": 30.49127,
+      "original_ids": [
+        "node/2418716973"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷一路_326",
+    "name": "高新大道光谷一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.437518,
+      "lat": 30.491748,
+      "original_ids": [
+        "node/2418716974"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷三路_327",
+    "name": "高新大道光谷三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.473088,
+      "lat": 30.489475,
+      "original_ids": [
+        "node/2418716977"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷三路_328",
+    "name": "高新大道光谷三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.472819,
+      "lat": 30.489973,
+      "original_ids": [
+        "node/2418716978"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷五路_329",
+    "name": "高新大道光谷五路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.496082,
+      "lat": 30.491563,
+      "original_ids": [
+        "node/2418716979"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷五路_330",
+    "name": "高新大道光谷五路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.496028,
+      "lat": 30.492119,
+      "original_ids": [
+        "node/2418716980"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷四路_331",
+    "name": "高新大道光谷四路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.484899,
+      "lat": 30.491019,
+      "original_ids": [
+        "node/2418716983"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷四路_332",
+    "name": "高新大道光谷四路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.484846,
+      "lat": 30.491575,
+      "original_ids": [
+        "node/2418716984"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道前徐村_333",
+    "name": "高新大道前徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.462414,
+      "lat": 30.487611,
+      "original_ids": [
+        "node/2418716985"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道前徐村_334",
+    "name": "高新大道前徐村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.462207,
+      "lat": 30.488113,
+      "original_ids": [
+        "node/2418716986"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道加速园区_335",
+    "name": "高新大道加速园区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.624817,
+      "lat": 30.491152,
+      "original_ids": [
+        "node/2418716987"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道加速园区_336",
+    "name": "高新大道加速园区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.624764,
+      "lat": 30.491708,
+      "original_ids": [
+        "node/2418716988"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道罗庄_337",
+    "name": "高新大道罗庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.604938,
+      "lat": 30.48942,
+      "original_ids": [
+        "node/2418716995"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道罗庄_338",
+    "name": "高新大道罗庄",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.604884,
+      "lat": 30.489976,
+      "original_ids": [
+        "node/2418716996"
+      ]
+    }
+  }, {
+    "entity_id": "station_野芷湖西路马湖_339",
+    "name": "野芷湖西路马湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.32026,
+      "lat": 30.482469,
+      "original_ids": [
+        "node/2438341069"
+      ]
+    }
+  }, {
+    "entity_id": "station_东山公交场_340",
+    "name": "东山公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392727,
+      "lat": 30.466714,
+      "original_ids": [
+        "node/2438751562"
+      ]
+    }
+  }, {
+    "entity_id": "station_东山公交场_341",
+    "name": "东山公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.392712,
+      "lat": 30.466912,
+      "original_ids": [
+        "node/2438751563"
+      ]
+    }
+  }, {
+    "entity_id": "station_茅店山东路华夏学院_342",
+    "name": "茅店山东路华夏学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.401043,
+      "lat": 30.469648,
+      "original_ids": [
+        "node/2438751564"
+      ]
+    }
+  }, {
+    "entity_id": "station_茅店山东路华夏学院_343",
+    "name": "茅店山东路华夏学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.401043,
+      "lat": 30.469853,
+      "original_ids": [
+        "node/2438751565"
+      ]
+    }
+  }, {
+    "entity_id": "station_茅店山中路_344",
+    "name": "茅店山中路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395707,
+      "lat": 30.467316,
+      "original_ids": [
+        "node/2438751566"
+      ]
+    }
+  }, {
+    "entity_id": "station_茅店山中路_345",
+    "name": "茅店山中路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.395648,
+      "lat": 30.467559,
+      "original_ids": [
+        "node/2438751567"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路华工东北门_346",
+    "name": "喻家湖路华工东北门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.422062,
+      "lat": 30.520602,
+      "original_ids": [
+        "node/2438783698"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路华工东北门_347",
+    "name": "喻家湖路华工东北门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.421882,
+      "lat": 30.520619,
+      "original_ids": [
+        "node/2438783702"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路喻家湾_348",
+    "name": "喻家湖路喻家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41981,
+      "lat": 30.514866,
+      "original_ids": [
+        "node/2438783705"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路喻家湾_349",
+    "name": "喻家湖路喻家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.419687,
+      "lat": 30.514896,
+      "original_ids": [
+        "node/2438783711"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路黄家店_350",
+    "name": "喻家湖路黄家店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418354,
+      "lat": 30.510285,
+      "original_ids": [
+        "node/2438783714"
+      ]
+    }
+  }, {
+    "entity_id": "station_喻家湖路黄家店_351",
+    "name": "喻家湖路黄家店",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418588,
+      "lat": 30.510288,
+      "original_ids": [
+        "node/2438783718"
+      ]
+    }
+  }, {
+    "entity_id": "station_植物园路小李村_352",
+    "name": "植物园路小李村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.411663,
+      "lat": 30.538447,
+      "original_ids": [
+        "node/2438783722"
+      ]
+    }
+  }, {
+    "entity_id": "station_植物园路小李村_353",
+    "name": "植物园路小李村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.41147,
+      "lat": 30.538546,
+      "original_ids": [
+        "node/2438783726"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路毕阁山_354",
+    "name": "鲁磨路毕阁山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.406995,
+      "lat": 30.531101,
+      "original_ids": [
+        "node/2438783746"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路毕阁山_355",
+    "name": "鲁磨路毕阁山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.406576,
+      "lat": 30.53125,
+      "original_ids": [
+        "node/2438783752"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路茅屋岭_356",
+    "name": "鲁磨路茅屋岭",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.409198,
+      "lat": 30.534122,
+      "original_ids": [
+        "node/2438783757"
+      ]
+    }
+  }, {
+    "entity_id": "station_鲁磨路茅屋岭_357",
+    "name": "鲁磨路茅屋岭",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.409111,
+      "lat": 30.534223,
+      "original_ids": [
+        "node/2438783760"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道东山头_358",
+    "name": "南湖大道东山头",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391832,
+      "lat": 30.482133,
+      "original_ids": [
+        "node/2438816785"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道东山头_359",
+    "name": "南湖大道东山头",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391778,
+      "lat": 30.482318,
+      "original_ids": [
+        "node/2438816793"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道刘家村站（修路临时）_360",
+    "name": "南湖大道刘家村站（修路临时）",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.398003,
+      "lat": 30.48208,
+      "original_ids": [
+        "node/2438816799"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道刘家村_361",
+    "name": "南湖大道刘家村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.396536,
+      "lat": 30.482415,
+      "original_ids": [
+        "node/2438816803"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道华中农大东_362",
+    "name": "南湖大道华中农大东",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.364784,
+      "lat": 30.483936,
+      "original_ids": [
+        "node/2446646216"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道澜花语岸_363",
+    "name": "南湖大道澜花语岸",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.336965,
+      "lat": 30.482434,
+      "original_ids": [
+        "node/2446646217"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道澜花语岸_364",
+    "name": "南湖大道澜花语岸",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.337262,
+      "lat": 30.48265,
+      "original_ids": [
+        "node/2446646220"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道绣球山_365",
+    "name": "南湖大道绣球山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.376177,
+      "lat": 30.48196,
+      "original_ids": [
+        "node/2446646223"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道绣球山_366",
+    "name": "南湖大道绣球山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.376244,
+      "lat": 30.482146,
+      "original_ids": [
+        "node/2446646224"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖大道华中农大北_367",
+    "name": "南湖大道华中农大北",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.347801,
+      "lat": 30.482921,
+      "original_ids": [
+        "node/2446646225"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路南泥湾_368",
+    "name": "大学园路南泥湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.383561,
+      "lat": 30.444893,
+      "original_ids": [
+        "node/2446646226"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路南泥湾_369",
+    "name": "大学园路南泥湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.383665,
+      "lat": 30.445241,
+      "original_ids": [
+        "node/2446646227"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路庙山_370",
+    "name": "大学园路庙山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.380242,
+      "lat": 30.442276,
+      "original_ids": [
+        "node/2446646228"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路庙山_371",
+    "name": "大学园路庙山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.380522,
+      "lat": 30.442977,
+      "original_ids": [
+        "node/2446646229"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路长城园二路_372",
+    "name": "大学园路长城园二路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386401,
+      "lat": 30.446434,
+      "original_ids": [
+        "node/2446646230"
+      ]
+    }
+  }, {
+    "entity_id": "station_大学园路长城园二路_373",
+    "name": "大学园路长城园二路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.386505,
+      "lat": 30.446783,
+      "original_ids": [
+        "node/2446646231"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道大学园南路_374",
+    "name": "民族大道大学园南路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.382224,
+      "lat": 30.454708,
+      "original_ids": [
+        "node/2446646238"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道大学园南路_375",
+    "name": "民族大道大学园南路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.381901,
+      "lat": 30.454764,
+      "original_ids": [
+        "node/2446646239"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道枫叶学校_376",
+    "name": "民族大道枫叶学校",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.380545,
+      "lat": 30.449545,
+      "original_ids": [
+        "node/2446646240"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道枫叶学校_377",
+    "name": "民族大道枫叶学校",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.380135,
+      "lat": 30.449635,
+      "original_ids": [
+        "node/2446646241"
+      ]
+    }
+  }, {
+    "entity_id": "station_玉龙岛民族大道口_378",
+    "name": "玉龙岛民族大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.37766,
+      "lat": 30.442969,
+      "original_ids": [
+        "node/2446646242"
+      ]
+    }
+  }, {
+    "entity_id": "station_玉龙岛民族大道口_379",
+    "name": "玉龙岛民族大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.377665,
+      "lat": 30.443158,
+      "original_ids": [
+        "node/2446646243"
+      ]
+    }
+  }, {
+    "entity_id": "station_玉龙岛花园_380",
+    "name": "玉龙岛花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.372894,
+      "lat": 30.442285,
+      "original_ids": [
+        "node/2446646244"
+      ]
+    }
+  }, {
+    "entity_id": "station_玉龙岛花园_381",
+    "name": "玉龙岛花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.372866,
+      "lat": 30.442444,
+      "original_ids": [
+        "node/2446646245"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路出版城_382",
+    "name": "书城路出版城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.336009,
+      "lat": 30.512341,
+      "original_ids": [
+        "node/2446657795"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路出版城_383",
+    "name": "书城路出版城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.335813,
+      "lat": 30.512384,
+      "original_ids": [
+        "node/2446657796"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路北港春苑_384",
+    "name": "书城路北港春苑",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.334041,
+      "lat": 30.507691,
+      "original_ids": [
+        "node/2446657797"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路北港春苑_385",
+    "name": "书城路北港春苑",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333828,
+      "lat": 30.507814,
+      "original_ids": [
+        "node/2446657798"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路南湖大道_386",
+    "name": "书城路南湖大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.327016,
+      "lat": 30.484832,
+      "original_ids": [
+        "node/2446657799"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路南湖大道_387",
+    "name": "书城路南湖大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.326812,
+      "lat": 30.484868,
+      "original_ids": [
+        "node/2446657800"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路大华社区_388",
+    "name": "书城路大华社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.329084,
+      "lat": 30.495264,
+      "original_ids": [
+        "node/2446657801"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路大华社区_389",
+    "name": "书城路大华社区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328919,
+      "lat": 30.495304,
+      "original_ids": [
+        "node/2446657802"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路文治街_390",
+    "name": "书城路文治街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.332007,
+      "lat": 30.504336,
+      "original_ids": [
+        "node/2446657803"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路文治街_391",
+    "name": "书城路文治街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.331783,
+      "lat": 30.504392,
+      "original_ids": [
+        "node/2446657804"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路文祥路_392",
+    "name": "书城路文祥路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.327842,
+      "lat": 30.49126,
+      "original_ids": [
+        "node/2446657805"
+      ]
+    }
+  }, {
+    "entity_id": "station_书城路文祥路_393",
+    "name": "书城路文祥路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.327655,
+      "lat": 30.491376,
+      "original_ids": [
+        "node/2446657806"
+      ]
+    }
+  }, {
+    "entity_id": "station_学院路周家湾_394",
+    "name": "学院路周家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.339563,
+      "lat": 30.479509,
+      "original_ids": [
+        "node/2446657809"
+      ]
+    }
+  }, {
+    "entity_id": "station_学院路周家湾_395",
+    "name": "学院路周家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3396,
+      "lat": 30.479569,
+      "original_ids": [
+        "node/2446657810"
+      ]
+    }
+  }, {
+    "entity_id": "station_学院路狮子山_396",
+    "name": "学院路狮子山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344741,
+      "lat": 30.478268,
+      "original_ids": [
+        "node/2446657811"
+      ]
+    }
+  }, {
+    "entity_id": "station_学院路狮子山_397",
+    "name": "学院路狮子山",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344736,
+      "lat": 30.478348,
+      "original_ids": [
+        "node/2446657812"
+      ]
+    }
+  }, {
+    "entity_id": "station_文昌街金地格林小城_398",
+    "name": "文昌街金地格林小城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.32564,
+      "lat": 30.501735,
+      "original_ids": [
+        "node/2446657813"
+      ]
+    }
+  }, {
+    "entity_id": "station_文昌街金地格林小城_399",
+    "name": "文昌街金地格林小城",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.325337,
+      "lat": 30.501784,
+      "original_ids": [
+        "node/2446657814"
+      ]
+    }
+  }, {
+    "entity_id": "station_文馨街书城路口_400",
+    "name": "文馨街书城路口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328292,
+      "lat": 30.497748,
+      "original_ids": [
+        "node/2446657815"
+      ]
+    }
+  }, {
+    "entity_id": "station_文馨街书城路口_401",
+    "name": "文馨街书城路口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328342,
+      "lat": 30.497895,
+      "original_ids": [
+        "node/2446657816"
+      ]
+    }
+  }, {
+    "entity_id": "station_关南路关南一路_402",
+    "name": "关南路关南一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40766,
+      "lat": 30.47591,
+      "original_ids": [
+        "node/2486503219"
+      ]
+    }
+  }, {
+    "entity_id": "station_关南路关南一路_403",
+    "name": "关南路关南一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.40766,
+      "lat": 30.475948,
+      "original_ids": [
+        "node/2486503220"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道当代学生公寓_404",
+    "name": "民族大道当代学生公寓",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391872,
+      "lat": 30.496585,
+      "original_ids": [
+        "node/2486503221"
+      ]
+    }
+  }, {
+    "entity_id": "station_民族大道当代学生公寓_405",
+    "name": "民族大道当代学生公寓",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.391654,
+      "lat": 30.4968,
+      "original_ids": [
+        "node/2486503222"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园中路_406",
+    "name": "软件园中路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.39742,
+      "lat": 30.478943,
+      "original_ids": [
+        "node/2486503225"
+      ]
+    }
+  }, {
+    "entity_id": "station_软件园中路_407",
+    "name": "软件园中路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.397247,
+      "lat": 30.479327,
+      "original_ids": [
+        "node/2486503226"
+      ]
+    }
+  }, {
+    "entity_id": "station_武昌东_408",
+    "name": "武昌东",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.448152,
+      "lat": 30.556241,
+      "original_ids": [
+        "node/2539553663"
+      ]
+    }
+  }, {
+    "entity_id": "station_校车南湖主教学楼_409",
+    "name": "校车南湖主教学楼",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.328438,
+      "lat": 30.513893,
+      "original_ids": [
+        "node/2733252132"
+      ]
+    }
+  }, {
+    "entity_id": "station_信息学部十六舍_410",
+    "name": "信息学部十六舍",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.352245,
+      "lat": 30.53091,
+      "original_ids": [
+        "node/2787756159"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻二门_411",
+    "name": "珞喻二门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.352891,
+      "lat": 30.529025,
+      "original_ids": [
+        "node/2787756160"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道尤李村_412",
+    "name": "雄楚大道尤李村",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.341649,
+      "lat": 30.512861,
+      "original_ids": [
+        "node/2992196382"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道幸福路_413",
+    "name": "雄楚大道幸福路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.346208,
+      "lat": 30.512199,
+      "original_ids": [
+        "node/2992220519"
+      ]
+    }
+  }, {
+    "entity_id": "station_左岭_414",
+    "name": "左岭",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.605042,
+      "lat": 30.502377,
+      "original_ids": [
+        "node/3377805382"
+      ]
+    }
+  }, {
+    "entity_id": "station_花山南_415",
+    "name": "花山南",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.507665,
+      "lat": 30.530751,
+      "original_ids": [
+        "node/3377805383"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖东_416",
+    "name": "南湖东",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.374811,
+      "lat": 30.468818,
+      "original_ids": [
+        "node/3377844348"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙五路南郊路_417",
+    "name": "白沙五路南郊路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.262035,
+      "lat": 30.47926,
+      "original_ids": [
+        "node/3527724436"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙五路南郊路_418",
+    "name": "白沙五路南郊路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26234,
+      "lat": 30.478959,
+      "original_ids": [
+        "node/3527724437"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙五路长征三路_419",
+    "name": "白沙五路长征三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.254543,
+      "lat": 30.484211,
+      "original_ids": [
+        "node/3527724438"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙五路长征三路_420",
+    "name": "白沙五路长征三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.255519,
+      "lat": 30.483321,
+      "original_ids": [
+        "node/3527724439"
+      ]
+    }
+  }, {
+    "entity_id": "station_万科金色城市公交场_421",
+    "name": "万科金色城市公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.257409,
+      "lat": 30.48584,
+      "original_ids": [
+        "node/3527724440"
+      ]
+    }
+  }, {
+    "entity_id": "station_万科金色城市公交场_422",
+    "name": "万科金色城市公交场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.257307,
+      "lat": 30.485679,
+      "original_ids": [
+        "node/3527724441"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道机电市场_423",
+    "name": "白沙洲大道机电市场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.266199,
+      "lat": 30.476404,
+      "original_ids": [
+        "node/3527724442"
+      ]
+    }
+  }, {
+    "entity_id": "station_武大园路武大园一路_424",
+    "name": "武大园路武大园一路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3983,
+      "lat": 30.457822,
+      "original_ids": [
+        "node/3671745304"
+      ]
+    }
+  }, {
+    "entity_id": "station_万科城市花园_425",
+    "name": "万科城市花园",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.404121,
+      "lat": 30.46208,
+      "original_ids": [
+        "node/3762123107"
+      ]
+    }
+  }, {
+    "entity_id": "station_汤逊湖_426",
+    "name": "汤逊湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.37973,
+      "lat": 30.447616,
+      "original_ids": [
+        "node/3917349566"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路理工大_427",
+    "name": "珞狮路理工大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.345889,
+      "lat": 30.523472,
+      "original_ids": [
+        "node/3996649730"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路理工大_428",
+    "name": "珞狮路理工大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.345545,
+      "lat": 30.523563,
+      "original_ids": [
+        "node/3996649796"
+      ]
+    }
+  }, {
+    "entity_id": "station_出租車停車場_429",
+    "name": "出租車停車場",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.418149,
+      "lat": 30.612185,
+      "original_ids": [
+        "node/4448658498"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉东_430",
+    "name": "武汉东",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.425206,
+      "lat": 30.488616,
+      "original_ids": [
+        "node/4647204763"
+      ]
+    }
+  }, {
+    "entity_id": "station_虎泉_431",
+    "name": "虎泉",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.363749,
+      "lat": 30.515594,
+      "original_ids": [
+        "node/5216576653"
+      ]
+    }
+  }, {
+    "entity_id": "station_铁机路_432",
+    "name": "铁机路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.363749,
+      "lat": 30.586367,
+      "original_ids": [
+        "node/5227950253"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道花山小区_433",
+    "name": "316国道花山小区",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.511159,
+      "lat": 30.521637,
+      "original_ids": [
+        "node/5262354948"
+      ]
+    }
+  }, {
+    "entity_id": "station_316国道苏家墩_434",
+    "name": "316国道苏家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.524762,
+      "lat": 30.519088,
+      "original_ids": [
+        "node/5262354960"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路宝盖峰_435",
+    "name": "珞喻东路宝盖峰",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.488393,
+      "lat": 30.511493,
+      "original_ids": [
+        "node/5262354967"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路九峰_436",
+    "name": "珞喻东路九峰",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.493618,
+      "lat": 30.51303,
+      "original_ids": [
+        "node/5262354969"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路土桥_437",
+    "name": "珞喻东路土桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.504796,
+      "lat": 30.521311,
+      "original_ids": [
+        "node/5262354990"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道BRT关山大道_438",
+    "name": "高新大道BRT关山大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.409219,
+      "lat": 30.499206,
+      "original_ids": [
+        "node/5800236126"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮路狮城名居_439",
+    "name": "珞狮路狮城名居",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.343781,
+      "lat": 30.511087,
+      "original_ids": [
+        "node/5996851398"
+      ]
+    }
+  }, {
+    "entity_id": "station_新路村_440",
+    "name": "新路村",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.312888,
+      "lat": 30.444124,
+      "original_ids": [
+        "node/6169173548"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉东站_442",
+    "name": "武汉东站",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.426163,
+      "lat": 30.489255,
+      "original_ids": [
+        "node/6525493304"
+      ]
+    }
+  }, {
+    "entity_id": "station_街道口_443",
+    "name": "街道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.347792,
+      "lat": 30.528965,
+      "original_ids": [
+        "node/6525493306"
+      ]
+    }
+  }, {
+    "entity_id": "station_雄楚大道BRT珞雄路_444",
+    "name": "雄楚大道BRT珞雄路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402251,
+      "lat": 30.499718,
+      "original_ids": [
+        "node/6579437815"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄龙山路_445",
+    "name": "黄龙山路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.424757,
+      "lat": 30.479895,
+      "original_ids": [
+        "node/6604928159"
+      ]
+    }
+  }, {
+    "entity_id": "station_佳园路_446",
+    "name": "佳园路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.425365,
+      "lat": 30.502453,
+      "original_ids": [
+        "node/6604928161"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷大道_447",
+    "name": "光谷大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.41832,
+      "lat": 30.508847,
+      "original_ids": [
+        "node/6604928163"
+      ]
+    }
+  }, {
+    "entity_id": "station_华中科技大学_448",
+    "name": "华中科技大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.409376,
+      "lat": 30.509657,
+      "original_ids": [
+        "node/6604928165"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞雄路_449",
+    "name": "珞雄路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.399216,
+      "lat": 30.509213,
+      "original_ids": [
+        "node/6604928166"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖北生物科技职业学院_451",
+    "name": "湖北生物科技职业学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.339171,
+      "lat": 30.463784,
+      "original_ids": [
+        "node/7638241896"
+      ]
+    }
+  }, {
+    "entity_id": "station_省农科院_452",
+    "name": "省农科院",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.320512,
+      "lat": 30.484113,
+      "original_ids": [
+        "node/8301451237"
+      ]
+    }
+  }, {
+    "entity_id": "station_文昌路_453",
+    "name": "文昌路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.323769,
+      "lat": 30.494565,
+      "original_ids": [
+        "node/8301451241"
+      ]
+    }
+  }, {
+    "entity_id": "station_文治街_454",
+    "name": "文治街",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.338909,
+      "lat": 30.502964,
+      "original_ids": [
+        "node/8301451246"
+      ]
+    }
+  }, {
+    "entity_id": "station_马湖_455",
+    "name": "马湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.319531,
+      "lat": 30.473758,
+      "original_ids": [
+        "node/8301451248"
+      ]
+    }
+  }, {
+    "entity_id": "station_余家湾_456",
+    "name": "余家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.297566,
+      "lat": 30.505699,
+      "original_ids": [
+        "node/8337379751"
+      ]
+    }
+  }, {
+    "entity_id": "station_野芷湖_457",
+    "name": "野芷湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.313728,
+      "lat": 30.463753,
+      "original_ids": [
+        "node/8383822206"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮南路华中农大_458",
+    "name": "珞狮南路华中农大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.333255,
+      "lat": 30.479399,
+      "original_ids": [
+        "node/8547857339"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞狮南路华中农大_459",
+    "name": "珞狮南路华中农大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.33381,
+      "lat": 30.479866,
+      "original_ids": [
+        "node/8547857340"
+      ]
+    }
+  }, {
+    "entity_id": "station_桃园食堂_460",
+    "name": "桃园食堂",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.356203,
+      "lat": 30.473892,
+      "original_ids": [
+        "node/8733507218"
+      ]
+    }
+  }, {
+    "entity_id": "station_桃园食堂_461",
+    "name": "桃园食堂",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355924,
+      "lat": 30.473889,
+      "original_ids": [
+        "node/8733507219"
+      ]
+    }
+  }, {
+    "entity_id": "station_体育馆_462",
+    "name": "体育馆",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.35579,
+      "lat": 30.475786,
+      "original_ids": [
+        "node/8733507221"
+      ]
+    }
+  }, {
+    "entity_id": "station_体育馆_463",
+    "name": "体育馆",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355713,
+      "lat": 30.475731,
+      "original_ids": [
+        "node/8733507222"
+      ]
+    }
+  }, {
+    "entity_id": "station_狮子山广场_464",
+    "name": "狮子山广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.352962,
+      "lat": 30.475986,
+      "original_ids": [
+        "node/8733507223"
+      ]
+    }
+  }, {
+    "entity_id": "station_狮子山广场_465",
+    "name": "狮子山广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.352962,
+      "lat": 30.47603,
+      "original_ids": [
+        "node/8733507224"
+      ]
+    }
+  }, {
+    "entity_id": "station_园林楼_466",
+    "name": "园林楼",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.350356,
+      "lat": 30.476026,
+      "original_ids": [
+        "node/8733507225"
+      ]
+    }
+  }, {
+    "entity_id": "station_园林楼_467",
+    "name": "园林楼",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.35036,
+      "lat": 30.475976,
+      "original_ids": [
+        "node/8733507226"
+      ]
+    }
+  }, {
+    "entity_id": "station_校医院_468",
+    "name": "校医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.348099,
+      "lat": 30.475971,
+      "original_ids": [
+        "node/8733507227"
+      ]
+    }
+  }, {
+    "entity_id": "station_校医院_469",
+    "name": "校医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.348163,
+      "lat": 30.476038,
+      "original_ids": [
+        "node/8733507228"
+      ]
+    }
+  }, {
+    "entity_id": "station_步行街_470",
+    "name": "步行街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.344309,
+      "lat": 30.476059,
+      "original_ids": [
+        "node/8733507230"
+      ]
+    }
+  }, {
+    "entity_id": "station_香樟路_471",
+    "name": "香樟路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.336564,
+      "lat": 30.477549,
+      "original_ids": [
+        "node/8733507234"
+      ]
+    }
+  }, {
+    "entity_id": "station_香樟路_472",
+    "name": "香樟路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.336562,
+      "lat": 30.47745,
+      "original_ids": [
+        "node/8733507235"
+      ]
+    }
+  }, {
+    "entity_id": "station_西校门_473",
+    "name": "西校门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.334113,
+      "lat": 30.478131,
+      "original_ids": [
+        "node/8733507236"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖北生物科技职业学院_474",
+    "name": "湖北生物科技职业学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.339189,
+      "lat": 30.463908,
+      "original_ids": [
+        "node/8733507238"
+      ]
+    }
+  }, {
+    "entity_id": "station_梧桐路_475",
+    "name": "梧桐路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.342075,
+      "lat": 30.470255,
+      "original_ids": [
+        "node/8733507239"
+      ]
+    }
+  }, {
+    "entity_id": "station_梧桐路_476",
+    "name": "梧桐路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.342108,
+      "lat": 30.470353,
+      "original_ids": [
+        "node/8733507240"
+      ]
+    }
+  }, {
+    "entity_id": "station_西苑北门_477",
+    "name": "西苑北门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.341513,
+      "lat": 30.478901,
+      "original_ids": [
+        "node/8733507241"
+      ]
+    }
+  }, {
+    "entity_id": "station_西苑北门_478",
+    "name": "西苑北门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.341493,
+      "lat": 30.47891,
+      "original_ids": [
+        "node/8733507242"
+      ]
+    }
+  }, {
+    "entity_id": "station_西苑南门_479",
+    "name": "西苑南门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.3412,
+      "lat": 30.476583,
+      "original_ids": [
+        "node/8733507243"
+      ]
+    }
+  }, {
+    "entity_id": "station_西苑南门_480",
+    "name": "西苑南门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.341281,
+      "lat": 30.476451,
+      "original_ids": [
+        "node/8733507244"
+      ]
+    }
+  }, {
+    "entity_id": "station_华中农业大学西大门_481",
+    "name": "华中农业大学西大门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.334851,
+      "lat": 30.477593,
+      "original_ids": [
+        "node/8733507245"
+      ]
+    }
+  }, {
+    "entity_id": "station_华中农业大学西大门_482",
+    "name": "华中农业大学西大门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.334988,
+      "lat": 30.477692,
+      "original_ids": [
+        "node/8733507246"
+      ]
+    }
+  }, {
+    "entity_id": "station_南湖_483",
+    "name": "南湖",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.363526,
+      "lat": 30.466022,
+      "original_ids": [
+        "node/9312874416"
+      ]
+    }
+  }, {
+    "entity_id": "station_中医药大学_484",
+    "name": "中医药大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.263342,
+      "lat": 30.456269,
+      "original_ids": [
+        "node/9371520610"
+      ]
+    }
+  }, {
+    "entity_id": "station_厂前_485",
+    "name": "厂前",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.428868,
+      "lat": 30.613343,
+      "original_ids": [
+        "node/9392495335"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉站东广场_486",
+    "name": "武汉站东广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.421306,
+      "lat": 30.608635,
+      "original_ids": [
+        "node/9392495338"
+      ]
+    }
+  }, {
+    "entity_id": "station_光霞_487",
+    "name": "光霞",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.287584,
+      "lat": 30.480252,
+      "original_ids": [
+        "node/9394704083"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙六路_488",
+    "name": "白沙六路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.28785,
+      "lat": 30.471104,
+      "original_ids": [
+        "node/9394704084"
+      ]
+    }
+  }, {
+    "entity_id": "station_张家湾_489",
+    "name": "张家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.287945,
+      "lat": 30.497906,
+      "original_ids": [
+        "node/9394704090"
+      ]
+    }
+  }, {
+    "entity_id": "station_信息学部一教_490",
+    "name": "信息学部一教",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355109,
+      "lat": 30.529459,
+      "original_ids": [
+        "node/9558228576"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉火车站_491",
+    "name": "武汉火车站",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.419146,
+      "lat": 30.609615,
+      "original_ids": [
+        "node/9606058625"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖大道黄家湖路_492",
+    "name": "黄家湖大道黄家湖路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.294167,
+      "lat": 30.452865,
+      "original_ids": [
+        "node/9970326301"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖大道黄家湖路_493",
+    "name": "黄家湖大道黄家湖路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.293879,
+      "lat": 30.452493,
+      "original_ids": [
+        "node/9970326302"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖大道东原湖光里_494",
+    "name": "黄家湖大道东原湖光里",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.293417,
+      "lat": 30.456892,
+      "original_ids": [
+        "node/9970326304"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖大道东原湖光里_495",
+    "name": "黄家湖大道东原湖光里",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.293139,
+      "lat": 30.456694,
+      "original_ids": [
+        "node/9970326305"
+      ]
+    }
+  }, {
+    "entity_id": "station_双李路黄家湖大道_496",
+    "name": "双李路黄家湖大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.291843,
+      "lat": 30.458891,
+      "original_ids": [
+        "node/9970326306"
+      ]
+    }
+  }, {
+    "entity_id": "station_马房山_497",
+    "name": "马房山",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.344769,
+      "lat": 30.517472,
+      "original_ids": [
+        "node/10106600553"
+      ]
+    }
+  }, {
+    "entity_id": "station_高新大道光谷公共服务中心_498",
+    "name": "高新大道光谷公共服务中心",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.490811,
+      "lat": 30.492227,
+      "original_ids": [
+        "node/10235365809"
+      ]
+    }
+  }, {
+    "entity_id": "station_信息学部图书馆_499",
+    "name": "信息学部图书馆",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355063,
+      "lat": 30.531765,
+      "original_ids": [
+        "node/10743419109"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷同济医院_500",
+    "name": "光谷同济医院",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.460571,
+      "lat": 30.487657,
+      "original_ids": [
+        "node/11127292387"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷生物园_501",
+    "name": "光谷生物园",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.476018,
+      "lat": 30.489949,
+      "original_ids": [
+        "node/11127321177"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷六路_502",
+    "name": "光谷六路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.506938,
+      "lat": 30.487585,
+      "original_ids": [
+        "node/11127322592"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷五路_503",
+    "name": "光谷五路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.497523,
+      "lat": 30.48759,
+      "original_ids": [
+        "node/11127329510"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷四路_504",
+    "name": "光谷四路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.486277,
+      "lat": 30.491637,
+      "original_ids": [
+        "node/11127342044"
+      ]
+    }
+  }, {
+    "entity_id": "station_未来三路_505",
+    "name": "未来三路",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.60078,
+      "lat": 30.488975,
+      "original_ids": [
+        "node/11127349540"
+      ]
+    }
+  }, {
+    "entity_id": "station_左岭_506",
+    "name": "左岭",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.615727,
+      "lat": 30.490863,
+      "original_ids": [
+        "node/11127354070"
+      ]
+    }
+  }, {
+    "entity_id": "station_豹澥_507",
+    "name": "豹澥",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.517889,
+      "lat": 30.491101,
+      "original_ids": [
+        "node/11127356267"
+      ]
+    }
+  }, {
+    "entity_id": "station_汪家墩_508",
+    "name": "汪家墩",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.34571,
+      "lat": 30.586731,
+      "original_ids": [
+        "node/11329028556"
+      ]
+    }
+  }, {
+    "entity_id": "station_湖工大_509",
+    "name": "湖工大",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.307898,
+      "lat": 30.486883,
+      "original_ids": [
+        "node/11329228460"
+      ]
+    }
+  }, {
+    "entity_id": "station_板桥_510",
+    "name": "板桥",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.307943,
+      "lat": 30.477456,
+      "original_ids": [
+        "node/11329228462"
+      ]
+    }
+  }, {
+    "entity_id": "station_武钢_511",
+    "name": "武钢",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.45056,
+      "lat": 30.556084,
+      "original_ids": [
+        "node/11330547794"
+      ]
+    }
+  }, {
+    "entity_id": "station_红霞_512",
+    "name": "红霞",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.256411,
+      "lat": 30.433432,
+      "original_ids": [
+        "node/11389760008"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖（武科大）_513",
+    "name": "黄家湖（武科大）",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.257436,
+      "lat": 30.445908,
+      "original_ids": [
+        "node/11389760009"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉站西广场_514",
+    "name": "武汉站西广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.41702,
+      "lat": 30.607475,
+      "original_ids": [
+        "node/11454613198"
+      ]
+    }
+  }, {
+    "entity_id": "station_鼓架山_515",
+    "name": "鼓架山",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.45953,
+      "lat": 30.557139,
+      "original_ids": [
+        "node/11454613200"
+      ]
+    }
+  }, {
+    "entity_id": "station_花山新城_516",
+    "name": "花山新城",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.497998,
+      "lat": 30.557296,
+      "original_ids": [
+        "node/11454613201"
+      ]
+    }
+  }, {
+    "entity_id": "station_花山河_517",
+    "name": "花山河",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.506152,
+      "lat": 30.542707,
+      "original_ids": [
+        "node/11454613202"
+      ]
+    }
+  }, {
+    "entity_id": "station_新月溪公园_518",
+    "name": "新月溪公园",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.497548,
+      "lat": 30.478129,
+      "original_ids": [
+        "node/11454613204"
+      ]
+    }
+  }, {
+    "entity_id": "station_落雁路郑家湾_520",
+    "name": "落雁路郑家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.421256,
+      "lat": 30.585034,
+      "original_ids": [
+        "node/11707546919"
+      ]
+    }
+  }, {
+    "entity_id": "station_落雁路郑家湾_522",
+    "name": "落雁路郑家湾",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.421128,
+      "lat": 30.584713,
+      "original_ids": [
+        "node/11707552395"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师东门_525",
+    "name": "华师东门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.36034,
+      "lat": 30.517803,
+      "original_ids": [
+        "node/11795348173"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师学子超市_526",
+    "name": "华师学子超市",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.356814,
+      "lat": 30.51579,
+      "original_ids": [
+        "node/11795348174"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师南门_527",
+    "name": "华师南门",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.351542,
+      "lat": 30.516606,
+      "original_ids": [
+        "node/11795348175"
+      ]
+    }
+  }, {
+    "entity_id": "station_华师大学生活动中心_528",
+    "name": "华师大学生活动中心",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.355921,
+      "lat": 30.517169,
+      "original_ids": [
+        "node/11795348176"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道关山街_529",
+    "name": "关山大道关山街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.406537,
+      "lat": 30.501161,
+      "original_ids": [
+        "node/11806512558"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路珞雄路_530",
+    "name": "珞喻路珞雄路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.399809,
+      "lat": 30.509028,
+      "original_ids": [
+        "node/11806557389"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻路珞雄路_531",
+    "name": "珞喻路珞雄路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.402493,
+      "lat": 30.5099,
+      "original_ids": [
+        "node/11806557392"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路黄龙山北路_532",
+    "name": "光谷一路黄龙山北路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.431017,
+      "lat": 30.47596,
+      "original_ids": [
+        "node/11808712394"
+      ]
+    }
+  }, {
+    "entity_id": "station_珞喻东路华中科技大学_533",
+    "name": "珞喻东路华中科技大学",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.409777,
+      "lat": 30.509451,
+      "original_ids": [
+        "node/11821136906"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路珞喻东路_534",
+    "name": "光谷一路珞喻东路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.436474,
+      "lat": 30.508293,
+      "original_ids": [
+        "node/11821136913"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路珞喻东路_535",
+    "name": "光谷一路珞喻东路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.436614,
+      "lat": 30.508515,
+      "original_ids": [
+        "node/11821136924"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路光谷创业街_536",
+    "name": "光谷一路光谷创业街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.439138,
+      "lat": 30.504117,
+      "original_ids": [
+        "node/11821136928"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路光谷创业街_537",
+    "name": "光谷一路光谷创业街",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.439315,
+      "lat": 30.504308,
+      "original_ids": [
+        "node/11821136935"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路高新大道口_538",
+    "name": "光谷一路高新大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.435079,
+      "lat": 30.493367,
+      "original_ids": [
+        "node/11821136940"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路高新大道口_539",
+    "name": "光谷一路高新大道口",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.435168,
+      "lat": 30.493073,
+      "original_ids": [
+        "node/11821136943"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路文源路_540",
+    "name": "光谷一路文源路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.440397,
+      "lat": 30.499157,
+      "original_ids": [
+        "node/11821137685"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路文源路_541",
+    "name": "光谷一路文源路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.440444,
+      "lat": 30.498775,
+      "original_ids": [
+        "node/11821137688"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路文豪路_542",
+    "name": "光谷一路文豪路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.441018,
+      "lat": 30.500944,
+      "original_ids": [
+        "node/11821137692"
+      ]
+    }
+  }, {
+    "entity_id": "station_光谷一路文豪路_543",
+    "name": "光谷一路文豪路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.440724,
+      "lat": 30.501184,
+      "original_ids": [
+        "node/11821137694"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉东站东广场_544",
+    "name": "武汉东站东广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.428393,
+      "lat": 30.488943,
+      "original_ids": [
+        "node/11832177797"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉东站东广场_545",
+    "name": "武汉东站东广场",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.428223,
+      "lat": 30.489328,
+      "original_ids": [
+        "node/11832177800"
+      ]
+    }
+  }, {
+    "entity_id": "station_科技五路左庙路_546",
+    "name": "科技五路左庙路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.611235,
+      "lat": 30.457603,
+      "original_ids": [
+        "node/12384746128"
+      ]
+    }
+  }, {
+    "entity_id": "station_科技五路左庙路_547",
+    "name": "科技五路左庙路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.611481,
+      "lat": 30.45727,
+      "original_ids": [
+        "node/12384746129"
+      ]
+    }
+  }, {
+    "entity_id": "station_快岭东路科技五路_548",
+    "name": "快岭东路科技五路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.617272,
+      "lat": 30.459596,
+      "original_ids": [
+        "node/12384746130"
+      ]
+    }
+  }, {
+    "entity_id": "station_快岭东路科技五路_549",
+    "name": "快岭东路科技五路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.617356,
+      "lat": 30.460714,
+      "original_ids": [
+        "node/12384746131"
+      ]
+    }
+  }, {
+    "entity_id": "station_锦程街快岭西路_550",
+    "name": "锦程街快岭西路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.613446,
+      "lat": 30.462741,
+      "original_ids": [
+        "node/12384746132"
+      ]
+    }
+  }, {
+    "entity_id": "station_锦程街快岭西路_551",
+    "name": "锦程街快岭西路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.611972,
+      "lat": 30.46288,
+      "original_ids": [
+        "node/12384746133"
+      ]
+    }
+  }, {
+    "entity_id": "station_武汉体育学院_552",
+    "name": "武汉体育学院",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.373898,
+      "lat": 30.519321,
+      "original_ids": [
+        "node/12469005397"
+      ]
+    }
+  }, {
+    "entity_id": "station_关山大道_553",
+    "name": "关山大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.407267,
+      "lat": 30.499459,
+      "original_ids": [
+        "node/12469005398"
+      ]
+    }
+  }, {
+    "entity_id": "station_文荟街崇文路_554",
+    "name": "文荟街崇文路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.340661,
+      "lat": 30.507994,
+      "original_ids": [
+        "node/13132234716"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道武科大_555",
+    "name": "白沙洲大道武科大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.255566,
+      "lat": 30.443781,
+      "original_ids": [
+        "node/13375189711"
+      ]
+    }
+  }, {
+    "entity_id": "station_白沙洲大道武科大_556",
+    "name": "白沙洲大道武科大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.256165,
+      "lat": 30.443908,
+      "original_ids": [
+        "node/13375189712"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖三街黄家湖西路_557",
+    "name": "黄家湖三街黄家湖西路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.259528,
+      "lat": 30.446709,
+      "original_ids": [
+        "node/13375189713"
+      ]
+    }
+  }, {
+    "entity_id": "station_丽水南路武科大_558",
+    "name": "丽水南路武科大",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.26046,
+      "lat": 30.43682,
+      "original_ids": [
+        "node/13513787810"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖三街黄家湖路_559",
+    "name": "黄家湖三街黄家湖路",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.269907,
+      "lat": 30.445239,
+      "original_ids": [
+        "node/13513787811"
+      ]
+    }
+  }, {
+    "entity_id": "station_黄家湖路教师公寓_560",
+    "name": "黄家湖路教师公寓",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.269808,
+      "lat": 30.442969,
+      "original_ids": [
+        "node/13513787812"
+      ]
+    }
+  }, {
+    "entity_id": "station_时见鹿_561",
+    "name": "时见鹿",
+    "label": "Station",
+    "properties": {
+      "station_type": "bus_stop",
+      "lon": 114.43223,
+      "lat": 30.521461,
+      "original_ids": [
+        "node/13669105459"
+      ]
+    }
+  }, {
+    "entity_id": "station_省农科院南_562",
+    "name": "省农科院南",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.311267,
+      "lat": 30.483689,
+      "original_ids": [
+        "node/13793740296"
+      ]
+    }
+  }, {
+    "entity_id": "station_楚祥大道_563",
+    "name": "楚祥大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.314647,
+      "lat": 30.492769,
+      "original_ids": [
+        "node/13793740298"
+      ]
+    }
+  }, {
+    "entity_id": "station_富安街_564",
+    "name": "富安街",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.314931,
+      "lat": 30.502408,
+      "original_ids": [
+        "node/13793763402"
+      ]
+    }
+  }, {
+    "entity_id": "station_团结大道_565",
+    "name": "团结大道",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.35845,
+      "lat": 30.594922,
+      "original_ids": [
+        "node/13793763462"
+      ]
+    }
+  }, {
+    "entity_id": "station_夹套河_566",
+    "name": "夹套河",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.263696,
+      "lat": 30.486215,
+      "original_ids": [
+        "node/13797894466"
+      ]
+    }
+  }, {
+    "entity_id": "station_市农科院_567",
+    "name": "市农科院",
+    "label": "Station",
+    "properties": {
+      "station_type": "subway_station",
+      "lon": 114.271568,
+      "lat": 30.481828,
+      "original_ids": [
+        "node/13797894470"
+      ]
+    }
+  }]

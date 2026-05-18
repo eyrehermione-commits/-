@@ -1,0 +1,6477 @@
+[{
+    "entity_id": "poi_211优选超市_0",
+    "name": "211优选超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.347265,
+      "lat": 30.532657,
+      "original_ids": [
+        "node/13694252624"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7tt_0",
+    "name": "7tt",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.35741,
+      "lat": 30.474922,
+      "original_ids": [
+        "node/7925663898"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天连锁酒店_0",
+    "name": "7天连锁酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.369113,
+      "lat": 30.50837,
+      "original_ids": [
+        "node/1704396882"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天连锁酒店_1",
+    "name": "7天连锁酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.398779,
+      "lat": 30.457934,
+      "original_ids": [
+        "node/3661880550"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天连锁酒店_2",
+    "name": "7天连锁酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.402205,
+      "lat": 30.47038,
+      "original_ids": [
+        "node/3674922913"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天连锁酒店_3",
+    "name": "7天连锁酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.30987,
+      "lat": 30.497229,
+      "original_ids": [
+        "node/3777648683"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天连锁酒店_4",
+    "name": "7天连锁酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.390765,
+      "lat": 30.484218,
+      "original_ids": [
+        "node/7554177686"
+      ]
+    }
+  }, {
+    "entity_id": "poi_7天酒店_0",
+    "name": "7天酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.359332,
+      "lat": 30.529977,
+      "original_ids": [
+        "way/104950299"
+      ]
+    }
+  }, {
+    "entity_id": "poi_Corridor_0",
+    "name": "Corridor",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.384248,
+      "lat": 30.456858,
+      "original_ids": [
+        "way/202717204"
+      ]
+    }
+  }, {
+    "entity_id": "poi_Corridor_1",
+    "name": "Corridor",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.385877,
+      "lat": 30.456845,
+      "original_ids": [
+        "way/202717205"
+      ]
+    }
+  }, {
+    "entity_id": "poi_EF英孚教育_0",
+    "name": "EF英孚教育",
+    "label": "POI",
+    "properties": {
+      "poi_type": "language_school",
+      "lon": 114.400581,
+      "lat": 30.508881,
+      "original_ids": [
+        "node/11804247339"
+      ]
+    }
+  }, {
+    "entity_id": "poi_MAPLE_PARK_0",
+    "name": "MAPLE PARK",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.432965,
+      "lat": 30.490454,
+      "original_ids": [
+        "way/1271383854"
+      ]
+    }
+  }, {
+    "entity_id": "poi_OVIS光谷康桥外籍人员子女学校_0",
+    "name": "OVIS光谷康桥外籍人员子女学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.510441,
+      "lat": 30.475913,
+      "original_ids": [
+        "way/1485370707"
+      ]
+    }
+  }, {
+    "entity_id": "poi_三月主题客栈_0",
+    "name": "三月主题客栈",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.356842,
+      "lat": 30.526868,
+      "original_ids": [
+        "node/13680737160"
+      ]
+    }
+  }, {
+    "entity_id": "poi_世界城广场_0",
+    "name": "世界城广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.399757,
+      "lat": 30.508498,
+      "original_ids": [
+        "way/674170501"
+      ]
+    }
+  }, {
+    "entity_id": "poi_世界城．光谷步行街_0",
+    "name": "世界城．光谷步行街",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.397025,
+      "lat": 30.507569,
+      "original_ids": [
+        "relation/9368629"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东区学生服务中心_0",
+    "name": "东区学生服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.414226,
+      "lat": 30.513172,
+      "original_ids": [
+        "way/103495761"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东区幼儿园_0",
+    "name": "东区幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.424927,
+      "lat": 30.509783,
+      "original_ids": [
+        "way/104350701"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东区附小_0",
+    "name": "东区附小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.426985,
+      "lat": 30.509627,
+      "original_ids": [
+        "way/104350958"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东校区医院_0",
+    "name": "东校区医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.426621,
+      "lat": 30.510889,
+      "original_ids": [
+        "way/103757019"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东湖磨山青年旅社_0",
+    "name": "东湖磨山青年旅社",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.390001,
+      "lat": 30.535309,
+      "original_ids": [
+        "node/13690178286"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东湖高新集团_0",
+    "name": "东湖高新集团",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.426305,
+      "lat": 30.506559,
+      "original_ids": [
+        "way/247175839"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东澜岸广场_A馆_0",
+    "name": "东澜岸广场-A馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.258161,
+      "lat": 30.43607,
+      "original_ids": [
+        "way/1362307639"
+      ]
+    }
+  }, {
+    "entity_id": "poi_东澜岸广场_B馆_0",
+    "name": "东澜岸广场-B馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.258011,
+      "lat": 30.434624,
+      "original_ids": [
+        "way/1356614786"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中共武汉市委党校_0",
+    "name": "中共武汉市委党校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.544673,
+      "lat": 30.544739,
+      "original_ids": [
+        "way/1443697766"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中共武汉市洪山区委党校_0",
+    "name": "中共武汉市洪山区委党校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.273173,
+      "lat": 30.479868,
+      "original_ids": [
+        "way/738405761"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南民族大学_0",
+    "name": "中南民族大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.387358,
+      "lat": 30.488056,
+      "original_ids": [
+        "way/481773049",
+        "way/1234545312",
+        "node/1143733930"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南民族大学当代学生公寓_0",
+    "name": "中南民族大学当代学生公寓",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.389764,
+      "lat": 30.497099,
+      "original_ids": [
+        "way/481773050"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南财经政法大学后勤集团接待中心_0",
+    "name": "中南财经政法大学后勤集团接待中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.385368,
+      "lat": 30.481211,
+      "original_ids": [
+        "way/443530689"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南财经政法大学幼儿园_0",
+    "name": "中南财经政法大学幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.383799,
+      "lat": 30.478949,
+      "original_ids": [
+        "node/1143731956"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南财经政法大学校医院_0",
+    "name": "中南财经政法大学校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.382495,
+      "lat": 30.47503,
+      "original_ids": [
+        "way/443492448"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南财经政法大学石咀校区_0",
+    "name": "中南财经政法大学石咀校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.19829,
+      "lat": 30.426658,
+      "original_ids": [
+        "way/1128115061"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中南财经政法大学（南湖校区）_0",
+    "name": "中南财经政法大学（南湖校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.379873,
+      "lat": 30.476811,
+      "original_ids": [
+        "relation/11697627"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中商平价杨家湾店_0",
+    "name": "中商平价杨家湾店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.380196,
+      "lat": 30.504607,
+      "original_ids": [
+        "node/1252181841"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中商平价超市_0",
+    "name": "中商平价超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.344442,
+      "lat": 30.511877,
+      "original_ids": [
+        "node/1479948669"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中商超市_0",
+    "name": "中商超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.302335,
+      "lat": 30.485801,
+      "original_ids": [
+        "node/13028275627"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学医院_0",
+    "name": "中国地质大学医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.397751,
+      "lat": 30.52315,
+      "original_ids": [
+        "node/3061019294"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学未来城校区_0",
+    "name": "中国地质大学未来城校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.613385,
+      "lat": 30.460064,
+      "original_ids": [
+        "way/1023129955"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学迎宾楼_0",
+    "name": "中国地质大学迎宾楼",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.399898,
+      "lat": 30.519591,
+      "original_ids": [
+        "way/283999187"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学附属学校_0",
+    "name": "中国地质大学附属学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.402739,
+      "lat": 30.523726,
+      "original_ids": [
+        "way/778752461"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学附属学校幼教部_0",
+    "name": "中国地质大学附属学校幼教部",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.399218,
+      "lat": 30.521868,
+      "original_ids": [
+        "way/687893146"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学（武汉）_0",
+    "name": "中国地质大学（武汉）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.395974,
+      "lat": 30.524297,
+      "original_ids": [
+        "relation/10790904"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学（武汉）未来城校区二期_0",
+    "name": "中国地质大学（武汉）未来城校区二期",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.61093,
+      "lat": 30.464394,
+      "original_ids": [
+        "way/1338893303"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国地质大学（武汉）未来城校区二期_1",
+    "name": "中国地质大学（武汉）未来城校区二期",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.610357,
+      "lat": 30.468475,
+      "original_ids": [
+        "way/1338893306"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中国科学院水生生物研究所官桥园区_0",
+    "name": "中国科学院水生生物研究所官桥园区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.383273,
+      "lat": 30.523243,
+      "original_ids": [
+        "way/1493791072"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中建三局武汉中心医院_0",
+    "name": "中建三局武汉中心医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.34227,
+      "lat": 30.51055,
+      "original_ids": [
+        "way/1428424559"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中心城·西苑公园_0",
+    "name": "中心城·西苑公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.48904,
+      "lat": 30.49388,
+      "original_ids": [
+        "way/776885502"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百仓储_0",
+    "name": "中百仓储",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.414028,
+      "lat": 30.508559,
+      "original_ids": [
+        "way/1007589916"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百生活剧场_0",
+    "name": "中百生活剧场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.408511,
+      "lat": 30.495074,
+      "original_ids": [
+        "node/11816352989"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_0",
+    "name": "中百超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.331282,
+      "lat": 30.504265,
+      "original_ids": [
+        "way/99295814"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_1",
+    "name": "中百超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.403633,
+      "lat": 30.46165,
+      "original_ids": [
+        "node/3673375313"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_2",
+    "name": "中百超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.408752,
+      "lat": 30.45701,
+      "original_ids": [
+        "node/4455915344"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_3",
+    "name": "中百超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.339475,
+      "lat": 30.592027,
+      "original_ids": [
+        "node/7945600876"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_4",
+    "name": "中百超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.374658,
+      "lat": 30.520347,
+      "original_ids": [
+        "node/13670451748"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市_教育超市_0",
+    "name": "中百超市 教育超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.344968,
+      "lat": 30.477582,
+      "original_ids": [
+        "node/1124414147"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中百超市(白马馨居分店)_0",
+    "name": "中百超市(白马馨居分店)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.410012,
+      "lat": 30.601893,
+      "original_ids": [
+        "node/5927848983"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中航工业武仪阳光社区南侧公园_0",
+    "name": "中航工业武仪阳光社区南侧公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.391944,
+      "lat": 30.516828,
+      "original_ids": [
+        "node/10065962576"
+      ]
+    }
+  }, {
+    "entity_id": "poi_中部战区总医院_0",
+    "name": "中部战区总医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.339432,
+      "lat": 30.533812,
+      "original_ids": [
+        "way/103754213"
+      ]
+    }
+  }, {
+    "entity_id": "poi_丰颐大酒店_0",
+    "name": "丰颐大酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.36002,
+      "lat": 30.531866,
+      "original_ids": [
+        "way/104453198"
+      ]
+    }
+  }, {
+    "entity_id": "poi_丽岛幼儿园_0",
+    "name": "丽岛幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.341692,
+      "lat": 30.506265,
+      "original_ids": [
+        "way/635895479"
+      ]
+    }
+  }, {
+    "entity_id": "poi_丽枫酒店_0",
+    "name": "丽枫酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.345395,
+      "lat": 30.514516,
+      "original_ids": [
+        "node/5922465183"
+      ]
+    }
+  }, {
+    "entity_id": "poi_丽枫酒店(武汉高铁店)_0",
+    "name": "丽枫酒店(武汉高铁店)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.415768,
+      "lat": 30.611761,
+      "original_ids": [
+        "node/5925049302"
+      ]
+    }
+  }, {
+    "entity_id": "poi_丽水路小学_0",
+    "name": "丽水路小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.247079,
+      "lat": 30.468501,
+      "original_ids": [
+        "way/1408483214"
+      ]
+    }
+  }, {
+    "entity_id": "poi_乐天城_0",
+    "name": "乐天城",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.348901,
+      "lat": 30.527834,
+      "original_ids": [
+        "way/111787241"
+      ]
+    }
+  }, {
+    "entity_id": "poi_乐都汇_0",
+    "name": "乐都汇",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.330533,
+      "lat": 30.51892,
+      "original_ids": [
+        "way/1028359476"
+      ]
+    }
+  }, {
+    "entity_id": "poi_九峰国家森林公园_0",
+    "name": "九峰国家森林公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.490227,
+      "lat": 30.507042,
+      "original_ids": [
+        "node/10065962578"
+      ]
+    }
+  }, {
+    "entity_id": "poi_二妃山公园_0",
+    "name": "二妃山公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.465612,
+      "lat": 30.482313,
+      "original_ids": [
+        "way/1238236157"
+      ]
+    }
+  }, {
+    "entity_id": "poi_云栖公园_0",
+    "name": "云栖公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.479552,
+      "lat": 30.462063,
+      "original_ids": [
+        "way/1007537790"
+      ]
+    }
+  }, {
+    "entity_id": "poi_亚朵酒店_0",
+    "name": "亚朵酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.358697,
+      "lat": 30.523931,
+      "original_ids": [
+        "node/13685773395"
+      ]
+    }
+  }, {
+    "entity_id": "poi_交通银行_0",
+    "name": "交通银行",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_financial",
+      "lon": 114.397749,
+      "lat": 30.476604,
+      "original_ids": [
+        "way/1347774898"
+      ]
+    }
+  }, {
+    "entity_id": "poi_亲亲婴幼园_0",
+    "name": "亲亲婴幼园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.358282,
+      "lat": 30.504871,
+      "original_ids": [
+        "way/1497213613"
+      ]
+    }
+  }, {
+    "entity_id": "poi_伏虎山烈士陵园_0",
+    "name": "伏虎山烈士陵园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.364764,
+      "lat": 30.51884,
+      "original_ids": [
+        "way/1215213016"
+      ]
+    }
+  }, {
+    "entity_id": "poi_优乐居青年公寓_0",
+    "name": "优乐居青年公寓",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.348418,
+      "lat": 30.531923,
+      "original_ids": [
+        "node/13696894882"
+      ]
+    }
+  }, {
+    "entity_id": "poi_优品汇_0",
+    "name": "优品汇",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.351324,
+      "lat": 30.535474,
+      "original_ids": [
+        "node/1417703917"
+      ]
+    }
+  }, {
+    "entity_id": "poi_伯乐山_0",
+    "name": "伯乐山",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.32991,
+      "lat": 30.512871,
+      "original_ids": [
+        "way/240617290"
+      ]
+    }
+  }, {
+    "entity_id": "poi_住家美寓_0",
+    "name": "住家美寓",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.389985,
+      "lat": 30.535482,
+      "original_ids": [
+        "node/13690178287"
+      ]
+    }
+  }, {
+    "entity_id": "poi_佰尚生活超市_0",
+    "name": "佰尚生活超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.362131,
+      "lat": 30.528285,
+      "original_ids": [
+        "node/13676379847"
+      ]
+    }
+  }, {
+    "entity_id": "poi_保利南湖幼儿园_0",
+    "name": "保利南湖幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.301434,
+      "lat": 30.507924,
+      "original_ids": [
+        "way/1085721955"
+      ]
+    }
+  }, {
+    "entity_id": "poi_保利和乐幼儿园_0",
+    "name": "保利和乐幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.322557,
+      "lat": 30.480184,
+      "original_ids": [
+        "way/1083980165"
+      ]
+    }
+  }, {
+    "entity_id": "poi_保利和乐高顿国际幼儿园_0",
+    "name": "保利和乐高顿国际幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.302467,
+      "lat": 30.510267,
+      "original_ids": [
+        "way/1105230431"
+      ]
+    }
+  }, {
+    "entity_id": "poi_信工之家_0",
+    "name": "信工之家",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hostel",
+      "lon": 114.391412,
+      "lat": 30.522026,
+      "original_ids": [
+        "node/4923946281"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷APP广场_0",
+    "name": "光谷APP广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.396658,
+      "lat": 30.483252,
+      "original_ids": [
+        "way/1230655685"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷三十九小_0",
+    "name": "光谷三十九小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.528885,
+      "lat": 30.549133,
+      "original_ids": [
+        "way/1237805724"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷三十五小_0",
+    "name": "光谷三十五小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.504937,
+      "lat": 30.535541,
+      "original_ids": [
+        "way/1237799738"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷三十四小_0",
+    "name": "光谷三十四小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.514355,
+      "lat": 30.549434,
+      "original_ids": [
+        "way/1237799719"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷喻家山学校_0",
+    "name": "光谷喻家山学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.411909,
+      "lat": 30.504679,
+      "original_ids": [
+        "way/1181128785"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷天地_0",
+    "name": "光谷天地",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.405062,
+      "lat": 30.479262,
+      "original_ids": [
+        "way/1271912798"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷政务服务中心_0",
+    "name": "光谷政务服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.493343,
+      "lat": 30.494119,
+      "original_ids": [
+        "way/1007537736"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷政务服务中心_1",
+    "name": "光谷政务服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.494249,
+      "lat": 30.493702,
+      "original_ids": [
+        "way/1007537737"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷政务服务中心_2",
+    "name": "光谷政务服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.492566,
+      "lat": 30.494457,
+      "original_ids": [
+        "way/1074737966"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷第九小学_0",
+    "name": "光谷第九小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.439473,
+      "lat": 30.489198,
+      "original_ids": [
+        "way/1160860418"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷第八小学_0",
+    "name": "光谷第八小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.441854,
+      "lat": 30.501245,
+      "original_ids": [
+        "way/241258645"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷第十小学软件园校区_0",
+    "name": "光谷第十小学软件园校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.402951,
+      "lat": 30.478593,
+      "original_ids": [
+        "way/1312785360"
+      ]
+    }
+  }, {
+    "entity_id": "poi_光谷转盘_0",
+    "name": "光谷转盘",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.393634,
+      "lat": 30.508387,
+      "original_ids": [
+        "way/733454623"
+      ]
+    }
+  }, {
+    "entity_id": "poi_全季酒店_0",
+    "name": "全季酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.386482,
+      "lat": 30.480864,
+      "original_ids": [
+        "way/443530688"
+      ]
+    }
+  }, {
+    "entity_id": "poi_全季酒店_1",
+    "name": "全季酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.348007,
+      "lat": 30.530961,
+      "original_ids": [
+        "node/13696929806"
+      ]
+    }
+  }, {
+    "entity_id": "poi_八铺街江滩公园_0",
+    "name": "八铺街江滩公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.270646,
+      "lat": 30.508767,
+      "original_ids": [
+        "way/1160811809"
+      ]
+    }
+  }, {
+    "entity_id": "poi_兰亭公园_0",
+    "name": "兰亭公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.520928,
+      "lat": 30.503639,
+      "original_ids": [
+        "way/776437851"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关东街道办事处_0",
+    "name": "关东街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.418193,
+      "lat": 30.480788,
+      "original_ids": [
+        "node/1821049455"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关山中学_0",
+    "name": "关山中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.40312,
+      "lat": 30.498713,
+      "original_ids": [
+        "way/700615672"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关山春晓国际幼教中心_0",
+    "name": "关山春晓国际幼教中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.409698,
+      "lat": 30.490327,
+      "original_ids": [
+        "way/680541232"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关山荷兰风情园_0",
+    "name": "关山荷兰风情园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.393693,
+      "lat": 30.496172,
+      "original_ids": [
+        "way/233472255"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关山街社区卫生服务站_0",
+    "name": "关山街社区卫生服务站",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.406521,
+      "lat": 30.510102,
+      "original_ids": [
+        "node/1282454828"
+      ]
+    }
+  }, {
+    "entity_id": "poi_关山街道办事处_0",
+    "name": "关山街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.404942,
+      "lat": 30.509606,
+      "original_ids": [
+        "node/1189068390"
+      ]
+    }
+  }, {
+    "entity_id": "poi_农学院_0",
+    "name": "农学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.352667,
+      "lat": 30.479492,
+      "original_ids": [
+        "node/12047290225"
+      ]
+    }
+  }, {
+    "entity_id": "poi_凯迪生态环境科技股份有限公司_0",
+    "name": "凯迪生态环境科技股份有限公司",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.376918,
+      "lat": 30.436584,
+      "original_ids": [
+        "way/1234205363"
+      ]
+    }
+  }, {
+    "entity_id": "poi_刘胖子A级酒店_0",
+    "name": "刘胖子A级酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.394784,
+      "lat": 30.459782,
+      "original_ids": [
+        "node/3671781461"
+      ]
+    }
+  }, {
+    "entity_id": "poi_创新研究院_0",
+    "name": "创新研究院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.424644,
+      "lat": 30.511387,
+      "original_ids": [
+        "node/13360728741"
+      ]
+    }
+  }, {
+    "entity_id": "poi_加州幼儿园_0",
+    "name": "加州幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.346087,
+      "lat": 30.591669,
+      "original_ids": [
+        "way/1075141892"
+      ]
+    }
+  }, {
+    "entity_id": "poi_勘探队员雕像_0",
+    "name": "勘探队员雕像",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.613014,
+      "lat": 30.460818,
+      "original_ids": [
+        "node/12384699384"
+      ]
+    }
+  }, {
+    "entity_id": "poi_勤仁坡_0",
+    "name": "勤仁坡",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.406225,
+      "lat": 30.470628,
+      "original_ids": [
+        "way/1362459798"
+      ]
+    }
+  }, {
+    "entity_id": "poi_化学学院_0",
+    "name": "化学学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.351846,
+      "lat": 30.479091,
+      "original_ids": [
+        "node/12047290226"
+      ]
+    }
+  }, {
+    "entity_id": "poi_化石林_0",
+    "name": "化石林",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.398119,
+      "lat": 30.521268,
+      "original_ids": [
+        "way/301208299"
+      ]
+    }
+  }, {
+    "entity_id": "poi_北区广场_0",
+    "name": "北区广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.394728,
+      "lat": 30.532617,
+      "original_ids": [
+        "relation/10790905"
+      ]
+    }
+  }, {
+    "entity_id": "poi_北区生活服务中心_0",
+    "name": "北区生活服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.392642,
+      "lat": 30.531192,
+      "original_ids": [
+        "way/283736912"
+      ]
+    }
+  }, {
+    "entity_id": "poi_北苑超市_0",
+    "name": "北苑超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.383254,
+      "lat": 30.479961,
+      "original_ids": [
+        "node/1277925669"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中农业大学_0",
+    "name": "华中农业大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.35058,
+      "lat": 30.474674,
+      "original_ids": [
+        "relation/10811687"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中农业大学国际学术交流中心_0",
+    "name": "华中农业大学国际学术交流中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.347908,
+      "lat": 30.477698,
+      "original_ids": [
+        "node/1124414157"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中农业大学附属学校_0",
+    "name": "华中农业大学附属学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.346052,
+      "lat": 30.474826,
+      "original_ids": [
+        "way/1300678394"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师大一附中(光谷分校)_0",
+    "name": "华中师大一附中(光谷分校)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.594437,
+      "lat": 30.480259,
+      "original_ids": [
+        "way/960043179"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师大一附中光谷汤逊湖学校_0",
+    "name": "华中师大一附中光谷汤逊湖学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.364906,
+      "lat": 30.459365,
+      "original_ids": [
+        "way/697265753"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师大一附中光谷汤逊湖学校（北校区）_0",
+    "name": "华中师大一附中光谷汤逊湖学校（北校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.361976,
+      "lat": 30.464011,
+      "original_ids": [
+        "way/1415451377"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师大一附中初中部_0",
+    "name": "华中师大一附中初中部",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.376808,
+      "lat": 30.508504,
+      "original_ids": [
+        "way/758014847"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学_0",
+    "name": "华中师范大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.35542,
+      "lat": 30.519808,
+      "original_ids": [
+        "relation/20383289"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学化学学院_0",
+    "name": "华中师范大学化学学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.35991,
+      "lat": 30.520473,
+      "original_ids": [
+        "node/11795250766"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学南湖校区_0",
+    "name": "华中师范大学南湖校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.352343,
+      "lat": 30.509052,
+      "original_ids": [
+        "way/779843667",
+        "node/10087142307"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学校医院_0",
+    "name": "华中师范大学校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.356883,
+      "lat": 30.52195,
+      "original_ids": [
+        "way/779843665"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学第一附属中学_0",
+    "name": "华中师范大学第一附属中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.385736,
+      "lat": 30.456034,
+      "original_ids": [
+        "way/98839868"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学附属万科金色城市小学_0",
+    "name": "华中师范大学附属万科金色城市小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.252406,
+      "lat": 30.482972,
+      "original_ids": [
+        "way/345819881",
+        "node/2398267576"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学附属保利南湖小学_0",
+    "name": "华中师范大学附属保利南湖小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.302191,
+      "lat": 30.5081,
+      "original_ids": [
+        "way/1085721956"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学附属小学_0",
+    "name": "华中师范大学附属小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.354403,
+      "lat": 30.524203,
+      "original_ids": [
+        "way/1493553271"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学附属小学（南湖校区）_0",
+    "name": "华中师范大学附属小学（南湖校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.321463,
+      "lat": 30.490996,
+      "original_ids": [
+        "way/1104866666"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中师范大学附属幼儿园_0",
+    "name": "华中师范大学附属幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.354616,
+      "lat": 30.523606,
+      "original_ids": [
+        "way/1493553273"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中科技大学_0",
+    "name": "华中科技大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.415259,
+      "lat": 30.517306,
+      "original_ids": [
+        "relation/10717498"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华中科技大学附属中学_0",
+    "name": "华中科技大学附属中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.423624,
+      "lat": 30.519643,
+      "original_ids": [
+        "way/1023929904"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华农幼儿园_0",
+    "name": "华农幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.346771,
+      "lat": 30.478752,
+      "original_ids": [
+        "node/1124470902"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华创湿地公园_0",
+    "name": "华创湿地公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.2647,
+      "lat": 30.438873,
+      "original_ids": [
+        "way/1391783420"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华新环境_0",
+    "name": "华新环境",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.372054,
+      "lat": 30.493204,
+      "original_ids": [
+        "way/1158482153"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华科主校区医院_0",
+    "name": "华科主校区医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.408974,
+      "lat": 30.51972,
+      "original_ids": [
+        "way/103757490"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华科幼儿园_0",
+    "name": "华科幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.407898,
+      "lat": 30.517832,
+      "original_ids": [
+        "way/102751878"
+      ]
+    }
+  }, {
+    "entity_id": "poi_华科附小_0",
+    "name": "华科附小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.408836,
+      "lat": 30.517749,
+      "original_ids": [
+        "way/98869684"
+      ]
+    }
+  }, {
+    "entity_id": "poi_卓刀泉公园_0",
+    "name": "卓刀泉公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.365012,
+      "lat": 30.520133,
+      "original_ids": [
+        "way/1491974690"
+      ]
+    }
+  }, {
+    "entity_id": "poi_卓刀泉街道办事处_0",
+    "name": "卓刀泉街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.370558,
+      "lat": 30.506607,
+      "original_ids": [
+        "node/1280132324"
+      ]
+    }
+  }, {
+    "entity_id": "poi_南国雄楚广场_0",
+    "name": "南国雄楚广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.345383,
+      "lat": 30.515184,
+      "original_ids": [
+        "node/6467566184"
+      ]
+    }
+  }, {
+    "entity_id": "poi_南湖中央广场_0",
+    "name": "南湖中央广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.319298,
+      "lat": 30.499165,
+      "original_ids": [
+        "way/1104706174"
+      ]
+    }
+  }, {
+    "entity_id": "poi_南湖双语幼儿园_0",
+    "name": "南湖双语幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.340969,
+      "lat": 30.492982,
+      "original_ids": [
+        "way/1363365535"
+      ]
+    }
+  }, {
+    "entity_id": "poi_南湖幸福湾水上公园_0",
+    "name": "南湖幸福湾水上公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.333314,
+      "lat": 30.4995,
+      "original_ids": [
+        "way/573575689"
+      ]
+    }
+  }, {
+    "entity_id": "poi_南苑超市_0",
+    "name": "南苑超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.383959,
+      "lat": 30.474548,
+      "original_ids": [
+        "node/6437720652"
+      ]
+    }
+  }, {
+    "entity_id": "poi_博园教超_0",
+    "name": "博园教超",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.355632,
+      "lat": 30.477686,
+      "original_ids": [
+        "way/126462450"
+      ]
+    }
+  }, {
+    "entity_id": "poi_双子座甄品汇_0",
+    "name": "双子座甄品汇",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.354114,
+      "lat": 30.53227,
+      "original_ids": [
+        "node/11780160231"
+      ]
+    }
+  }, {
+    "entity_id": "poi_吉的堡幼儿园_0",
+    "name": "吉的堡幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.382961,
+      "lat": 30.498336,
+      "original_ids": [
+        "way/1234545307"
+      ]
+    }
+  }, {
+    "entity_id": "poi_同济医院(光谷院区)_0",
+    "name": "同济医院(光谷院区)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.458187,
+      "lat": 30.490019,
+      "original_ids": [
+        "way/637737572"
+      ]
+    }
+  }, {
+    "entity_id": "poi_君宜王朝大饭店_0",
+    "name": "君宜王朝大饭店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.353724,
+      "lat": 30.527801,
+      "original_ids": [
+        "node/1272831167"
+      ]
+    }
+  }, {
+    "entity_id": "poi_启明学院_0",
+    "name": "启明学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.424938,
+      "lat": 30.511381,
+      "original_ids": [
+        "node/13360728739"
+      ]
+    }
+  }, {
+    "entity_id": "poi_和平小学_0",
+    "name": "和平小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.342325,
+      "lat": 30.595341,
+      "original_ids": [
+        "way/420011245"
+      ]
+    }
+  }, {
+    "entity_id": "poi_哲学公园_0",
+    "name": "哲学公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.499917,
+      "lat": 30.562235,
+      "original_ids": [
+        "way/881425143"
+      ]
+    }
+  }, {
+    "entity_id": "poi_园艺林学学院北楼_0",
+    "name": "园艺林学学院北楼",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.350808,
+      "lat": 30.475348,
+      "original_ids": [
+        "way/106032842"
+      ]
+    }
+  }, {
+    "entity_id": "poi_国交二号楼_0",
+    "name": "国交二号楼",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.347404,
+      "lat": 30.478033,
+      "original_ids": [
+        "node/1124861506"
+      ]
+    }
+  }, {
+    "entity_id": "poi_国德兴邦超市_0",
+    "name": "国德兴邦超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.355191,
+      "lat": 30.608044,
+      "original_ids": [
+        "node/3808033900"
+      ]
+    }
+  }, {
+    "entity_id": "poi_国营四七一公园_0",
+    "name": "国营四七一公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.45315,
+      "lat": 30.575049,
+      "original_ids": [
+        "way/1222154181"
+      ]
+    }
+  }, {
+    "entity_id": "poi_国际交流学院_0",
+    "name": "国际交流学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.417229,
+      "lat": 30.517211,
+      "original_ids": [
+        "way/103797829"
+      ]
+    }
+  }, {
+    "entity_id": "poi_国际教育学院_0",
+    "name": "国际教育学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.395572,
+      "lat": 30.523145,
+      "original_ids": [
+        "node/13410962293"
+      ]
+    }
+  }, {
+    "entity_id": "poi_城市便捷酒店_0",
+    "name": "城市便捷酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.396677,
+      "lat": 30.459437,
+      "original_ids": [
+        "node/3662373189"
+      ]
+    }
+  }, {
+    "entity_id": "poi_城市便捷酒店_1",
+    "name": "城市便捷酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.358924,
+      "lat": 30.525384,
+      "original_ids": [
+        "node/13680737010"
+      ]
+    }
+  }, {
+    "entity_id": "poi_堤香快捷酒店_0",
+    "name": "堤香快捷酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.358952,
+      "lat": 30.528688,
+      "original_ids": [
+        "node/13676616773"
+      ]
+    }
+  }, {
+    "entity_id": "poi_大洋百貨_0",
+    "name": "大洋百貨",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.395869,
+      "lat": 30.508093,
+      "original_ids": [
+        "node/7945756162"
+      ]
+    }
+  }, {
+    "entity_id": "poi_大润发_0",
+    "name": "大润发",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.404734,
+      "lat": 30.492285,
+      "original_ids": [
+        "node/11809212650"
+      ]
+    }
+  }, {
+    "entity_id": "poi_天兴乡政务服务中心_0",
+    "name": "天兴乡政务服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.398842,
+      "lat": 30.60652,
+      "original_ids": [
+        "node/13503701828"
+      ]
+    }
+  }, {
+    "entity_id": "poi_天天超市_0",
+    "name": "天天超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.361462,
+      "lat": 30.528395,
+      "original_ids": [
+        "node/13676616634"
+      ]
+    }
+  }, {
+    "entity_id": "poi_奥林学生超市_0",
+    "name": "奥林学生超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.369454,
+      "lat": 30.522686,
+      "original_ids": [
+        "node/13670516066"
+      ]
+    }
+  }, {
+    "entity_id": "poi_奥林幼儿园_0",
+    "name": "奥林幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.376134,
+      "lat": 30.521315,
+      "original_ids": [
+        "way/1491673552"
+      ]
+    }
+  }, {
+    "entity_id": "poi_好①家超市_0",
+    "name": "好①家超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.362874,
+      "lat": 30.51729,
+      "original_ids": [
+        "node/13673156646"
+      ]
+    }
+  }, {
+    "entity_id": "poi_好特卖_0",
+    "name": "好特卖",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.34847,
+      "lat": 30.529723,
+      "original_ids": [
+        "node/13583237947"
+      ]
+    }
+  }, {
+    "entity_id": "poi_如家快捷酒店(武汉高铁站店)_0",
+    "name": "如家快捷酒店(武汉高铁站店)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.415547,
+      "lat": 30.611619,
+      "original_ids": [
+        "node/5925049301"
+      ]
+    }
+  }, {
+    "entity_id": "poi_如家酒店_0",
+    "name": "如家酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.330992,
+      "lat": 30.504419,
+      "original_ids": [
+        "way/438244419"
+      ]
+    }
+  }, {
+    "entity_id": "poi_如家酒店_1",
+    "name": "如家酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.355402,
+      "lat": 30.527163,
+      "original_ids": [
+        "node/1369722888"
+      ]
+    }
+  }, {
+    "entity_id": "poi_如家酒店_2",
+    "name": "如家酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.369372,
+      "lat": 30.507018,
+      "original_ids": [
+        "node/1704396879"
+      ]
+    }
+  }, {
+    "entity_id": "poi_如家酒店_3",
+    "name": "如家酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.348295,
+      "lat": 30.528364,
+      "original_ids": [
+        "node/3677200333"
+      ]
+    }
+  }, {
+    "entity_id": "poi_季佳PAI_0",
+    "name": "季佳PAI",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.348606,
+      "lat": 30.529686,
+      "original_ids": [
+        "node/13583237948"
+      ]
+    }
+  }, {
+    "entity_id": "poi_季佳·里_0",
+    "name": "季佳·里",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.244286,
+      "lat": 30.468334,
+      "original_ids": [
+        "way/1408483215"
+      ]
+    }
+  }, {
+    "entity_id": "poi_宏嘉酒店_华中科技大学学术交流中心_0",
+    "name": "宏嘉酒店 华中科技大学学术交流中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.420462,
+      "lat": 30.517799,
+      "original_ids": [
+        "way/98867883"
+      ]
+    }
+  }, {
+    "entity_id": "poi_宝业丽都大拇指幼儿园_0",
+    "name": "宝业丽都大拇指幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.376858,
+      "lat": 30.464892,
+      "original_ids": [
+        "way/1232327845"
+      ]
+    }
+  }, {
+    "entity_id": "poi_山水公园_0",
+    "name": "山水公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.513196,
+      "lat": 30.496124,
+      "original_ids": [
+        "way/1015739329"
+      ]
+    }
+  }, {
+    "entity_id": "poi_崇文外国语学校_0",
+    "name": "崇文外国语学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.385527,
+      "lat": 30.532257,
+      "original_ids": [
+        "way/1030863107"
+      ]
+    }
+  }, {
+    "entity_id": "poi_巡司河体育公园_0",
+    "name": "巡司河体育公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.301915,
+      "lat": 30.467874,
+      "original_ids": [
+        "way/821956429"
+      ]
+    }
+  }, {
+    "entity_id": "poi_巡司河风情公园_0",
+    "name": "巡司河风情公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.306831,
+      "lat": 30.49197,
+      "original_ids": [
+        "way/1125567145"
+      ]
+    }
+  }, {
+    "entity_id": "poi_工贸家电_0",
+    "name": "工贸家电",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.346119,
+      "lat": 30.512106,
+      "original_ids": [
+        "node/1479951963"
+      ]
+    }
+  }, {
+    "entity_id": "poi_左岭社区卫生服务中心_0",
+    "name": "左岭社区卫生服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.601606,
+      "lat": 30.495992,
+      "original_ids": [
+        "way/1135390493"
+      ]
+    }
+  }, {
+    "entity_id": "poi_幼儿园_0",
+    "name": "幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.485876,
+      "lat": 30.474729,
+      "original_ids": [
+        "way/675927862"
+      ]
+    }
+  }, {
+    "entity_id": "poi_广埠屯小学_0",
+    "name": "广埠屯小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.3589,
+      "lat": 30.525973,
+      "original_ids": [
+        "way/737188953"
+      ]
+    }
+  }, {
+    "entity_id": "poi_张家湾人民公园_0",
+    "name": "张家湾人民公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.278718,
+      "lat": 30.478902,
+      "original_ids": [
+        "way/1084016364"
+      ]
+    }
+  }, {
+    "entity_id": "poi_张家湾街道办事处_0",
+    "name": "张家湾街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.274742,
+      "lat": 30.485282,
+      "original_ids": [
+        "node/2398267575"
+      ]
+    }
+  }, {
+    "entity_id": "poi_徐东双语幼儿园_0",
+    "name": "徐东双语幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.342612,
+      "lat": 30.591556,
+      "original_ids": [
+        "node/9860726606"
+      ]
+    }
+  }, {
+    "entity_id": "poi_忆福幼儿园_0",
+    "name": "忆福幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.486175,
+      "lat": 30.555375,
+      "original_ids": [
+        "way/1224006816"
+      ]
+    }
+  }, {
+    "entity_id": "poi_悦活里生活广场_0",
+    "name": "悦活里生活广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.327328,
+      "lat": 30.483041,
+      "original_ids": [
+        "way/1104706172"
+      ]
+    }
+  }, {
+    "entity_id": "poi_惠果园_0",
+    "name": "惠果园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.3204,
+      "lat": 30.511878,
+      "original_ids": [
+        "way/891405942"
+      ]
+    }
+  }, {
+    "entity_id": "poi_教超_0",
+    "name": "教超",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.338451,
+      "lat": 30.478945,
+      "original_ids": [
+        "node/9344334964"
+      ]
+    }
+  }, {
+    "entity_id": "poi_文华园_0",
+    "name": "文华园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.353631,
+      "lat": 30.521179,
+      "original_ids": [
+        "way/1493632465"
+      ]
+    }
+  }, {
+    "entity_id": "poi_文华学院_0",
+    "name": "文华学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.433242,
+      "lat": 30.496426,
+      "original_ids": [
+        "way/1095293277"
+      ]
+    }
+  }, {
+    "entity_id": "poi_新世界百货_0",
+    "name": "新世界百货",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.341418,
+      "lat": 30.590691,
+      "original_ids": [
+        "node/4194994625"
+      ]
+    }
+  }, {
+    "entity_id": "poi_新世界百货_1",
+    "name": "新世界百货",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.348684,
+      "lat": 30.529269,
+      "original_ids": [
+        "node/7945589412"
+      ]
+    }
+  }, {
+    "entity_id": "poi_新华电脑学校_0",
+    "name": "新华电脑学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.370401,
+      "lat": 30.50702,
+      "original_ids": [
+        "node/1704397898"
+      ]
+    }
+  }, {
+    "entity_id": "poi_新月溪公园_0",
+    "name": "新月溪公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.494832,
+      "lat": 30.480591,
+      "original_ids": [
+        "way/963261780"
+      ]
+    }
+  }, {
+    "entity_id": "poi_新航道_0",
+    "name": "新航道",
+    "label": "POI",
+    "properties": {
+      "poi_type": "prep_school",
+      "lon": 114.350982,
+      "lat": 30.535376,
+      "original_ids": [
+        "node/13583865821"
+      ]
+    }
+  }, {
+    "entity_id": "poi_旺山公园_0",
+    "name": "旺山公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.386782,
+      "lat": 30.513451,
+      "original_ids": [
+        "way/111973425"
+      ]
+    }
+  }, {
+    "entity_id": "poi_明昭园_0",
+    "name": "明昭园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.384089,
+      "lat": 30.476269,
+      "original_ids": [
+        "way/246149979"
+      ]
+    }
+  }, {
+    "entity_id": "poi_星湖园招待所_0",
+    "name": "星湖园招待所",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.355023,
+      "lat": 30.532364,
+      "original_ids": [
+        "way/104373476"
+      ]
+    }
+  }, {
+    "entity_id": "poi_星空广场_0",
+    "name": "星空广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.353575,
+      "lat": 30.531742,
+      "original_ids": [
+        "way/1155391715"
+      ]
+    }
+  }, {
+    "entity_id": "poi_晓月园_0",
+    "name": "晓月园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.260276,
+      "lat": 30.482953,
+      "original_ids": [
+        "way/1428429438"
+      ]
+    }
+  }, {
+    "entity_id": "poi_景舍酒店公寓_0",
+    "name": "景舍酒店公寓",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.363274,
+      "lat": 30.531194,
+      "original_ids": [
+        "node/13683936221"
+      ]
+    }
+  }, {
+    "entity_id": "poi_未来城_0",
+    "name": "未来城",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.348011,
+      "lat": 30.527011,
+      "original_ids": [
+        "way/171735079"
+      ]
+    }
+  }, {
+    "entity_id": "poi_未来城大酒店_0",
+    "name": "未来城大酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.347627,
+      "lat": 30.526734,
+      "original_ids": [
+        "node/6001723871"
+      ]
+    }
+  }, {
+    "entity_id": "poi_杨泗港大桥南岸桥头公园_0",
+    "name": "杨泗港大桥南岸桥头公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.266501,
+      "lat": 30.502019,
+      "original_ids": [
+        "way/997869516"
+      ]
+    }
+  }, {
+    "entity_id": "poi_枫叶寄宿学校_0",
+    "name": "枫叶寄宿学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.379305,
+      "lat": 30.45217,
+      "original_ids": [
+        "node/1150841378"
+      ]
+    }
+  }, {
+    "entity_id": "poi_校医院_0",
+    "name": "校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.305477,
+      "lat": 30.485878,
+      "original_ids": [
+        "way/475046230"
+      ]
+    }
+  }, {
+    "entity_id": "poi_校训石_艰苦朴素求真务实_0",
+    "name": "校训石-艰苦朴素求真务实",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.612949,
+      "lat": 30.461551,
+      "original_ids": [
+        "node/12384699383"
+      ]
+    }
+  }, {
+    "entity_id": "poi_格林东方酒店_0",
+    "name": "格林东方酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.365865,
+      "lat": 30.523521,
+      "original_ids": [
+        "node/13685684304"
+      ]
+    }
+  }, {
+    "entity_id": "poi_桂苑宾馆_0",
+    "name": "桂苑宾馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.361469,
+      "lat": 30.519956,
+      "original_ids": [
+        "way/545408339"
+      ]
+    }
+  }, {
+    "entity_id": "poi_桔子酒店_0",
+    "name": "桔子酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.379809,
+      "lat": 30.507956,
+      "original_ids": [
+        "way/169556488"
+      ]
+    }
+  }, {
+    "entity_id": "poi_梅岭_0",
+    "name": "梅岭",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.329955,
+      "lat": 30.516187,
+      "original_ids": [
+        "way/240495963"
+      ]
+    }
+  }, {
+    "entity_id": "poi_梨园大酒店_0",
+    "name": "梨园大酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.360117,
+      "lat": 30.578803,
+      "original_ids": [
+        "way/862082834"
+      ]
+    }
+  }, {
+    "entity_id": "poi_梨园街道_0",
+    "name": "梨园街道",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.347639,
+      "lat": 30.585661,
+      "original_ids": [
+        "node/2398309600"
+      ]
+    }
+  }, {
+    "entity_id": "poi_楚云别院_0",
+    "name": "楚云别院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.408033,
+      "lat": 30.526863,
+      "original_ids": [
+        "way/1463177780"
+      ]
+    }
+  }, {
+    "entity_id": "poi_楷恩医院_0",
+    "name": "楷恩医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.384003,
+      "lat": 30.532827,
+      "original_ids": [
+        "way/1030863110"
+      ]
+    }
+  }, {
+    "entity_id": "poi_欢乐汇_0",
+    "name": "欢乐汇",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.333894,
+      "lat": 30.508864,
+      "original_ids": [
+        "way/265394532"
+      ]
+    }
+  }, {
+    "entity_id": "poi_欣何驾校_0",
+    "name": "欣何驾校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "driving_school",
+      "lon": 114.381021,
+      "lat": 30.529791,
+      "original_ids": [
+        "way/1493727609"
+      ]
+    }
+  }, {
+    "entity_id": "poi_欣方达酒店_0",
+    "name": "欣方达酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.357963,
+      "lat": 30.52596,
+      "original_ids": [
+        "node/13680737006"
+      ]
+    }
+  }, {
+    "entity_id": "poi_欧亚达家具城_0",
+    "name": "欧亚达家具城",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.370108,
+      "lat": 30.507655,
+      "original_ids": [
+        "node/1481937289"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武东公园_0",
+    "name": "武东公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.453086,
+      "lat": 30.573685,
+      "original_ids": [
+        "way/1222154180"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武商超市_0",
+    "name": "武商超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.35822,
+      "lat": 30.524292,
+      "original_ids": [
+        "node/1210058604"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武商超级生活馆_0",
+    "name": "武商超级生活馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.514561,
+      "lat": 30.493567,
+      "original_ids": [
+        "node/11336330481"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武商量贩_0",
+    "name": "武商量贩",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.424799,
+      "lat": 30.507024,
+      "original_ids": [
+        "way/104350563"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武商量贩_1",
+    "name": "武商量贩",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.326207,
+      "lat": 30.485157,
+      "original_ids": [
+        "way/111177949"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武商量贩卓豹店_0",
+    "name": "武商量贩卓豹店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.373217,
+      "lat": 30.507772,
+      "original_ids": [
+        "node/1704396880"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武大测绘社区居委会_0",
+    "name": "武大测绘社区居委会",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.353195,
+      "lat": 30.530741,
+      "original_ids": [
+        "node/9548634922"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武昌实验寄宿小学（美林校区）_0",
+    "name": "武昌实验寄宿小学（美林校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.34635,
+      "lat": 30.595592,
+      "original_ids": [
+        "way/1006331814"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武昌工学院_0",
+    "name": "武昌工学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.279679,
+      "lat": 30.482355,
+      "original_ids": [
+        "way/345704434"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武昌工学院_1",
+    "name": "武昌工学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.279629,
+      "lat": 30.487285,
+      "original_ids": [
+        "way/345704436"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武昌海关_0",
+    "name": "武昌海关",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.396882,
+      "lat": 30.48058,
+      "original_ids": [
+        "way/719080721"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武昌首义学院_0",
+    "name": "武昌首义学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.301738,
+      "lat": 30.489688,
+      "original_ids": [
+        "way/1126843709"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉东湖外国语学校_0",
+    "name": "武汉东湖外国语学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.454332,
+      "lat": 30.551726,
+      "original_ids": [
+        "way/1224004663"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉东湖新技术开发区管理委员会_0",
+    "name": "武汉东湖新技术开发区管理委员会",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.491923,
+      "lat": 30.49331,
+      "original_ids": [
+        "way/1007527596"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉东湖湿地公园入口_0",
+    "name": "武汉东湖湿地公园入口",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.42633,
+      "lat": 30.532158,
+      "original_ids": [
+        "node/13164475001"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉中百_0",
+    "name": "武汉中百",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.616263,
+      "lat": 30.492912,
+      "original_ids": [
+        "way/1149842824"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉中西医结合骨科医院_0",
+    "name": "武汉中西医结合骨科医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.36149,
+      "lat": 30.523479,
+      "original_ids": [
+        "way/1390591022"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉云涧艺术酒店_0",
+    "name": "武汉云涧艺术酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.362366,
+      "lat": 30.531378,
+      "original_ids": [
+        "node/13683936222"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉交通职业学院_0",
+    "name": "武汉交通职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.260667,
+      "lat": 30.429969,
+      "original_ids": [
+        "way/491613597"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉交通职业学院校医院_0",
+    "name": "武汉交通职业学院校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.262834,
+      "lat": 30.430029,
+      "original_ids": [
+        "way/1410514093"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉体育学院_0",
+    "name": "武汉体育学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.372898,
+      "lat": 30.522828,
+      "original_ids": [
+        "way/112940438"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉光谷希尔顿酒店_0",
+    "name": "武汉光谷希尔顿酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.485513,
+      "lat": 30.553459,
+      "original_ids": [
+        "way/1224004707"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉华中艺术学校_0",
+    "name": "武汉华中艺术学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.411584,
+      "lat": 30.542012,
+      "original_ids": [
+        "way/1510415057"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉华夏理工学院_0",
+    "name": "武汉华夏理工学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.406697,
+      "lat": 30.469057,
+      "original_ids": [
+        "way/362961491"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉城市学院_0",
+    "name": "武汉城市学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.421993,
+      "lat": 30.588738,
+      "original_ids": [
+        "way/1050685612"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉城市职业学院_0",
+    "name": "武汉城市职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.316849,
+      "lat": 30.478811,
+      "original_ids": [
+        "way/1083980163"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉城市职业学院南校区_0",
+    "name": "武汉城市职业学院南校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.308761,
+      "lat": 30.442668,
+      "original_ids": [
+        "way/491613604"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学_0",
+    "name": "武汉大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.358903,
+      "lat": 30.538685,
+      "original_ids": [
+        "relation/10717504"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学人民医院_(湖北省人民医院)_洪山院区_0",
+    "name": "武汉大学人民医院 (湖北省人民医院) 洪山院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.279314,
+      "lat": 30.47693,
+      "original_ids": [
+        "way/1084016363"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学口腔医院_0",
+    "name": "武汉大学口腔医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.360782,
+      "lat": 30.52465,
+      "original_ids": [
+        "way/1390591019"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学幼儿园三分园_0",
+    "name": "武汉大学幼儿园三分园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.357044,
+      "lat": 30.532557,
+      "original_ids": [
+        "way/536353534"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学计划生育委员会办公室_0",
+    "name": "武汉大学计划生育委员会办公室",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.357282,
+      "lat": 30.533033,
+      "original_ids": [
+        "node/13724188519"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉大学附属中学_0",
+    "name": "武汉大学附属中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.357927,
+      "lat": 30.531637,
+      "original_ids": [
+        "way/1382968011"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工商学院_0",
+    "name": "武汉工商学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.269112,
+      "lat": 30.461371,
+      "original_ids": [
+        "way/491613591"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工学院_0",
+    "name": "武汉工学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.348243,
+      "lat": 30.523751,
+      "original_ids": [
+        "node/13339579002"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工程大学_0",
+    "name": "武汉工程大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.384945,
+      "lat": 30.504363,
+      "original_ids": [
+        "relation/10811932"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工程大学叠翠胡公园_0",
+    "name": "武汉工程大学叠翠胡公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.385891,
+      "lat": 30.50404,
+      "original_ids": [
+        "node/10065962574"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工程大学校医院_0",
+    "name": "武汉工程大学校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.385605,
+      "lat": 30.503245,
+      "original_ids": [
+        "way/109359006"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工程大学邮电与信息工程学院_0",
+    "name": "武汉工程大学邮电与信息工程学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.38615,
+      "lat": 30.519429,
+      "original_ids": [
+        "way/778753971"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工程大学邮电与信息工程学院_1",
+    "name": "武汉工程大学邮电与信息工程学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.384333,
+      "lat": 30.506833,
+      "original_ids": [
+        "node/1807272913"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉工贸职业学院_0",
+    "name": "武汉工贸职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.409773,
+      "lat": 30.53173,
+      "original_ids": [
+        "way/1463177781"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市东湖医院_0",
+    "name": "武汉市东湖医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.392886,
+      "lat": 30.536669,
+      "original_ids": [
+        "way/1494098613"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市东湖实验学校_0",
+    "name": "武汉市东湖实验学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.368226,
+      "lat": 30.587614,
+      "original_ids": [
+        "way/1053020127"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市供销商业学校_0",
+    "name": "武汉市供销商业学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.322193,
+      "lat": 30.486137,
+      "original_ids": [
+        "way/1238493959"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷中心幼儿园_0",
+    "name": "武汉市光谷中心幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.484431,
+      "lat": 30.500207,
+      "original_ids": [
+        "way/1062568162"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷实验中学_0",
+    "name": "武汉市光谷实验中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.408562,
+      "lat": 30.460258,
+      "original_ids": [
+        "way/363081573"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷左岭第一初级中学_0",
+    "name": "武汉市光谷左岭第一初级中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.614412,
+      "lat": 30.494433,
+      "original_ids": [
+        "way/1149842822"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷汤逊湖高级中学_0",
+    "name": "武汉市光谷汤逊湖高级中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.363894,
+      "lat": 30.464219,
+      "original_ids": [
+        "way/1415451378"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第一初级中学_0",
+    "name": "武汉市光谷第一初级中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.481152,
+      "lat": 30.501209,
+      "original_ids": [
+        "way/1062568656"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第一小学_0",
+    "name": "武汉市光谷第一小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.411181,
+      "lat": 30.49224,
+      "original_ids": [
+        "way/362965031"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二初级中学_0",
+    "name": "武汉市光谷第二初级中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.435503,
+      "lat": 30.506105,
+      "original_ids": [
+        "way/366094597"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二十一小学_0",
+    "name": "武汉市光谷第二十一小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.480776,
+      "lat": 30.503609,
+      "original_ids": [
+        "way/1062568654"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二十九小学_0",
+    "name": "武汉市光谷第二十九小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.604855,
+      "lat": 30.495506,
+      "original_ids": [
+        "way/1149842825"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二十八小学_0",
+    "name": "武汉市光谷第二十八小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.616523,
+      "lat": 30.495348,
+      "original_ids": [
+        "way/1149842823"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二十六小学_0",
+    "name": "武汉市光谷第二十六小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.492592,
+      "lat": 30.554894,
+      "original_ids": [
+        "way/1224004705"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第二小学_0",
+    "name": "武汉市光谷第二小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.399628,
+      "lat": 30.460114,
+      "original_ids": [
+        "way/362950670"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第五小学_0",
+    "name": "武汉市光谷第五小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.370308,
+      "lat": 30.463951,
+      "original_ids": [
+        "way/1232327856"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第六小学_0",
+    "name": "武汉市光谷第六小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.40658,
+      "lat": 30.475306,
+      "original_ids": [
+        "way/362964379"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第十一小学_0",
+    "name": "武汉市光谷第十一小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.37947,
+      "lat": 30.497321,
+      "original_ids": [
+        "way/1234545298"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第十二小学_0",
+    "name": "武汉市光谷第十二小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.435321,
+      "lat": 30.483448,
+      "original_ids": [
+        "way/1347208235"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市光谷第十小学（武汉小学光谷分校）_0",
+    "name": "武汉市光谷第十小学（武汉小学光谷分校）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.398831,
+      "lat": 30.483988,
+      "original_ids": [
+        "way/111177940"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市卓刀泉中学_0",
+    "name": "武汉市卓刀泉中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.367179,
+      "lat": 30.521626,
+      "original_ids": [
+        "way/1491846270"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市卓刀泉中学(建和分校)_0",
+    "name": "武汉市卓刀泉中学(建和分校)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.239453,
+      "lat": 30.462806,
+      "original_ids": [
+        "way/1408483216"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市卓刀泉中学张家湾分校_0",
+    "name": "武汉市卓刀泉中学张家湾分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.264183,
+      "lat": 30.475243,
+      "original_ids": [
+        "way/1408789573"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市国土资源和规划局洪山分局_0",
+    "name": "武汉市国土资源和规划局洪山分局",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.333315,
+      "lat": 30.492356,
+      "original_ids": [
+        "way/1238493958"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市张家铺小学_0",
+    "name": "武汉市张家铺小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.436289,
+      "lat": 30.588692,
+      "original_ids": [
+        "relation/14064778"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市旭光学校_0",
+    "name": "武汉市旭光学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.406114,
+      "lat": 30.504441,
+      "original_ids": [
+        "way/1047452112"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市武昌医院南湖院区_0",
+    "name": "武汉市武昌医院南湖院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.335189,
+      "lat": 30.494277,
+      "original_ids": [
+        "way/1104852021"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山中学_0",
+    "name": "武汉市洪山中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.347998,
+      "lat": 30.534138,
+      "original_ids": [
+        "way/1474581739"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区产品质量监督所_0",
+    "name": "武汉市洪山区产品质量监督所",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.362108,
+      "lat": 30.525313,
+      "original_ids": [
+        "node/13680519644"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区北洋桥小学_0",
+    "name": "武汉市洪山区北洋桥小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.40058,
+      "lat": 30.618192,
+      "original_ids": [
+        "way/1324262447"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区卓刀泉小学_0",
+    "name": "武汉市洪山区卓刀泉小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.366828,
+      "lat": 30.513424,
+      "original_ids": [
+        "way/1104866667"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区第一幼儿园_0",
+    "name": "武汉市洪山区第一幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.35098,
+      "lat": 30.533344,
+      "original_ids": [
+        "way/1492357485"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区第五小学_0",
+    "name": "武汉市洪山区第五小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.292177,
+      "lat": 30.45776,
+      "original_ids": [
+        "way/1395883139"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区街道口小学（东方雅园分校）_0",
+    "name": "武汉市洪山区街道口小学（东方雅园分校）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.395659,
+      "lat": 30.616424,
+      "original_ids": [
+        "way/1324262489"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山区鲁巷实验小学(建和分校)_0",
+    "name": "武汉市洪山区鲁巷实验小学(建和分校)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.238359,
+      "lat": 30.46133,
+      "original_ids": [
+        "way/1408483217"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山实验中学_0",
+    "name": "武汉市洪山实验中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.286364,
+      "lat": 30.476963,
+      "original_ids": [
+        "way/1395723593"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山实验外国语学校·初中部_0",
+    "name": "武汉市洪山实验外国语学校·初中部",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.358865,
+      "lat": 30.507877,
+      "original_ids": [
+        "way/1160913762"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山实验外国语小学_0",
+    "name": "武汉市洪山实验外国语小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.362364,
+      "lat": 30.502012,
+      "original_ids": [
+        "way/757751287"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山实验小学（北校区）_0",
+    "name": "武汉市洪山实验小学（北校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.284328,
+      "lat": 30.476818,
+      "original_ids": [
+        "way/738436176"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市洪山高级中学_0",
+    "name": "武汉市洪山高级中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.381639,
+      "lat": 30.49257,
+      "original_ids": [
+        "way/757751288"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市白沙洲中学_0",
+    "name": "武汉市白沙洲中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.265853,
+      "lat": 30.488471,
+      "original_ids": [
+        "way/346175873"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市石牌岭高级职业中学_0",
+    "name": "武汉市石牌岭高级职业中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.337226,
+      "lat": 30.526981,
+      "original_ids": [
+        "way/1314342138"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市第三医院光谷院区_0",
+    "name": "武汉市第三医院光谷院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.405322,
+      "lat": 30.501324,
+      "original_ids": [
+        "way/1338004071"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉市长虹中学_0",
+    "name": "武汉市长虹中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.275901,
+      "lat": 30.477092,
+      "original_ids": [
+        "way/1084016368"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉明德肛肠医院_0",
+    "name": "武汉明德肛肠医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.377692,
+      "lat": 30.505998,
+      "original_ids": [
+        "way/109366158"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉杨春湖实验学校小学部_0",
+    "name": "武汉杨春湖实验学校小学部",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.428446,
+      "lat": 30.61447,
+      "original_ids": [
+        "way/1053823976"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉枫叶国际学校_0",
+    "name": "武汉枫叶国际学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.378895,
+      "lat": 30.451322,
+      "original_ids": [
+        "way/1232327841"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉泰康之家楚园康复医院_0",
+    "name": "武汉泰康之家楚园康复医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.487415,
+      "lat": 30.569587,
+      "original_ids": [
+        "way/1224006809"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉点睛学校_0",
+    "name": "武汉点睛学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.487056,
+      "lat": 30.51214,
+      "original_ids": [
+        "way/1046831034"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉珂信肿瘤医院_0",
+    "name": "武汉珂信肿瘤医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.265522,
+      "lat": 30.46764,
+      "original_ids": [
+        "way/1392073252"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学余家头校区_0",
+    "name": "武汉理工大学余家头校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.351097,
+      "lat": 30.608838,
+      "original_ids": [
+        "way/173123702"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学南湖校区_0",
+    "name": "武汉理工大学南湖校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.327535,
+      "lat": 30.511012,
+      "original_ids": [
+        "way/240494784"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学校医院_0",
+    "name": "武汉理工大学校医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.34205,
+      "lat": 30.525459,
+      "original_ids": [
+        "node/2570979019"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学西院校区_0",
+    "name": "武汉理工大学西院校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.343178,
+      "lat": 30.524016,
+      "original_ids": [
+        "way/265391257"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学鉴湖校区_0",
+    "name": "武汉理工大学鉴湖校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.337827,
+      "lat": 30.515852,
+      "original_ids": [
+        "way/240495121"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学附属小学_0",
+    "name": "武汉理工大学附属小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.340901,
+      "lat": 30.517651,
+      "original_ids": [
+        "way/1104866664"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉理工大学马房山校区东院_0",
+    "name": "武汉理工大学马房山校区东院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.348321,
+      "lat": 30.520933,
+      "original_ids": [
+        "way/267930737"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉电力职业技术学院_0",
+    "name": "武汉电力职业技术学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.360155,
+      "lat": 30.526964,
+      "original_ids": [
+        "way/737188968"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉留白青年公寓_0",
+    "name": "武汉留白青年公寓",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.361722,
+      "lat": 30.528729,
+      "original_ids": [
+        "node/13724188522"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉皇家格雷斯酒店_0",
+    "name": "武汉皇家格雷斯酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.399842,
+      "lat": 30.463324,
+      "original_ids": [
+        "node/3700513746"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉科技大学(黄家湖校区)_0",
+    "name": "武汉科技大学(黄家湖校区)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.26266,
+      "lat": 30.441906,
+      "original_ids": [
+        "way/491613595"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉科技大学德康医院_0",
+    "name": "武汉科技大学德康医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.288632,
+      "lat": 30.481272,
+      "original_ids": [
+        "way/738436184"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉科技大学附属第二医院_0",
+    "name": "武汉科技大学附属第二医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.259218,
+      "lat": 30.445896,
+      "original_ids": [
+        "way/1366494365"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉科技大学（洪山校区）_0",
+    "name": "武汉科技大学（洪山校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.334772,
+      "lat": 30.518027,
+      "original_ids": [
+        "way/1416272579"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉纺织大学_0",
+    "name": "武汉纺织大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.393429,
+      "lat": 30.487951,
+      "original_ids": [
+        "way/366094210"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉纺织大学（东湖校区）_0",
+    "name": "武汉纺织大学（东湖校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.367332,
+      "lat": 30.581653,
+      "original_ids": [
+        "way/1416284603"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉职业技术学院东区_0",
+    "name": "武汉职业技术学院东区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.410652,
+      "lat": 30.486747,
+      "original_ids": [
+        "way/758014845"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉职业技术学院西区_0",
+    "name": "武汉职业技术学院西区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.402958,
+      "lat": 30.48888,
+      "original_ids": [
+        "way/350484883"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉蓝天花园酒店_0",
+    "name": "武汉蓝天花园酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.364177,
+      "lat": 30.529601,
+      "original_ids": [
+        "way/1493263254"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉西藏中学_0",
+    "name": "武汉西藏中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.414986,
+      "lat": 30.588647,
+      "original_ids": [
+        "way/1050512868"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉警官职业学校（汤逊湖校区）_0",
+    "name": "武汉警官职业学校（汤逊湖校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.386326,
+      "lat": 30.437419,
+      "original_ids": [
+        "way/1234205358"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉警官职业学院_0",
+    "name": "武汉警官职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.370833,
+      "lat": 30.505518,
+      "original_ids": [
+        "way/779852545"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉透明人酒店_0",
+    "name": "武汉透明人酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.348292,
+      "lat": 30.531957,
+      "original_ids": [
+        "node/13696894879"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉铁路技师学院_0",
+    "name": "武汉铁路技师学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.34302,
+      "lat": 30.458889,
+      "original_ids": [
+        "way/913770556"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉长动医院_0",
+    "name": "武汉长动医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.405619,
+      "lat": 30.50819,
+      "original_ids": [
+        "way/1047432452"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉长江通信产业集团股份有限公司_0",
+    "name": "武汉长江通信产业集团股份有限公司",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.428915,
+      "lat": 30.500707,
+      "original_ids": [
+        "way/498826719",
+        "node/4901591273"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉阡陌青年旅舍_0",
+    "name": "武汉阡陌青年旅舍",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.361891,
+      "lat": 30.528736,
+      "original_ids": [
+        "node/13724188523"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武汉高速铁路职业技能训练段_0",
+    "name": "武汉高速铁路职业技能训练段",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.477658,
+      "lat": 30.540654,
+      "original_ids": [
+        "way/1224004664"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武珞路小学爱家分校_0",
+    "name": "武珞路小学爱家分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.249662,
+      "lat": 30.429757,
+      "original_ids": [
+        "way/1410514917"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武珞路小学石牌岭分校_0",
+    "name": "武珞路小学石牌岭分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.334906,
+      "lat": 30.522345,
+      "original_ids": [
+        "way/1104866663"
+      ]
+    }
+  }, {
+    "entity_id": "poi_武钢实验学校_0",
+    "name": "武钢实验学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.371091,
+      "lat": 30.608641,
+      "original_ids": [
+        "way/1514536500"
+      ]
+    }
+  }, {
+    "entity_id": "poi_毛坦公园_0",
+    "name": "毛坦公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.29497,
+      "lat": 30.486197,
+      "original_ids": [
+        "way/1322465418"
+      ]
+    }
+  }, {
+    "entity_id": "poi_汉庭酒店_0",
+    "name": "汉庭酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.39455,
+      "lat": 30.444048,
+      "original_ids": [
+        "node/3662767547"
+      ]
+    }
+  }, {
+    "entity_id": "poi_汉庭酒店_1",
+    "name": "汉庭酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.383694,
+      "lat": 30.514592,
+      "original_ids": [
+        "node/4313800904"
+      ]
+    }
+  }, {
+    "entity_id": "poi_汉庭酒店_2",
+    "name": "汉庭酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.4109,
+      "lat": 30.502887,
+      "original_ids": [
+        "node/13671016461"
+      ]
+    }
+  }, {
+    "entity_id": "poi_汉庭酒店_3",
+    "name": "汉庭酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.363759,
+      "lat": 30.521113,
+      "original_ids": [
+        "node/13698832634"
+      ]
+    }
+  }, {
+    "entity_id": "poi_汉庭酒店(武汉高铁店)_0",
+    "name": "汉庭酒店(武汉高铁店)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.415061,
+      "lat": 30.611606,
+      "original_ids": [
+        "node/5925049304"
+      ]
+    }
+  }, {
+    "entity_id": "poi_江夏经济开发区庙山管委会_0",
+    "name": "江夏经济开发区庙山管委会",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.37742,
+      "lat": 30.437827,
+      "original_ids": [
+        "way/1234205364"
+      ]
+    }
+  }, {
+    "entity_id": "poi_江汉大学(武昌校区)_0",
+    "name": "江汉大学(武昌校区)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.268768,
+      "lat": 30.483038,
+      "original_ids": [
+        "way/1393196598"
+      ]
+    }
+  }, {
+    "entity_id": "poi_沃尔玛_0",
+    "name": "沃尔玛",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.405288,
+      "lat": 30.480549,
+      "original_ids": [
+        "node/1282533533"
+      ]
+    }
+  }, {
+    "entity_id": "poi_泛悦城商店街_0",
+    "name": "泛悦城商店街",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.408441,
+      "lat": 30.507906,
+      "original_ids": [
+        "relation/13799529"
+      ]
+    }
+  }, {
+    "entity_id": "poi_泛悦城商店街_1",
+    "name": "泛悦城商店街",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.408409,
+      "lat": 30.507188,
+      "original_ids": [
+        "way/1030950848"
+      ]
+    }
+  }, {
+    "entity_id": "poi_泛悦城市奥特莱斯_0",
+    "name": "泛悦城市奥特莱斯",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.346026,
+      "lat": 30.515329,
+      "original_ids": [
+        "way/776255557"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山万科广场Viviland_0",
+    "name": "洪山万科广场Viviland",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.270036,
+      "lat": 30.485481,
+      "original_ids": [
+        "way/1160670374"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山二小_0",
+    "name": "洪山二小",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.322221,
+      "lat": 30.481702,
+      "original_ids": [
+        "way/1083980164"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区书城路中学_0",
+    "name": "洪山区书城路中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.334248,
+      "lat": 30.505743,
+      "original_ids": [
+        "way/1104866669"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区南望山小学_0",
+    "name": "洪山区南望山小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.391761,
+      "lat": 30.519851,
+      "original_ids": [
+        "way/1009568206"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区妇幼保健院_0",
+    "name": "洪山区妇幼保健院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.287118,
+      "lat": 30.481722,
+      "original_ids": [
+        "way/1083980047"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区张家湾小学_0",
+    "name": "洪山区张家湾小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.284027,
+      "lat": 30.501814,
+      "original_ids": [
+        "way/1126619461"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区政务中心_0",
+    "name": "洪山区政务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.339379,
+      "lat": 30.505856,
+      "original_ids": [
+        "way/642220326"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区政府_0",
+    "name": "洪山区政府",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.337265,
+      "lat": 30.502887,
+      "original_ids": [
+        "way/98965682"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区明珠幼儿园_0",
+    "name": "洪山区明珠幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.362066,
+      "lat": 30.500927,
+      "original_ids": [
+        "way/1497830110"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区梨园街社区服务中心_0",
+    "name": "洪山区梨园街社区服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.344613,
+      "lat": 30.590174,
+      "original_ids": [
+        "node/9860694412"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区武珞路小学_0",
+    "name": "洪山区武珞路小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.34023,
+      "lat": 30.53191,
+      "original_ids": [
+        "way/1104852022"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区武珞路小学大华分校_0",
+    "name": "洪山区武珞路小学大华分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.325342,
+      "lat": 30.497172,
+      "original_ids": [
+        "way/295492722"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区武珞路小学金地分校_0",
+    "name": "洪山区武珞路小学金地分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.325448,
+      "lat": 30.499413,
+      "original_ids": [
+        "way/1104866665"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区珞狮路小学_0",
+    "name": "洪山区珞狮路小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.342737,
+      "lat": 30.508642,
+      "original_ids": [
+        "node/2992225208"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区税务局_0",
+    "name": "洪山区税务局",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.344454,
+      "lat": 30.529406,
+      "original_ids": [
+        "way/636436871"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区第一小学_0",
+    "name": "洪山区第一小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.32485,
+      "lat": 30.502644,
+      "original_ids": [
+        "way/891405958"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区第一小学书城路分校_0",
+    "name": "洪山区第一小学书城路分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.335244,
+      "lat": 30.506397,
+      "original_ids": [
+        "way/1104866668"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区第三小学_0",
+    "name": "洪山区第三小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.337718,
+      "lat": 30.48709,
+      "original_ids": [
+        "way/1028110767"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区致远小学_0",
+    "name": "洪山区致远小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.283008,
+      "lat": 30.488916,
+      "original_ids": [
+        "way/1084016365"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区英格中学_0",
+    "name": "洪山区英格中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.323796,
+      "lat": 30.497324,
+      "original_ids": [
+        "way/918085217"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区街道口小学_0",
+    "name": "洪山区街道口小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.351056,
+      "lat": 30.533753,
+      "original_ids": [
+        "way/1382895752"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山区青菱小学_0",
+    "name": "洪山区青菱小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.261178,
+      "lat": 30.459289,
+      "original_ids": [
+        "way/1408483222"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山江滩_0",
+    "name": "洪山江滩",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.257314,
+      "lat": 30.493756,
+      "original_ids": [
+        "way/1128115060"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山菜薹公园_0",
+    "name": "洪山菜薹公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.334259,
+      "lat": 30.521781,
+      "original_ids": [
+        "way/1028361605"
+      ]
+    }
+  }, {
+    "entity_id": "poi_洪山街道办事处_0",
+    "name": "洪山街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.334148,
+      "lat": 30.504358,
+      "original_ids": [
+        "node/13484953622"
+      ]
+    }
+  }, {
+    "entity_id": "poi_流行视窗购物广场_0",
+    "name": "流行视窗购物广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.348341,
+      "lat": 30.528287,
+      "original_ids": [
+        "way/113819653"
+      ]
+    }
+  }, {
+    "entity_id": "poi_海棠园_0",
+    "name": "海棠园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.610653,
+      "lat": 30.459447,
+      "original_ids": [
+        "way/1338893300"
+      ]
+    }
+  }, {
+    "entity_id": "poi_海绵公园_0",
+    "name": "海绵公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.394204,
+      "lat": 30.605595,
+      "original_ids": [
+        "relation/20691333"
+      ]
+    }
+  }, {
+    "entity_id": "poi_清江山水幼儿园_0",
+    "name": "清江山水幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.394175,
+      "lat": 30.473009,
+      "original_ids": [
+        "way/1347485763"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北中医药大学(黄家湖校区)_0",
+    "name": "湖北中医药大学(黄家湖校区)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.264626,
+      "lat": 30.450236,
+      "original_ids": [
+        "way/491613592"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北交通职业技术学院洪山校区_0",
+    "name": "湖北交通职业技术学院洪山校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.366872,
+      "lat": 30.510145,
+      "original_ids": [
+        "way/779852547"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北商贸学院_0",
+    "name": "湖北商贸学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.371326,
+      "lat": 30.502718,
+      "original_ids": [
+        "relation/10811935"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北大学职业技术学院_0",
+    "name": "湖北大学职业技术学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.368269,
+      "lat": 30.506193,
+      "original_ids": [
+        "way/779852546"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北工业大学_0",
+    "name": "湖北工业大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.303641,
+      "lat": 30.483007,
+      "original_ids": [
+        "relation/5350481"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北工业大学工程技术学院（南校区）_0",
+    "name": "湖北工业大学工程技术学院（南校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.302699,
+      "lat": 30.473779,
+      "original_ids": [
+        "way/1348909057"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北开放职业学院_0",
+    "name": "湖北开放职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.391994,
+      "lat": 30.501966,
+      "original_ids": [
+        "way/422551940"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北开放职业学院东湖校区_0",
+    "name": "湖北开放职业学院东湖校区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.456972,
+      "lat": 30.532726,
+      "original_ids": [
+        "way/1049306811"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北水利水电职业技术学院_0",
+    "name": "湖北水利水电职业技术学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.332331,
+      "lat": 30.493502,
+      "original_ids": [
+        "way/366095650"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北生物科技职业学院_0",
+    "name": "湖北生物科技职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.339096,
+      "lat": 30.463622,
+      "original_ids": [
+        "way/913770557"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省世达实用外国语学校_0",
+    "name": "湖北省世达实用外国语学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.417689,
+      "lat": 30.57743,
+      "original_ids": [
+        "way/1050317356"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省中医药管理局_0",
+    "name": "湖北省中医药管理局",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.368063,
+      "lat": 30.527815,
+      "original_ids": [
+        "node/13683688880"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省中医院光谷院区_0",
+    "name": "湖北省中医院光谷院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.40293,
+      "lat": 30.50812,
+      "original_ids": [
+        "way/1046876521"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省人民检察院_0",
+    "name": "湖北省人民检察院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.348817,
+      "lat": 30.511615,
+      "original_ids": [
+        "way/1098003808"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省健康教育所_0",
+    "name": "湖北省健康教育所",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.365813,
+      "lat": 30.525973,
+      "original_ids": [
+        "node/13683688876"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省健康管理中心_0",
+    "name": "湖北省健康管理中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.36802,
+      "lat": 30.52739,
+      "original_ids": [
+        "node/13683688879"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省卫生健康发展服务中心_0",
+    "name": "湖北省卫生健康发展服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.364703,
+      "lat": 30.526028,
+      "original_ids": [
+        "node/13683688872"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省卫生和计划生育委员会_0",
+    "name": "湖北省卫生和计划生育委员会",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.368072,
+      "lat": 30.528008,
+      "original_ids": [
+        "node/13683688622"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省卫生监测检验防护所_0",
+    "name": "湖北省卫生监测检验防护所",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.365001,
+      "lat": 30.525614,
+      "original_ids": [
+        "node/13683688875"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省国有林场工作站_0",
+    "name": "湖北省国有林场工作站",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.362823,
+      "lat": 30.518163,
+      "original_ids": [
+        "node/13673156662"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省基本公共卫生服务项目管理办公室_0",
+    "name": "湖北省基本公共卫生服务项目管理办公室",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.367867,
+      "lat": 30.527392,
+      "original_ids": [
+        "node/13683688877"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省妇幼保健院洪山院区_0",
+    "name": "湖北省妇幼保健院洪山院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.285937,
+      "lat": 30.481333,
+      "original_ids": [
+        "way/1083980048"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省妇幼保健院街道口院区_0",
+    "name": "湖北省妇幼保健院街道口院区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.346678,
+      "lat": 30.530431,
+      "original_ids": [
+        "way/101817145"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省广播电视大学_0",
+    "name": "湖北省广播电视大学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.391895,
+      "lat": 30.505255,
+      "original_ids": [
+        "way/109363038"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省民政厅_0",
+    "name": "湖北省民政厅",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.361628,
+      "lat": 30.510089,
+      "original_ids": [
+        "node/1481915614"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省生态环境厅_0",
+    "name": "湖北省生态环境厅",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.366366,
+      "lat": 30.530869,
+      "original_ids": [
+        "node/13588557770"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省生态环境厅政务服务大厅_0",
+    "name": "湖北省生态环境厅政务服务大厅",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.366759,
+      "lat": 30.530754,
+      "original_ids": [
+        "node/13588557791"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省知识产权保护中心_0",
+    "name": "湖北省知识产权保护中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.358786,
+      "lat": 30.531146,
+      "original_ids": [
+        "node/13704363162"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省移民局_0",
+    "name": "湖北省移民局",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.365735,
+      "lat": 30.523941,
+      "original_ids": [
+        "node/13685684234"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省肿瘤医院_0",
+    "name": "湖北省肿瘤医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.359101,
+      "lat": 30.502455,
+      "original_ids": [
+        "way/470200969"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省艺校_0",
+    "name": "湖北省艺校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.366244,
+      "lat": 30.512689,
+      "original_ids": [
+        "way/779852549"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省退役军人事务厅_0",
+    "name": "湖北省退役军人事务厅",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.365291,
+      "lat": 30.52425,
+      "original_ids": [
+        "node/13685684233"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省邮电学校_0",
+    "name": "湖北省邮电学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.376894,
+      "lat": 30.50437,
+      "original_ids": [
+        "way/779852538"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北省邮电职业中等专业学校_0",
+    "name": "湖北省邮电职业中等专业学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.347306,
+      "lat": 30.536544,
+      "original_ids": [
+        "way/1494474477"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北第二师范学院_0",
+    "name": "湖北第二师范学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.444127,
+      "lat": 30.48285,
+      "original_ids": [
+        "relation/17459193"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北艺术职业学院_0",
+    "name": "湖北艺术职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.341663,
+      "lat": 30.530064,
+      "original_ids": [
+        "way/1314539212"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北艺术职业学院（石牌岭路校区）_0",
+    "name": "湖北艺术职业学院（石牌岭路校区）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.33794,
+      "lat": 30.527826,
+      "original_ids": [
+        "way/1314370711"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖北青年职业学院_0",
+    "name": "湖北青年职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.3649,
+      "lat": 30.509625,
+      "original_ids": [
+        "way/779852548"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖滨公园_0",
+    "name": "湖滨公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.35763,
+      "lat": 30.498792,
+      "original_ids": [
+        "way/779852569"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖滨花园东侧公园_0",
+    "name": "湖滨花园东侧公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.381508,
+      "lat": 30.517601,
+      "original_ids": [
+        "way/112934355"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖滨花园酒店_0",
+    "name": "湖滨花园酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.378595,
+      "lat": 30.519649,
+      "original_ids": [
+        "node/1272840314"
+      ]
+    }
+  }, {
+    "entity_id": "poi_湖滨花园酒店公园_0",
+    "name": "湖滨花园酒店公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.378558,
+      "lat": 30.519187,
+      "original_ids": [
+        "node/10065962573"
+      ]
+    }
+  }, {
+    "entity_id": "poi_滨湖超市_0",
+    "name": "滨湖超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.387497,
+      "lat": 30.478964,
+      "original_ids": [
+        "way/444340883"
+      ]
+    }
+  }, {
+    "entity_id": "poi_澳门四季铭汇酒店_0",
+    "name": "澳门四季铭汇酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.362696,
+      "lat": 30.531312,
+      "original_ids": [
+        "node/13683936219"
+      ]
+    }
+  }, {
+    "entity_id": "poi_烽火游园_0",
+    "name": "烽火游园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.295302,
+      "lat": 30.463398,
+      "original_ids": [
+        "way/997960552"
+      ]
+    }
+  }, {
+    "entity_id": "poi_烽胜公园_0",
+    "name": "烽胜公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.28998,
+      "lat": 30.479096,
+      "original_ids": [
+        "relation/10214105"
+      ]
+    }
+  }, {
+    "entity_id": "poi_爱因斯坦广场_0",
+    "name": "爱因斯坦广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.430062,
+      "lat": 30.516561,
+      "original_ids": [
+        "way/98865830"
+      ]
+    }
+  }, {
+    "entity_id": "poi_物业广场_0",
+    "name": "物业广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.406762,
+      "lat": 30.456351,
+      "original_ids": [
+        "way/448589476"
+      ]
+    }
+  }, {
+    "entity_id": "poi_狮子山街道办事处_0",
+    "name": "狮子山街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.343013,
+      "lat": 30.478959,
+      "original_ids": [
+        "node/2398309609"
+      ]
+    }
+  }, {
+    "entity_id": "poi_环境科学与工程学院_0",
+    "name": "环境科学与工程学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.414123,
+      "lat": 30.516005,
+      "original_ids": [
+        "node/13357591183"
+      ]
+    }
+  }, {
+    "entity_id": "poi_珞南街四眼井社区网格化管理工作站_0",
+    "name": "珞南街四眼井社区网格化管理工作站",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.350651,
+      "lat": 30.533146,
+      "original_ids": [
+        "node/11780095551"
+      ]
+    }
+  }, {
+    "entity_id": "poi_珞南街道办事处_0",
+    "name": "珞南街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.344462,
+      "lat": 30.517732,
+      "original_ids": [
+        "node/2398309612"
+      ]
+    }
+  }, {
+    "entity_id": "poi_珞珈山综合商店_0",
+    "name": "珞珈山综合商店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.353872,
+      "lat": 30.530158,
+      "original_ids": [
+        "node/9722186835"
+      ]
+    }
+  }, {
+    "entity_id": "poi_球场_0",
+    "name": "球场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.615428,
+      "lat": 30.462051,
+      "original_ids": [
+        "way/751444450"
+      ]
+    }
+  }, {
+    "entity_id": "poi_球场_1",
+    "name": "球场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.616363,
+      "lat": 30.457877,
+      "original_ids": [
+        "way/751444482",
+        "way/751444483",
+        "way/751447844"
+      ]
+    }
+  }, {
+    "entity_id": "poi_璞锦酒店_0",
+    "name": "璞锦酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.412802,
+      "lat": 30.583741,
+      "original_ids": [
+        "way/1052260023"
+      ]
+    }
+  }, {
+    "entity_id": "poi_电子信息与通信学院_0",
+    "name": "电子信息与通信学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.419491,
+      "lat": 30.512718,
+      "original_ids": [
+        "node/13357591184"
+      ]
+    }
+  }, {
+    "entity_id": "poi_白玉公园_0",
+    "name": "白玉公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.485893,
+      "lat": 30.600946,
+      "original_ids": [
+        "way/1222165297"
+      ]
+    }
+  }, {
+    "entity_id": "poi_百货超市_0",
+    "name": "百货超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.431652,
+      "lat": 30.507183,
+      "original_ids": [
+        "way/1033663112"
+      ]
+    }
+  }, {
+    "entity_id": "poi_盒马鲜生_0",
+    "name": "盒马鲜生",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.401009,
+      "lat": 30.504711,
+      "original_ids": [
+        "node/11813294975"
+      ]
+    }
+  }, {
+    "entity_id": "poi_盒马鲜生武汉珞狮路店_0",
+    "name": "盒马鲜生武汉珞狮路店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.345168,
+      "lat": 30.514803,
+      "original_ids": [
+        "node/6467566183"
+      ]
+    }
+  }, {
+    "entity_id": "poi_省纪委花山工作基地_0",
+    "name": "省纪委花山工作基地",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.500241,
+      "lat": 30.534037,
+      "original_ids": [
+        "way/1237805731"
+      ]
+    }
+  }, {
+    "entity_id": "poi_石门峰名人文化公园_0",
+    "name": "石门峰名人文化公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.47292,
+      "lat": 30.517494,
+      "original_ids": [
+        "way/106749309"
+      ]
+    }
+  }, {
+    "entity_id": "poi_社区购物_0",
+    "name": "社区购物",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.320378,
+      "lat": 30.511624,
+      "original_ids": [
+        "way/891405943"
+      ]
+    }
+  }, {
+    "entity_id": "poi_社区超市_0",
+    "name": "社区超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.320698,
+      "lat": 30.510304,
+      "original_ids": [
+        "way/265761623"
+      ]
+    }
+  }, {
+    "entity_id": "poi_科大超市(南园店)_0",
+    "name": "科大超市(南园店)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.258287,
+      "lat": 30.439574,
+      "original_ids": [
+        "node/12757146815"
+      ]
+    }
+  }, {
+    "entity_id": "poi_立得空间_0",
+    "name": "立得空间",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.392455,
+      "lat": 30.45431,
+      "original_ids": [
+        "node/4879541723"
+      ]
+    }
+  }, {
+    "entity_id": "poi_红霞游园_0",
+    "name": "红霞游园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.248015,
+      "lat": 30.425533,
+      "original_ids": [
+        "way/1410514918"
+      ]
+    }
+  }, {
+    "entity_id": "poi_绅宝驾校_0",
+    "name": "绅宝驾校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "driving_school",
+      "lon": 114.379345,
+      "lat": 30.530753,
+      "original_ids": [
+        "way/1493727608"
+      ]
+    }
+  }, {
+    "entity_id": "poi_绅宝驾校总部(官方直营)_0",
+    "name": "绅宝驾校总部(官方直营)",
+    "label": "POI",
+    "properties": {
+      "poi_type": "driving_school",
+      "lon": 114.247845,
+      "lat": 30.43343,
+      "original_ids": [
+        "way/1410514915"
+      ]
+    }
+  }, {
+    "entity_id": "poi_维也纳酒店_0",
+    "name": "维也纳酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.427674,
+      "lat": 30.479747,
+      "original_ids": [
+        "way/1230634430"
+      ]
+    }
+  }, {
+    "entity_id": "poi_维也纳酒店_1",
+    "name": "维也纳酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.347069,
+      "lat": 30.525299,
+      "original_ids": [
+        "node/6001726486"
+      ]
+    }
+  }, {
+    "entity_id": "poi_维佳体验诚_0",
+    "name": "维佳体验诚",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.320706,
+      "lat": 30.503919,
+      "original_ids": [
+        "way/577743425"
+      ]
+    }
+  }, {
+    "entity_id": "poi_维佳佰港城_0",
+    "name": "维佳佰港城",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.320961,
+      "lat": 30.505769,
+      "original_ids": [
+        "way/577743423"
+      ]
+    }
+  }, {
+    "entity_id": "poi_维佳欢乐小镇_0",
+    "name": "维佳欢乐小镇",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.325272,
+      "lat": 30.504865,
+      "original_ids": [
+        "way/612694904"
+      ]
+    }
+  }, {
+    "entity_id": "poi_绿岛小区管委会居民委员会_0",
+    "name": "绿岛小区管委会居民委员会",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.399598,
+      "lat": 30.606569,
+      "original_ids": [
+        "node/13503701841"
+      ]
+    }
+  }, {
+    "entity_id": "poi_美橙酒店_0",
+    "name": "美橙酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.362472,
+      "lat": 30.531357,
+      "original_ids": [
+        "node/13683936218"
+      ]
+    }
+  }, {
+    "entity_id": "poi_群光广场_0",
+    "name": "群光广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.349761,
+      "lat": 30.527561,
+      "original_ids": [
+        "way/113819670"
+      ]
+    }
+  }, {
+    "entity_id": "poi_群光广场二馆_0",
+    "name": "群光广场二馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.351117,
+      "lat": 30.527341,
+      "original_ids": [
+        "way/402879517"
+      ]
+    }
+  }, {
+    "entity_id": "poi_胜利公园_0",
+    "name": "胜利公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.275314,
+      "lat": 30.468541,
+      "original_ids": [
+        "way/997960541"
+      ]
+    }
+  }, {
+    "entity_id": "poi_自强超市_0",
+    "name": "自强超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.3539,
+      "lat": 30.528589,
+      "original_ids": [
+        "node/1369722875"
+      ]
+    }
+  }, {
+    "entity_id": "poi_自强超市_1",
+    "name": "自强超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.354855,
+      "lat": 30.532907,
+      "original_ids": [
+        "node/3401585917"
+      ]
+    }
+  }, {
+    "entity_id": "poi_艾盛酒店_0",
+    "name": "艾盛酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.363061,
+      "lat": 30.531238,
+      "original_ids": [
+        "node/13683936215"
+      ]
+    }
+  }, {
+    "entity_id": "poi_芯片产业学院_0",
+    "name": "芯片产业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.303686,
+      "lat": 30.480636,
+      "original_ids": [
+        "node/11380689237"
+      ]
+    }
+  }, {
+    "entity_id": "poi_花容酒店_0",
+    "name": "花容酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.363167,
+      "lat": 30.531216,
+      "original_ids": [
+        "node/13683936214"
+      ]
+    }
+  }, {
+    "entity_id": "poi_花山生态湿地公园_0",
+    "name": "花山生态湿地公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.492526,
+      "lat": 30.562759,
+      "original_ids": [
+        "way/881425139"
+      ]
+    }
+  }, {
+    "entity_id": "poi_花山碧桂园晶晶幼儿园_0",
+    "name": "花山碧桂园晶晶幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.499308,
+      "lat": 30.550256,
+      "original_ids": [
+        "way/1224006817"
+      ]
+    }
+  }, {
+    "entity_id": "poi_花山郡小学_0",
+    "name": "花山郡小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.486043,
+      "lat": 30.563814,
+      "original_ids": [
+        "way/1224006813"
+      ]
+    }
+  }, {
+    "entity_id": "poi_花山金港汽车主题公园_0",
+    "name": "花山金港汽车主题公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.514678,
+      "lat": 30.555854,
+      "original_ids": [
+        "way/634699556"
+      ]
+    }
+  }, {
+    "entity_id": "poi_荟五教超_0",
+    "name": "荟五教超",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.358743,
+      "lat": 30.475034,
+      "original_ids": [
+        "node/7925663894"
+      ]
+    }
+  }, {
+    "entity_id": "poi_荟十教超_0",
+    "name": "荟十教超",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.358173,
+      "lat": 30.472453,
+      "original_ids": [
+        "node/7925663895"
+      ]
+    }
+  }, {
+    "entity_id": "poi_荣军医院_0",
+    "name": "荣军医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.371868,
+      "lat": 30.508076,
+      "original_ids": [
+        "node/1481938104"
+      ]
+    }
+  }, {
+    "entity_id": "poi_莘莘超市_0",
+    "name": "莘莘超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.387542,
+      "lat": 30.45492,
+      "original_ids": [
+        "node/1143320490"
+      ]
+    }
+  }, {
+    "entity_id": "poi_落雁景区_0",
+    "name": "落雁景区",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.430294,
+      "lat": 30.561784,
+      "original_ids": [
+        "way/1049514779"
+      ]
+    }
+  }, {
+    "entity_id": "poi_蓝迪之星双语幼儿园_0",
+    "name": "蓝迪之星双语幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.371505,
+      "lat": 30.466223,
+      "original_ids": [
+        "way/1349458794"
+      ]
+    }
+  }, {
+    "entity_id": "poi_虎泉医院_0",
+    "name": "虎泉医院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hospital",
+      "lon": 114.363357,
+      "lat": 30.516791,
+      "original_ids": [
+        "way/1495277568"
+      ]
+    }
+  }, {
+    "entity_id": "poi_虎泉时尚中心_0",
+    "name": "虎泉时尚中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.364579,
+      "lat": 30.515856,
+      "original_ids": [
+        "way/1495277627"
+      ]
+    }
+  }, {
+    "entity_id": "poi_西学生超市_0",
+    "name": "西学生超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.401525,
+      "lat": 30.517188,
+      "original_ids": [
+        "way/103813877"
+      ]
+    }
+  }, {
+    "entity_id": "poi_西苑快捷酒店（国交3号楼）_0",
+    "name": "西苑快捷酒店（国交3号楼）",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.344456,
+      "lat": 30.478012,
+      "original_ids": [
+        "node/1124861507"
+      ]
+    }
+  }, {
+    "entity_id": "poi_观水桥_0",
+    "name": "观水桥",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.614364,
+      "lat": 30.460783,
+      "original_ids": [
+        "node/12384699386"
+      ]
+    }
+  }, {
+    "entity_id": "poi_解放军陆军工程大学军械士官学校_0",
+    "name": "解放军陆军工程大学军械士官学校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "university",
+      "lon": 114.461268,
+      "lat": 30.504914,
+      "original_ids": [
+        "way/1190107971"
+      ]
+    }
+  }, {
+    "entity_id": "poi_警官职业学院_0",
+    "name": "警官职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.370197,
+      "lat": 30.506992,
+      "original_ids": [
+        "node/1704397899"
+      ]
+    }
+  }, {
+    "entity_id": "poi_象牙国际青年旅舍_0",
+    "name": "象牙国际青年旅舍",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.35763,
+      "lat": 30.525047,
+      "original_ids": [
+        "node/13685773205"
+      ]
+    }
+  }, {
+    "entity_id": "poi_资源与环境学院_0",
+    "name": "资源与环境学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.353238,
+      "lat": 30.478874,
+      "original_ids": [
+        "node/12047290224"
+      ]
+    }
+  }, {
+    "entity_id": "poi_资源学院_0",
+    "name": "资源学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.394516,
+      "lat": 30.524116,
+      "original_ids": [
+        "way/283789793"
+      ]
+    }
+  }, {
+    "entity_id": "poi_赛诺幼儿园_0",
+    "name": "赛诺幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.487501,
+      "lat": 30.563227,
+      "original_ids": [
+        "way/1224006815"
+      ]
+    }
+  }, {
+    "entity_id": "poi_超市_0",
+    "name": "超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.488389,
+      "lat": 30.476636,
+      "original_ids": [
+        "node/6356447145"
+      ]
+    }
+  }, {
+    "entity_id": "poi_趣住酒店_0",
+    "name": "趣住酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.36258,
+      "lat": 30.531335,
+      "original_ids": [
+        "node/13683936216"
+      ]
+    }
+  }, {
+    "entity_id": "poi_软件学院_0",
+    "name": "软件学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.424873,
+      "lat": 30.511388,
+      "original_ids": [
+        "node/13360728740"
+      ]
+    }
+  }, {
+    "entity_id": "poi_通山县人民政府驻武汉办事处_0",
+    "name": "通山县人民政府驻武汉办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_government",
+      "lon": 114.350545,
+      "lat": 30.533051,
+      "original_ids": [
+        "node/13675835013"
+      ]
+    }
+  }, {
+    "entity_id": "poi_邮科院生活超市_0",
+    "name": "邮科院生活超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.387831,
+      "lat": 30.523428,
+      "original_ids": [
+        "node/13690186306"
+      ]
+    }
+  }, {
+    "entity_id": "poi_金东方利加华庭幼儿园_0",
+    "name": "金东方利加华庭幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.403005,
+      "lat": 30.62449,
+      "original_ids": [
+        "way/1324262450"
+      ]
+    }
+  }, {
+    "entity_id": "poi_金地天悦幼儿园_0",
+    "name": "金地天悦幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.385561,
+      "lat": 30.49495,
+      "original_ids": [
+        "way/1234545310"
+      ]
+    }
+  }, {
+    "entity_id": "poi_金泰酒店_0",
+    "name": "金泰酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.399819,
+      "lat": 30.49942,
+      "original_ids": [
+        "way/1230655618"
+      ]
+    }
+  }, {
+    "entity_id": "poi_金色摇篮幼儿园_0",
+    "name": "金色摇篮幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.612098,
+      "lat": 30.497056,
+      "original_ids": [
+        "way/1149842827"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鑫马家居_0",
+    "name": "鑫马家居",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.37695,
+      "lat": 30.51765,
+      "original_ids": [
+        "way/111973539"
+      ]
+    }
+  }, {
+    "entity_id": "poi_银泰创意城_0",
+    "name": "银泰创意城",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.351033,
+      "lat": 30.528778,
+      "original_ids": [
+        "way/306407533"
+      ]
+    }
+  }, {
+    "entity_id": "poi_锦江之星品尚_0",
+    "name": "锦江之星品尚",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.357144,
+      "lat": 30.526431,
+      "original_ids": [
+        "node/13680737139"
+      ]
+    }
+  }, {
+    "entity_id": "poi_长江崇文广场_0",
+    "name": "长江崇文广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.337056,
+      "lat": 30.512399,
+      "original_ids": [
+        "way/267929681"
+      ]
+    }
+  }, {
+    "entity_id": "poi_长江职业学院_0",
+    "name": "长江职业学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.390308,
+      "lat": 30.499213,
+      "original_ids": [
+        "way/1234545311",
+        "node/2418522275"
+      ]
+    }
+  }, {
+    "entity_id": "poi_长江职业技术学院_0",
+    "name": "长江职业技术学院",
+    "label": "POI",
+    "properties": {
+      "poi_type": "college",
+      "lon": 114.323557,
+      "lat": 30.491401,
+      "original_ids": [
+        "way/1238493953"
+      ]
+    }
+  }, {
+    "entity_id": "poi_雄楚国际_0",
+    "name": "雄楚国际",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.35581,
+      "lat": 30.512356,
+      "original_ids": [
+        "node/1481899348"
+      ]
+    }
+  }, {
+    "entity_id": "poi_雄楚国际大酒店_0",
+    "name": "雄楚国际大酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.355764,
+      "lat": 30.512553,
+      "original_ids": [
+        "way/1270636736"
+      ]
+    }
+  }, {
+    "entity_id": "poi_雅思春晓幼儿园_0",
+    "name": "雅思春晓幼儿园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "kindergarten",
+      "lon": 114.407596,
+      "lat": 30.49087,
+      "original_ids": [
+        "way/680541251"
+      ]
+    }
+  }, {
+    "entity_id": "poi_雅斯特酒店_0",
+    "name": "雅斯特酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.369078,
+      "lat": 30.520843,
+      "original_ids": [
+        "node/13670591442"
+      ]
+    }
+  }, {
+    "entity_id": "poi_零小慧_0",
+    "name": "零小慧",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.390604,
+      "lat": 30.524522,
+      "original_ids": [
+        "way/1462095270"
+      ]
+    }
+  }, {
+    "entity_id": "poi_青年园_0",
+    "name": "青年园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.403929,
+      "lat": 30.515029,
+      "original_ids": [
+        "relation/14428307"
+      ]
+    }
+  }, {
+    "entity_id": "poi_青舍酒店_0",
+    "name": "青舍酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.324958,
+      "lat": 30.504087,
+      "original_ids": [
+        "way/612695237"
+      ]
+    }
+  }, {
+    "entity_id": "poi_青菱街道办事处_0",
+    "name": "青菱街道办事处",
+    "label": "POI",
+    "properties": {
+      "poi_type": "townhall",
+      "lon": 114.247733,
+      "lat": 30.461776,
+      "original_ids": [
+        "node/13484953624"
+      ]
+    }
+  }, {
+    "entity_id": "poi_韵湖公园_0",
+    "name": "韵湖公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.373156,
+      "lat": 30.456132,
+      "original_ids": [
+        "way/936521189"
+      ]
+    }
+  }, {
+    "entity_id": "poi_韵苑学生服务中心_0",
+    "name": "韵苑学生服务中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.426508,
+      "lat": 30.516742,
+      "original_ids": [
+        "node/1124764146"
+      ]
+    }
+  }, {
+    "entity_id": "poi_马房山中学_0",
+    "name": "马房山中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.34613,
+      "lat": 30.518354,
+      "original_ids": [
+        "node/1144975785"
+      ]
+    }
+  }, {
+    "entity_id": "poi_骆驼集团研发中心_0",
+    "name": "骆驼集团研发中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "office_company",
+      "lon": 114.594083,
+      "lat": 30.498824,
+      "original_ids": [
+        "way/1135390494"
+      ]
+    }
+  }, {
+    "entity_id": "poi_高知民宿_0",
+    "name": "高知民宿",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.362963,
+      "lat": 30.531258,
+      "original_ids": [
+        "node/13683936220"
+      ]
+    }
+  }, {
+    "entity_id": "poi_高飞超市_0",
+    "name": "高飞超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.393849,
+      "lat": 30.456789,
+      "original_ids": [
+        "node/3664538681"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鲁巷中学_0",
+    "name": "鲁巷中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.388487,
+      "lat": 30.505021,
+      "original_ids": [
+        "way/109364191"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鲁巷实验小学_0",
+    "name": "鲁巷实验小学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.391154,
+      "lat": 30.506706,
+      "original_ids": [
+        "way/109364189"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鲁巷小学一分校_0",
+    "name": "鲁巷小学一分校",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.380482,
+      "lat": 30.501324,
+      "original_ids": [
+        "way/466901598"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鲁巷广场购物中心_0",
+    "name": "鲁巷广场购物中心",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.390526,
+      "lat": 30.508533,
+      "original_ids": [
+        "way/112937194"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鲁广超市_0",
+    "name": "鲁广超市",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.38984,
+      "lat": 30.509706,
+      "original_ids": [
+        "node/1290500921"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鸡公山公园_0",
+    "name": "鸡公山公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.48435,
+      "lat": 30.493537,
+      "original_ids": [
+        "way/963261781"
+      ]
+    }
+  }, {
+    "entity_id": "poi_鹿居六舍_0",
+    "name": "鹿居六舍",
+    "label": "POI",
+    "properties": {
+      "poi_type": "guest_house",
+      "lon": 114.432474,
+      "lat": 30.521633,
+      "original_ids": [
+        "node/13669030200"
+      ]
+    }
+  }, {
+    "entity_id": "poi_麗枫酒店_0",
+    "name": "麗枫酒店",
+    "label": "POI",
+    "properties": {
+      "poi_type": "hotel",
+      "lon": 114.358502,
+      "lat": 30.52369,
+      "original_ids": [
+        "node/13685773398"
+      ]
+    }
+  }, {
+    "entity_id": "poi_黄家湖中学_0",
+    "name": "黄家湖中学",
+    "label": "POI",
+    "properties": {
+      "poi_type": "school",
+      "lon": 114.250351,
+      "lat": 30.430772,
+      "original_ids": [
+        "way/1410514916"
+      ]
+    }
+  }, {
+    "entity_id": "poi_黄龙山公园_0",
+    "name": "黄龙山公园",
+    "label": "POI",
+    "properties": {
+      "poi_type": "park",
+      "lon": 114.432944,
+      "lat": 30.47159,
+      "original_ids": [
+        "way/1262905622"
+      ]
+    }
+  }, {
+    "entity_id": "poi_龙湖白沙天街A馆_0",
+    "name": "龙湖白沙天街A馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.28666,
+      "lat": 30.479188,
+      "original_ids": [
+        "way/1390462403"
+      ]
+    }
+  }, {
+    "entity_id": "poi_龙湖白沙天街B馆_0",
+    "name": "龙湖白沙天街B馆",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.282779,
+      "lat": 30.481189,
+      "original_ids": [
+        "way/1088641227"
+      ]
+    }
+  }, {
+    "entity_id": "poi_龙阳康佳建材广场_0",
+    "name": "龙阳康佳建材广场",
+    "label": "POI",
+    "properties": {
+      "poi_type": "shopping_mall",
+      "lon": 114.361568,
+      "lat": 30.509116,
+      "original_ids": [
+        "node/1481934119"
+      ]
+    }
+  }]

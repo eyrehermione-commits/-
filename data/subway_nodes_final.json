@@ -1,0 +1,230 @@
+[{
+    "entity_id": "subway_19号线_0",
+    "name": "19号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "新月溪公园 <-> 武汉站西广场",
+      "lon": 114.473965,
+      "lat": 30.550564,
+      "original_ids": [
+        "way/1122232316"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁11号线_1",
+    "name": "武汉地铁11号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "左岭 <-> 武汉东站",
+      "lon": 114.423511,
+      "lat": 30.506255,
+      "original_ids": [
+        "way/492930473",
+        "way/629313298",
+        "way/763528079",
+        "way/1148725873"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁2号线_2",
+    "name": "武汉地铁2号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "街道口 <-> 黄龙山路",
+      "lon": 114.398608,
+      "lat": 30.494113,
+      "original_ids": [
+        "way/264411349",
+        "way/674169519"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁4号线_3",
+    "name": "武汉地铁4号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "铁机路 <-> 武汉火车站",
+      "lon": 114.370592,
+      "lat": 30.587098,
+      "original_ids": [
+        "way/464206364",
+        "way/856426129",
+        "way/856426130",
+        "way/1123363790"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁5号线_4",
+    "name": "武汉地铁5号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "张家湾 <-> 厂前",
+      "lon": 114.32079,
+      "lat": 30.542553,
+      "original_ids": [
+        "way/628891135",
+        "way/840451858",
+        "way/840451862",
+        "way/849776486",
+        "way/1018311433",
+        "way/1018818090",
+        "way/1121137700",
+        "way/1121137701",
+        "way/1147496168",
+        "way/1147496169",
+        "way/1147496170",
+        "way/1147496171",
+        "way/1389231762",
+        "way/1389231763"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁7号线_5",
+    "name": "武汉地铁7号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "湖工大 <-> 新路村",
+      "lon": 114.315184,
+      "lat": 30.461332,
+      "original_ids": [
+        "way/551384806",
+        "way/1046428817",
+        "way/1065208492",
+        "way/1065208493",
+        "way/1149561898"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉地铁8号线_6",
+    "name": "武汉地铁8号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "野芷湖 <-> 文治街",
+      "lon": 114.323895,
+      "lat": 30.537414,
+      "original_ids": [
+        "way/664320500",
+        "way/815934770",
+        "way/815934771",
+        "way/1302343776"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉轨道交通12号线(建设中)_7",
+    "name": "武汉轨道交通12号线(建设中)",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "夹套河 <-> 园林路",
+      "lon": 114.290074,
+      "lat": 30.53136,
+      "original_ids": [
+        "way/629632656",
+        "way/1509766480"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉轨道交通5号线_8",
+    "name": "武汉轨道交通5号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "未知方向（站点数据不足）",
+      "lon": 114.265135,
+      "lat": 30.460695,
+      "original_ids": [
+        "way/925439279"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武汉轨道交通四号线_9",
+    "name": "武汉轨道交通四号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "未知方向（站点数据不足）",
+      "lon": 114.42829,
+      "lat": 30.603827,
+      "original_ids": [
+        "way/403790808"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武漢地鐵11號線_10",
+    "name": "武漢地鐵11號線",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "武汉东站 <-> 左岭",
+      "lon": 114.539706,
+      "lat": 30.4897,
+      "original_ids": [
+        "way/1124577301"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武漢地鐵12號線_(建設中)_11",
+    "name": "武漢地鐵12號線 (建設中)",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "富安街 <-> 汪家墩",
+      "lon": 114.285605,
+      "lat": 30.531037,
+      "original_ids": [
+        "way/1128851776",
+        "way/1508783347"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武漢地鐵19號線_12",
+    "name": "武漢地鐵19號線",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "武汉站西广场 <-> 新月溪公园",
+      "lon": 114.473954,
+      "lat": 30.550662,
+      "original_ids": [
+        "way/849775272",
+        "way/1121141551",
+        "way/1236017179",
+        "way/1236017180"
+      ]
+    }
+  }, {
+    "entity_id": "subway_武漢地鐵5號線二期_13",
+    "name": "武漢地鐵5號線二期",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "未知方向（站点数据不足）",
+      "lon": 114.256268,
+      "lat": 30.431472,
+      "original_ids": [
+        "way/1228805473",
+        "way/1228805474"
+      ]
+    }
+  }, {
+    "entity_id": "subway_轨道交通19号线_14",
+    "name": "轨道交通19号线",
+    "label": "Subway",
+    "properties": {
+      "railway": "subway",
+      "direction": "未知方向（站点数据不足）",
+      "lon": 114.497421,
+      "lat": 30.467368,
+      "original_ids": [
+        "way/1236017177",
+        "way/1236017178"
+      ]
+    }
+  }]

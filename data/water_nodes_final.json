@@ -1,0 +1,459 @@
+[{
+    "entity_id": "water_东九湖_0",
+    "name": "东九湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.422856,
+      "lat": 30.514749,
+      "original_ids": [
+        "relation/13705236"
+      ]
+    }
+  }, {
+    "entity_id": "water_东湖_0",
+    "name": "东湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.39968,
+      "lat": 30.559051,
+      "original_ids": [
+        "relation/20174744"
+      ]
+    }
+  }, {
+    "entity_id": "water_严东湖_0",
+    "name": "严东湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.551754,
+      "lat": 30.539327,
+      "original_ids": [
+        "relation/14679427"
+      ]
+    }
+  }, {
+    "entity_id": "water_乌龙潭_0",
+    "name": "乌龙潭",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.429792,
+      "lat": 30.560083,
+      "original_ids": [
+        "way/1049514778"
+      ]
+    }
+  }, {
+    "entity_id": "water_云水湖_0",
+    "name": "云水湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.374934,
+      "lat": 30.47407,
+      "original_ids": [
+        "way/247043762",
+        "way/443330628",
+        "way/443330629"
+      ]
+    }
+  }, {
+    "entity_id": "water_南湖_0",
+    "name": "南湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.359463,
+      "lat": 30.489372,
+      "original_ids": [
+        "relation/10811688"
+      ]
+    }
+  }, {
+    "entity_id": "water_博雅湖_0",
+    "name": "博雅湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.384353,
+      "lat": 30.455768,
+      "original_ids": [
+        "way/102802164"
+      ]
+    }
+  }, {
+    "entity_id": "water_博雅湖_1",
+    "name": "博雅湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.385663,
+      "lat": 30.455768,
+      "original_ids": [
+        "way/102802172"
+      ]
+    }
+  }, {
+    "entity_id": "water_后湖_0",
+    "name": "后湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.435886,
+      "lat": 30.540243,
+      "original_ids": [
+        "relation/20174961"
+      ]
+    }
+  }, {
+    "entity_id": "water_喻家湖_0",
+    "name": "喻家湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.426212,
+      "lat": 30.525414,
+      "original_ids": [
+        "relation/20203998"
+      ]
+    }
+  }, {
+    "entity_id": "water_嚴東湖_0",
+    "name": "嚴東湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.579075,
+      "lat": 30.533956,
+      "original_ids": [
+        "way/77762226"
+      ]
+    }
+  }, {
+    "entity_id": "water_庙湖_0",
+    "name": "庙湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.376909,
+      "lat": 30.526513,
+      "original_ids": [
+        "relation/20174962"
+      ]
+    }
+  }, {
+    "entity_id": "water_星湖_0",
+    "name": "星湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.3541,
+      "lat": 30.529592,
+      "original_ids": [
+        "way/295111844"
+      ]
+    }
+  }, {
+    "entity_id": "water_杨春湖_0",
+    "name": "杨春湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.413835,
+      "lat": 30.616703,
+      "original_ids": [
+        "way/640492929"
+      ]
+    }
+  }, {
+    "entity_id": "water_池塘_0",
+    "name": "池塘",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.404851,
+      "lat": 30.457771,
+      "original_ids": [
+        "way/635710085"
+      ]
+    }
+  }, {
+    "entity_id": "water_汤菱湖_0",
+    "name": "汤菱湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.39872,
+      "lat": 30.579249,
+      "original_ids": [
+        "relation/1687983"
+      ]
+    }
+  }, {
+    "entity_id": "water_汤逊湖_0",
+    "name": "汤逊湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.355373,
+      "lat": 30.422726,
+      "original_ids": [
+        "relation/14515078"
+      ]
+    }
+  }, {
+    "entity_id": "water_沁湖_0",
+    "name": "沁湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.26426,
+      "lat": 30.442638,
+      "original_ids": [
+        "way/478222399"
+      ]
+    }
+  }, {
+    "entity_id": "water_筲箕湖_0",
+    "name": "筲箕湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.383095,
+      "lat": 30.586573,
+      "original_ids": [
+        "relation/20174963"
+      ]
+    }
+  }, {
+    "entity_id": "water_翠池_0",
+    "name": "翠池",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.399332,
+      "lat": 30.520756,
+      "original_ids": [
+        "way/301209101"
+      ]
+    }
+  }, {
+    "entity_id": "water_花山河_0",
+    "name": "花山河",
+    "label": "Water",
+    "properties": {
+      "water_type": "river",
+      "lon": 114.499581,
+      "lat": 30.541195,
+      "original_ids": [
+        "way/1224004678"
+      ]
+    }
+  }, {
+    "entity_id": "water_荷韵塘_0",
+    "name": "荷韵塘",
+    "label": "Water",
+    "properties": {
+      "water_type": "basin",
+      "lon": 114.392565,
+      "lat": 30.525069,
+      "original_ids": [
+        "way/1463173438"
+      ]
+    }
+  }, {
+    "entity_id": "water_落雁湖_0",
+    "name": "落雁湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.418751,
+      "lat": 30.561597,
+      "original_ids": [
+        "relation/1687984"
+      ]
+    }
+  }, {
+    "entity_id": "water_车墩湖_0",
+    "name": "车墩湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.621215,
+      "lat": 30.47847,
+      "original_ids": [
+        "relation/17003589"
+      ]
+    }
+  }, {
+    "entity_id": "water_连心湖_0",
+    "name": "连心湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.260344,
+      "lat": 30.429481,
+      "original_ids": [
+        "way/404530010"
+      ]
+    }
+  }, {
+    "entity_id": "water_郭郑湖_0",
+    "name": "郭郑湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.379774,
+      "lat": 30.55721,
+      "original_ids": [
+        "relation/11685590"
+      ]
+    }
+  }, {
+    "entity_id": "water_野湖_0",
+    "name": "野湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.212073,
+      "lat": 30.391536,
+      "original_ids": [
+        "way/116598918"
+      ]
+    }
+  }, {
+    "entity_id": "water_野芷湖_0",
+    "name": "野芷湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.33466,
+      "lat": 30.469742,
+      "original_ids": [
+        "relation/10811685"
+      ]
+    }
+  }, {
+    "entity_id": "water_野芷湖_1",
+    "name": "野芷湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.313058,
+      "lat": 30.462264,
+      "original_ids": [
+        "way/1409408627"
+      ]
+    }
+  }, {
+    "entity_id": "water_野芷湖_2",
+    "name": "野芷湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.317113,
+      "lat": 30.462184,
+      "original_ids": [
+        "way/1409408628"
+      ]
+    }
+  }, {
+    "entity_id": "water_镜湖_0",
+    "name": "镜湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.613503,
+      "lat": 30.460049,
+      "original_ids": [
+        "way/942312807"
+      ]
+    }
+  }, {
+    "entity_id": "water_镜湖东塘_0",
+    "name": "镜湖东塘",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.411961,
+      "lat": 30.512531,
+      "original_ids": [
+        "way/103495730"
+      ]
+    }
+  }, {
+    "entity_id": "water_镜湖西塘_0",
+    "name": "镜湖西塘",
+    "label": "Water",
+    "properties": {
+      "water_type": "pond",
+      "lon": 114.410843,
+      "lat": 30.512896,
+      "original_ids": [
+        "relation/13709657"
+      ]
+    }
+  }, {
+    "entity_id": "water_青菱湖_0",
+    "name": "青菱湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.236658,
+      "lat": 30.427298,
+      "original_ids": [
+        "way/70175321"
+      ]
+    }
+  }, {
+    "entity_id": "water_韵湖_0",
+    "name": "韵湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.372691,
+      "lat": 30.455861,
+      "original_ids": [
+        "way/1123774409"
+      ]
+    }
+  }, {
+    "entity_id": "water_马驿水库_0",
+    "name": "马驿水库",
+    "label": "Water",
+    "properties": {
+      "water_type": "reservoir",
+      "lon": 114.500493,
+      "lat": 30.505916,
+      "original_ids": [
+        "way/160308622"
+      ]
+    }
+  }, {
+    "entity_id": "water_黄家湖_0",
+    "name": "黄家湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake",
+      "lon": 114.276158,
+      "lat": 30.439251,
+      "original_ids": [
+        "way/116598936"
+      ]
+    }
+  }, {
+    "entity_id": "water_龙韵湖_0",
+    "name": "龙韵湖",
+    "label": "Water",
+    "properties": {
+      "water_type": "lake;pond",
+      "lon": 114.32873,
+      "lat": 30.514981,
+      "original_ids": [
+        "way/240079599"
+      ]
+    }
+  }]
